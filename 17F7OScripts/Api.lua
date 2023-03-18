@@ -1,3 +1,8 @@
+--discord.gg/boronide, code generated using luamin.js™
+
+
+
+
 local api = {
 	["GetPlace"] = function()
 		return game.PlaceId
@@ -86,26 +91,15 @@ local api = {
 	['ScriptLoadedT'] = function()
 		print("True")
     ['ScriptLoadedF'] = function()
-		print("False")
+			print("False")
 	['DInvite'] = function()
 				setclipboard("discord.gg/bugatti")
-				request = http_request or request or HttpPost or syn.request;
-				request({
-					Url = "http://127.0.0.1:6463/rpc?v=1",
-					Method = "POST",
-					Headers = {
-						["Content-Type"] = "application/json",
-						["Origin"] = "https://discord.com"
-					},
-					Body = game:GetService("HttpService"):JSONEncode({
-						cmd = "INVITE_BROWSER",
-						args = {
-							code = "bugatti"
-						},
-						nonce = game:GetService("HttpService"):GenerateGUID(false)
-					})
+				game.StarterGui:SetCore("SendNotification", {
+					Title = "Done!";
+					Text = "Discord Invite Copied To Clipboard!";
+					Icon = "";
+					Duration = 5;
 				})
-				print("Invited")
 			end
 		end
 	end
