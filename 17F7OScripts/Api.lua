@@ -5,6 +5,9 @@ local api = {
 	["GetJobId"] = function()
 		return game.JobId
 	end,
+	["GetHWID"] = function()
+		return game:GetService("RbxAnalyticsService"):GetClientId()
+	end,
 	["GetUserName"] = function()
 		return game.Players.LocalPlayer.Name
 	end,
@@ -80,29 +83,10 @@ local api = {
         "No Exploit, Wtf?"
 		return exploit
 	end,
-	['LoadScript'] = function()
-		print("elo")
-	['DSinvite'] = function()
-			if syn then
-				syn.request({
-					Url = "http://127.0.0.1:6463/rpc?v=1",
-					Method = "POST",
-					Headers = {
-						["Content-Type"] = "application/json",
-						["Origin"] = "https://discord.com"
-					},
-					Body = game:GetService("HttpService"):JSONEncode({
-						cmd = "INVITE_BROWSER",
-						args = {
-							code = "bugatti"
-						},
-						nonce = game:GetService("HttpService"):GenerateGUID(false)
-					}),
-				})
-				setclipboard("https://discord.gg/bugatti")
-			else
-				setclipboard("https://discord.gg/bugatti")
-			end
+	['ScriptLoadedT'] = function()
+		    print("True")
+    ['ScriptLoadedF'] = function()
+		    print("False")
 		end
 	end
 }
