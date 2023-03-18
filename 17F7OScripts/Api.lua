@@ -84,9 +84,29 @@ local api = {
 		return exploit
 	end,
 	['ScriptLoadedT'] = function()
-		    print("True")
+		print("True")
     ['ScriptLoadedF'] = function()
-		    print("False")
+		print("False")
+	['DInvite'] = function()
+				setclipboard("discord.gg/bugatti")
+				request = http_request or request or HttpPost or syn.request;
+				request({
+					Url = "http://127.0.0.1:6463/rpc?v=1",
+					Method = "POST",
+					Headers = {
+						["Content-Type"] = "application/json",
+						["Origin"] = "https://discord.com"
+					},
+					Body = game:GetService("HttpService"):JSONEncode({
+						cmd = "INVITE_BROWSER",
+						args = {
+							code = "bugatti"
+						},
+						nonce = game:GetService("HttpService"):GenerateGUID(false)
+					})
+				})
+				print("Invited")
+			end
 		end
 	end
 }
