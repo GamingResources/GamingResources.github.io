@@ -1,8 +1,3 @@
---discord.gg/boronide, code generated using luamin.js™
-
-
-
-
 local api = {
 	["GetPlace"] = function()
 		return game.PlaceId
