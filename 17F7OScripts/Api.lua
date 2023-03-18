@@ -53,13 +53,13 @@ local api = {
 	["GetBlacklist"] = function()
 		if syn then
 			if game.Players.LocalPlayer.UserId == 1 then
-				game:ShutDown()
+				game:Shutdown()
 			elseif game.Players.LocalPlayer.UserId == 2 then 
-				game:ShutDown()
+				game:Shutdown()
 			elseif game.Players.LocalPlayer.UserId == 3 then 
-				game:ShutDown()
+				game:Shutdown()
 			elseif game.Players.LocalPlayer.UserId == 4 then 
-				game:ShutDown()
+				game:Shutdown()
 			end
 		end
 	end,
