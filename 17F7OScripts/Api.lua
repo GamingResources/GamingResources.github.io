@@ -12,7 +12,7 @@ local api = {
 		return game.Players.LocalPlayer.Name
 	end,
 	["GetUserId"] = function()
-		return game.Players.LocalPlayer.userId
+		return game.Players.LocalPlayer.UserId
 	end,
 	["ReadFile"] = function(foldername, filename)
 		if readfile and writefile then
