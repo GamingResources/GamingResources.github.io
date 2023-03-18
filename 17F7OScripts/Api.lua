@@ -52,13 +52,13 @@ local api = {
 	end,
 	["GetBlacklist"] = function()
 		if syn then
-			if game.Players.LocalPlayer.userId == 1 then
+			if game.Players.LocalPlayer.UserId == 1 then
 				game:ShutDown()
-			elseif game.Players.LocalPlayer.userId == 2 then 
+			elseif game.Players.LocalPlayer.UserId == 2 then 
 				game:ShutDown()
-			elseif game.Players.LocalPlayer.userId == 3 then 
+			elseif game.Players.LocalPlayer.UserId == 3 then 
 				game:ShutDown()
-			elseif game.Players.LocalPlayer.userId == 4 then 
+			elseif game.Players.LocalPlayer.UserId == 4 then 
 				game:ShutDown()
 			end
 		end
@@ -84,18 +84,9 @@ local api = {
 		return exploit
 	end,
 	['ScriptLoadedT'] = function()
-		print("True")
-    ['ScriptLoadedF'] = function()
+		    print("True")
+        ['ScriptLoadedF'] = function()
 			print("False")
-	['DInvite'] = function()
-				setclipboard("discord.gg/bugatti")
-				game.StarterGui:SetCore("SendNotification", {
-					Title = "Done!";
-					Text = "Discord Invite Copied To Clipboard!";
-					Icon = "";
-					Duration = 5;
-				})
-			end
 		end
 	end
 }
