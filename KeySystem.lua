@@ -31,7 +31,7 @@ AztupBrew(Fork of IronBrew2): obfuscation; Version 2.7.2
 
 -- 77fuscator 0.3.6
 
--- discord.gg/boronide, code generated using luamin.js™
+-- discord.gg/boronide, code generated using luamin.js
 
 -- Boronide Premium Obfuscation, v0.6.4
 
