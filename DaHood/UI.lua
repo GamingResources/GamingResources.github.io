@@ -1,1 +1,1766 @@
-local a={}local function b()local a={}local function b()local function a()local a={UIObjects=Instance.new("Folder"),Cheats=Instance.new("Folder"),Button=Instance.new("Frame"),UICorner=Instance.new("UICorner"),DropShadowHolder=Instance.new("Frame"),DropShadow=Instance.new("ImageLabel"),Text=Instance.new("TextLabel"),HoverFrame=Instance.new("Frame"),UICorner_2=Instance.new("UICorner"),Checkbox=Instance.new("Frame"),UIAspectRatioConstraint=Instance.new("UIAspectRatioConstraint"),Selection=Instance.new("Frame"),UICorner_3=Instance.new("UICorner"),UIGradient=Instance.new("UIGradient"),HoverFrame_2=Instance.new("Frame"),UICorner_4=Instance.new("UICorner"),Toggle=Instance.new("Frame"),UIPadding=Instance.new("UIPadding"),UIGradient_2=Instance.new("UIGradient"),UICorner_5=Instance.new("UICorner"),DropShadowHolder_2=Instance.new("Frame"),DropShadow_2=Instance.new("ImageLabel"),Content=Instance.new("Frame"),Frame=Instance.new("Frame"),UICorner_6=Instance.new("UICorner"),UIAspectRatioConstraint_2=Instance.new("UIAspectRatioConstraint"),HoverFrame_3=Instance.new("Frame"),UIPadding_2=Instance.new("UIPadding"),UIGradient_3=Instance.new("UIGradient"),UICorner_7=Instance.new("UICorner"),Textbox=Instance.new("Frame"),DropShadowHolder_3=Instance.new("Frame"),DropShadow_3=Instance.new("ImageLabel"),UICorner_8=Instance.new("UICorner"),Text_2=Instance.new("TextBox"),UITextSizeConstraint=Instance.new("UITextSizeConstraint"),Keybind=Instance.new("Frame"),UICorner_9=Instance.new("UICorner"),DropShadowHolder_4=Instance.new("Frame"),DropShadow_4=Instance.new("ImageLabel"),Text_3=Instance.new("TextLabel"),HoverFrame_4=Instance.new("Frame"),UICorner_10=Instance.new("UICorner"),ColorPicker=Instance.new("Frame"),UIListLayout=Instance.new("UIListLayout"),Text_4=Instance.new("ImageLabel"),DropShadowHolder_5=Instance.new("Frame"),DropShadow_5=Instance.new("ImageLabel"),Label=Instance.new("TextBox"),Preview=Instance.new("ImageButton"),DropShadowHolder_6=Instance.new("Frame"),DropShadow_6=Instance.new("ImageLabel"),UIAspectRatioConstraint_3=Instance.new("UIAspectRatioConstraint"),Hover=Instance.new("ImageLabel"),Slider=Instance.new("Frame"),Drag=Instance.new("Frame"),UICorner_11=Instance.new("UICorner"),Frame_2=Instance.new("Frame"),UICorner_12=Instance.new("UICorner"),UIGradient_4=Instance.new("UIGradient"),UIListLayout_2=Instance.new("UIListLayout"),KeyInput=Instance.new("Frame"),UICorner_13=Instance.new("UICorner"),DropShadowHolder_7=Instance.new("Frame"),DropShadow_7=Instance.new("ImageLabel"),Text_5=Instance.new("TextBox"),UIListLayout_3=Instance.new("UIListLayout"),Dropdown=Instance.new("Frame"),MainHolder=Instance.new("Frame"),UICorner_14=Instance.new("UICorner"),DropShadowHolder_8=Instance.new("Frame"),DropShadow_8=Instance.new("ImageLabel"),Content_2=Instance.new("Frame"),Text_6=Instance.new("TextLabel"),UITextSizeConstraint_2=Instance.new("UITextSizeConstraint"),UIPadding_3=Instance.new("UIPadding"),UIListLayout_4=Instance.new("UIListLayout"),Icon=Instance.new("Frame"),UIAspectRatioConstraint_4=Instance.new("UIAspectRatioConstraint"),Holder=Instance.new("Frame"),Icon_2=Instance.new("ImageLabel"),UIAspectRatioConstraint_5=Instance.new("UIAspectRatioConstraint"),UIListLayout_5=Instance.new("UIListLayout"),OptionHolder=Instance.new("Frame"),Cover=Instance.new("Frame"),DropShadow_9=Instance.new("ImageLabel"),UICorner_15=Instance.new("UICorner"),UIPadding_4=Instance.new("UIPadding"),UICorner_16=Instance.new("UICorner"),ContentHolder=Instance.new("Frame"),Content_3=Instance.new("ScrollingFrame"),UIListLayout_6=Instance.new("UIListLayout"),Bottom=Instance.new("ImageButton"),Current=Instance.new("TextLabel"),Select=Instance.new("ImageLabel"),Slot=Instance.new("ImageButton"),Line=Instance.new("Frame"),Select_2=Instance.new("ImageLabel"),Current_2=Instance.new("TextLabel"),Top=Instance.new("ImageButton"),Line_2=Instance.new("Frame"),Select_3=Instance.new("ImageLabel"),Current_3=Instance.new("TextLabel"),Objects=Instance.new("Folder"),Category=Instance.new("Frame"),HoverFrame_5=Instance.new("Frame"),Content_4=Instance.new("Frame"),Image=Instance.new("ImageLabel"),UIAspectRatioConstraint_6=Instance.new("UIAspectRatioConstraint"),Title=Instance.new("TextLabel"),UITextSizeConstraint_3=Instance.new("UITextSizeConstraint"),UIListLayout_7=Instance.new("UIListLayout"),CategoryContent=Instance.new("Frame"),Bar2Holder=Instance.new("Frame"),UIListLayout_8=Instance.new("UIListLayout"),UIListLayout_9=Instance.new("UIListLayout"),UIPadding_5=Instance.new("UIPadding"),Window=Instance.new("Frame"),Watermark=Instance.new("TextLabel"),UIPadding_6=Instance.new("UIPadding"),MainUI=Instance.new("Frame"),DropShadowHolder_9=Instance.new("Frame"),DropShadow_10=Instance.new("ImageLabel"),UICorner_17=Instance.new("UICorner"),Sidebar=Instance.new("Frame"),ContentHolder_2=Instance.new("Frame"),UserInfo=Instance.new("Frame"),Content_5=Instance.new("Frame"),Rank=Instance.new("TextLabel"),UIPadding_7=Instance.new("UIPadding"),UIListLayout_10=Instance.new("UIListLayout"),Title_2=Instance.new("TextLabel"),Line_3=Instance.new("Frame"),Fill=Instance.new("ImageLabel"),Texture=Instance.new("ImageLabel"),UIListLayout_11=Instance.new("UIListLayout"),Cheats_2=Instance.new("Frame"),UIListLayout_12=Instance.new("UIListLayout"),UIPadding_8=Instance.new("UIPadding"),Logo=Instance.new("ImageLabel"),UIGradient_5=Instance.new("UIGradient"),CheatHolder=Instance.new("Frame"),UIListLayout_13=Instance.new("UIListLayout"),Fill_2=Instance.new("ImageLabel"),DivLine=Instance.new("Frame"),Tab2=Instance.new("ImageLabel"),Shadow=Instance.new("Frame"),UIGradient_6=Instance.new("UIGradient"),Sidebar2=Instance.new("Frame"),UIAspectRatioConstraint_7=Instance.new("UIAspectRatioConstraint"),ColorPickerOverlay=Instance.new("ImageButton"),Content_6=Instance.new("Frame"),MainWindow=Instance.new("Frame"),Wheel=Instance.new("ImageLabel"),Hitbox=Instance.new("ImageButton"),Shadow_2=Instance.new("ImageLabel"),UIAspectRatioConstraint_8=Instance.new("UIAspectRatioConstraint"),Pointer=Instance.new("ImageLabel"),UIListLayout_14=Instance.new("UIListLayout"),Saturation=Instance.new("ImageLabel"),DropShadowHolder_10=Instance.new("Frame"),DropShadow_11=Instance.new("ImageLabel"),Pointer_2=Instance.new("ImageLabel"),UIGradient_7=Instance.new("UIGradient"),Hitbox_2=Instance.new("ImageButton"),UIListLayout_15=Instance.new("UIListLayout"),ClrDisplay=Instance.new("Frame"),UIListLayout_16=Instance.new("UIListLayout"),RGB=Instance.new("ImageLabel"),Textbox_2=Instance.new("TextLabel"),DropShadowHolder_11=Instance.new("Frame"),DropShadow_12=Instance.new("ImageLabel"),Header=Instance.new("TextLabel"),Hex=Instance.new("ImageLabel"),DropShadowHolder_12=Instance.new("Frame"),DropShadow_13=Instance.new("ImageLabel"),Textbox_3=Instance.new("TextLabel"),Header_2=Instance.new("TextLabel"),UIAspectRatioConstraint_9=Instance.new("UIAspectRatioConstraint"),Buttons=Instance.new("Frame"),Confirm=Instance.new("ImageButton"),Confirm_2=Instance.new("TextLabel"),DropShadowHolder_13=Instance.new("Frame"),DropShadow_14=Instance.new("ImageLabel"),Checkmark=Instance.new("ImageLabel"),UIAspectRatioConstraint_10=Instance.new("UIAspectRatioConstraint"),OtherFill=Instance.new("ImageLabel"),UIListLayout_17=Instance.new("UIListLayout"),Cancel=Instance.new("ImageButton"),OtherFill_2=Instance.new("ImageLabel"),DropShadowHolder_14=Instance.new("Frame"),DropShadow_15=Instance.new("ImageLabel"),Checkmark_2=Instance.new("ImageLabel"),UIAspectRatioConstraint_11=Instance.new("UIAspectRatioConstraint"),Content_7=Instance.new("Frame"),Shadow_3=Instance.new("Frame"),UIGradient_8=Instance.new("UIGradient"),UICorner_18=Instance.new("UICorner"),Notifications=Instance.new("Frame"),UIListLayout_18=Instance.new("UIListLayout"),CategoryButton=Instance.new("Frame"),InnerContent=Instance.new("Frame"),UIListLayout_19=Instance.new("UIListLayout"),Image_2=Instance.new("ImageLabel"),UIAspectRatioConstraint_12=Instance.new("UIAspectRatioConstraint"),Title_3=Instance.new("TextLabel"),UITextSizeConstraint_4=Instance.new("UITextSizeConstraint"),SelectionShadow=Instance.new("Frame"),UIGradient_9=Instance.new("UIGradient"),HoverFrame_6=Instance.new("Frame"),CategoryFrame=Instance.new("ScrollingFrame"),Left=Instance.new("Frame"),UIPadding_9=Instance.new("UIPadding"),UIListLayout_20=Instance.new("UIListLayout"),Right=Instance.new("Frame"),UIListLayout_21=Instance.new("UIListLayout"),UIPadding_10=Instance.new("UIPadding"),UIPadding_11=Instance.new("UIPadding"),Section=Instance.new("Frame"),Border=Instance.new("Frame"),SectionTitle=Instance.new("TextLabel"),UITextSizeConstraint_5=Instance.new("UITextSizeConstraint"),UICorner_19=Instance.new("UICorner"),Content_8=Instance.new("Frame"),UIPadding_12=Instance.new("UIPadding"),UIListLayout_22=Instance.new("UIListLayout"),DropShadow_16=Instance.new("ImageLabel"),CheatBase=Instance.new("Frame"),Content_9=Instance.new("Frame"),UIListLayout_23=Instance.new("UIListLayout"),Text_7=Instance.new("Frame"),Text_8=Instance.new("TextLabel"),Desc=Instance.new("TextLabel"),ElementContent=Instance.new("Frame"),UIListLayout_24=Instance.new("UIListLayout"),Notification=Instance.new("Frame"),Main=Instance.new("Frame"),DropShadowHolder_15=Instance.new("Frame"),DropShadow_17=Instance.new("ImageLabel"),Content_10=Instance.new("Frame"),UIListLayout_25=Instance.new("UIListLayout"),Line_4=Instance.new("Frame"),Buttons_2=Instance.new("Frame"),UIListLayout_26=Instance.new("UIListLayout"),Close=Instance.new("ImageLabel"),UIAspectRatioConstraint_13=Instance.new("UIAspectRatioConstraint"),Text_9=Instance.new("Frame"),UIListLayout_27=Instance.new("UIListLayout"),Title_4=Instance.new("TextLabel"),Desc_2=Instance.new("TextLabel"),UIPadding_13=Instance.new("UIPadding"),UICorner_20=Instance.new("UICorner"),UIAspectRatioConstraint_14=Instance.new("UIAspectRatioConstraint"),Notification_2=Instance.new("Frame"),UICorner_21=Instance.new("UICorner"),Prompt=Instance.new("Frame"),Main_2=Instance.new("Frame"),UICorner_22=Instance.new("UICorner"),DropShadowHolder_16=Instance.new("Frame"),DropShadow_18=Instance.new("ImageLabel"),Content_11=Instance.new("Frame"),UIListLayout_28=Instance.new("UIListLayout"),Line_5=Instance.new("Frame"),Buttons_3=Instance.new("Frame"),UIListLayout_29=Instance.new("UIListLayout"),Accept=Instance.new("ImageLabel"),UIAspectRatioConstraint_15=Instance.new("UIAspectRatioConstraint"),Close_2=Instance.new("ImageLabel"),UIAspectRatioConstraint_16=Instance.new("UIAspectRatioConstraint"),Text_10=Instance.new("Frame"),UIListLayout_30=Instance.new("UIListLayout"),Title_5=Instance.new("TextLabel"),Desc_3=Instance.new("TextLabel"),UIPadding_14=Instance.new("UIPadding"),Notification_3=Instance.new("Frame"),UICorner_23=Instance.new("UICorner"),UIAspectRatioConstraint_17=Instance.new("UIAspectRatioConstraint")}a.UIObjects.Name="UIObjects"a.Cheats.Name="Cheats"a.Cheats.Parent=a.UIObjects;a.Button.Name="Button"a.Button.Parent=a.Cheats;a.Button.BackgroundColor3=Color3.fromRGB(25,25,25)a.Button.BorderColor3=Color3.fromRGB(27,42,53)a.Button.BorderSizePixel=0;a.Button.Size=UDim2.new(1,0,1,0)a.Button.ZIndex=110;a.UICorner.CornerRadius=UDim.new(0.100000001,0)a.UICorner.Parent=a.Button;a.DropShadowHolder.Name="DropShadowHolder"a.DropShadowHolder.Parent=a.Button;a.DropShadowHolder.BackgroundTransparency=1.000;a.DropShadowHolder.BorderSizePixel=0;a.DropShadowHolder.Size=UDim2.new(1,0,1,0)a.DropShadowHolder.ZIndex=0;a.DropShadow.Name="DropShadow"a.DropShadow.Parent=a.DropShadowHolder;a.DropShadow.AnchorPoint=Vector2.new(0.5,0.5)a.DropShadow.BackgroundTransparency=1.000;a.DropShadow.BorderSizePixel=0;a.DropShadow.Position=UDim2.new(0.5,0,0.5,0)a.DropShadow.Size=UDim2.new(1,34,1,34)a.DropShadow.ZIndex=109;a.DropShadow.Image="rbxassetid://6014261993"a.DropShadow.ImageColor3=Color3.fromRGB(0,0,0)a.DropShadow.ImageTransparency=0.500;a.DropShadow.ScaleType=Enum.ScaleType.Slice;a.DropShadow.SliceCenter=Rect.new(49,49,450,450)a.Text.Name="Text"a.Text.Parent=a.Button;a.Text.AnchorPoint=Vector2.new(0.5,0.5)a.Text.BackgroundColor3=Color3.fromRGB(255,255,255)a.Text.BackgroundTransparency=1.000;a.Text.Position=UDim2.new(0.5,0,0.5,0)a.Text.Size=UDim2.new(0.899999976,0,0.6,0)a.Text.ZIndex=112;a.Text.Font=Enum.Font.GothamSemibold;a.Text.Text="BUTTON WITHOUT TITLE OR DESC"a.Text.TextColor3=Color3.fromRGB(100,100,100)a.Text.TextScaled=true;a.Text.TextSize=14.000;a.Text.TextWrapped=true;a.HoverFrame.Name="HoverFrame"a.HoverFrame.Parent=a.Button;a.HoverFrame.BackgroundColor3=Color3.fromRGB(15,15,15)a.HoverFrame.BackgroundTransparency=1.000;a.HoverFrame.BorderColor3=Color3.fromRGB(27,42,53)a.HoverFrame.BorderSizePixel=0;a.HoverFrame.Size=UDim2.new(1,0,1,0)a.HoverFrame.ZIndex=111;a.UICorner_2.CornerRadius=UDim.new(0.100000001,0)a.UICorner_2.Parent=a.HoverFrame;a.Checkbox.Name="Checkbox"a.Checkbox.Parent=a.Cheats;a.Checkbox.BackgroundColor3=Color3.fromRGB(25,25,25)a.Checkbox.BorderSizePixel=0;a.Checkbox.Size=UDim2.new(0.779999971,0,0.779999971,0)a.Checkbox.ZIndex=110;a.UIAspectRatioConstraint.Parent=a.Checkbox;a.Selection.Name="Selection"a.Selection.Parent=a.Checkbox;a.Selection.AnchorPoint=Vector2.new(0.5,0.5)a.Selection.BackgroundColor3=Color3.fromRGB(83,87,158)a.Selection.BackgroundTransparency=1.000;a.Selection.BorderSizePixel=0;a.Selection.Position=UDim2.new(0.5,0,0.5,0)a.Selection.ZIndex=112;a.UICorner_3.CornerRadius=UDim.new(0.200000003,0)a.UICorner_3.Parent=a.Selection;a.UIGradient.Color=ColorSequence.new{ColorSequenceKeypoint.new(0.00,Color3.fromRGB(255,255,255)),ColorSequenceKeypoint.new(1.00,Color3.fromRGB(158,158,158))}a.UIGradient.Rotation=45;a.UIGradient.Parent=a.Selection;a.HoverFrame_2.Name="HoverFrame"a.HoverFrame_2.Parent=a.Checkbox;a.HoverFrame_2.BackgroundColor3=Color3.fromRGB(12,12,12)a.HoverFrame_2.BackgroundTransparency=1.000;a.HoverFrame_2.BorderSizePixel=0;a.HoverFrame_2.Size=UDim2.new(1,0,1,0)a.HoverFrame_2.ZIndex=111;a.UICorner_4.CornerRadius=UDim.new(0.200000003,0)a.UICorner_4.Parent=a.Checkbox;a.Toggle.Name="Toggle"a.Toggle.Parent=a.Cheats;a.Toggle.BackgroundColor3=Color3.fromRGB(25,25,25)a.Toggle.BorderSizePixel=0;a.Toggle.Size=UDim2.new(0.300000012,0,0.600000024,0)a.Toggle.ZIndex=110;a.UIPadding.Parent=a.Toggle;a.UIPadding.PaddingBottom=UDim.new(0,2)a.UIPadding.PaddingLeft=UDim.new(0,2)a.UIPadding.PaddingRight=UDim.new(0,2)a.UIPadding.PaddingTop=UDim.new(0,2)a.UIGradient_2.Color=ColorSequence.new{ColorSequenceKeypoint.new(0.00,Color3.fromRGB(255,255,255)),ColorSequenceKeypoint.new(1.00,Color3.fromRGB(163,163,163))}a.UIGradient_2.Rotation=45;a.UIGradient_2.Parent=a.Toggle;a.UICorner_5.Parent=a.Toggle;a.DropShadowHolder_2.Name="DropShadowHolder"a.DropShadowHolder_2.Parent=a.Toggle;a.DropShadowHolder_2.BackgroundTransparency=1.000;a.DropShadowHolder_2.BorderSizePixel=0;a.DropShadowHolder_2.Size=UDim2.new(1,0,1,0)a.DropShadowHolder_2.ZIndex=0;a.DropShadow_2.Name="DropShadow"a.DropShadow_2.Parent=a.DropShadowHolder_2;a.DropShadow_2.AnchorPoint=Vector2.new(0.5,0.5)a.DropShadow_2.BackgroundTransparency=1.000;a.DropShadow_2.BorderSizePixel=0;a.DropShadow_2.Position=UDim2.new(0.5,0,0.5,0)a.DropShadow_2.Size=UDim2.new(1,30,1,30)a.DropShadow_2.ZIndex=109;a.DropShadow_2.Image="rbxassetid://6014261993"a.DropShadow_2.ImageColor3=Color3.fromRGB(0,0,0)a.DropShadow_2.ImageTransparency=0.500;a.DropShadow_2.ScaleType=Enum.ScaleType.Slice;a.DropShadow_2.SliceCenter=Rect.new(49,49,450,450)a.Content.Name="Content"a.Content.Parent=a.Toggle;a.Content.AnchorPoint=Vector2.new(0.5,0)a.Content.BackgroundColor3=Color3.fromRGB(255,255,255)a.Content.BackgroundTransparency=1.000;a.Content.Position=UDim2.new(0.5,0,0,0)a.Content.Size=UDim2.new(0.949999988,0,1,0)a.Frame.Parent=a.Content;a.Frame.AnchorPoint=Vector2.new(0.5,0.5)a.Frame.BackgroundColor3=Color3.fromRGB(255,255,255)a.Frame.BorderSizePixel=0;a.Frame.Position=UDim2.new(0.200000003,0,0.5,0)a.Frame.Size=UDim2.new(0.5,0,1,0)a.Frame.ZIndex=112;a.UICorner_6.CornerRadius=UDim.new(1,0)a.UICorner_6.Parent=a.Frame;a.UIAspectRatioConstraint_2.Parent=a.Frame;a.HoverFrame_3.Name="HoverFrame"a.HoverFrame_3.Parent=a.Toggle;a.HoverFrame_3.AnchorPoint=Vector2.new(0.5,0.5)a.HoverFrame_3.BackgroundColor3=Color3.fromRGB(15,15,15)a.HoverFrame_3.BackgroundTransparency=1.000;a.HoverFrame_3.BorderSizePixel=0;a.HoverFrame_3.Position=UDim2.new(0.5,0,0.5,0)a.HoverFrame_3.Size=UDim2.new(1,4,1,4)a.HoverFrame_3.ZIndex=111;a.UIPadding_2.Parent=a.HoverFrame_3;a.UIPadding_2.PaddingBottom=UDim.new(0,2)a.UIPadding_2.PaddingLeft=UDim.new(0,2)a.UIPadding_2.PaddingRight=UDim.new(0,2)a.UIPadding_2.PaddingTop=UDim.new(0,2)a.UIGradient_3.Color=ColorSequence.new{ColorSequenceKeypoint.new(0.00,Color3.fromRGB(255,255,255)),ColorSequenceKeypoint.new(1.00,Color3.fromRGB(163,163,163))}a.UIGradient_3.Rotation=45;a.UIGradient_3.Parent=a.HoverFrame_3;a.UICorner_7.Parent=a.HoverFrame_3;a.Textbox.Name="Textbox"a.Textbox.Parent=a.Cheats;a.Textbox.AnchorPoint=Vector2.new(0,0.5)a.Textbox.BackgroundColor3=Color3.fromRGB(25,25,25)a.Textbox.BorderColor3=Color3.fromRGB(27,42,53)a.Textbox.BorderSizePixel=0;a.Textbox.Position=UDim2.new(0,0,0.5,0)a.Textbox.Size=UDim2.new(1,0,1,0)a.Textbox.ZIndex=110;a.DropShadowHolder_3.Name="DropShadowHolder"a.DropShadowHolder_3.Parent=a.Textbox;a.DropShadowHolder_3.BackgroundTransparency=1.000;a.DropShadowHolder_3.BorderSizePixel=0;a.DropShadowHolder_3.Size=UDim2.new(1,0,1,0)a.DropShadowHolder_3.ZIndex=0;a.DropShadow_3.Name="DropShadow"a.DropShadow_3.Parent=a.DropShadowHolder_3;a.DropShadow_3.AnchorPoint=Vector2.new(0.5,0.5)a.DropShadow_3.BackgroundTransparency=1.000;a.DropShadow_3.BorderSizePixel=0;a.DropShadow_3.Position=UDim2.new(0.5,0,0.5,0)a.DropShadow_3.Size=UDim2.new(1,34,1,34)a.DropShadow_3.ZIndex=109;a.DropShadow_3.Image="rbxassetid://6014261993"a.DropShadow_3.ImageColor3=Color3.fromRGB(0,0,0)a.DropShadow_3.ImageTransparency=0.500;a.DropShadow_3.ScaleType=Enum.ScaleType.Slice;a.DropShadow_3.SliceCenter=Rect.new(49,49,450,450)a.UICorner_8.CornerRadius=UDim.new(0.100000001,0)a.UICorner_8.Parent=a.Textbox;a.Text_2.Name="Text"a.Text_2.Parent=a.Textbox;a.Text_2.Active=false;a.Text_2.AnchorPoint=Vector2.new(0.5,0.5)a.Text_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Text_2.BackgroundTransparency=1.000;a.Text_2.Position=UDim2.new(0.5,0,0.5,0)a.Text_2.Selectable=false;a.Text_2.Size=UDim2.new(0.899999976,0,0.5,0)a.Text_2.ZIndex=111;a.Text_2.ClearTextOnFocus=false;a.Text_2.Font=Enum.Font.GothamSemibold;a.Text_2.Text=""a.Text_2.TextColor3=Color3.fromRGB(100,100,100)a.Text_2.TextScaled=true;a.Text_2.TextSize=14.000;a.Text_2.TextWrapped=true;a.UITextSizeConstraint.Parent=a.Text_2;a.UITextSizeConstraint.MaxTextSize=14;a.UITextSizeConstraint.MinTextSize=14;a.Keybind.Name="Keybind"a.Keybind.Parent=a.Cheats;a.Keybind.BackgroundColor3=Color3.fromRGB(25,25,25)a.Keybind.BorderSizePixel=0;a.Keybind.Size=UDim2.new(0.200000003,0,1,0)a.Keybind.ZIndex=110;a.UICorner_9.CornerRadius=UDim.new(0.100000001,0)a.UICorner_9.Parent=a.Keybind;a.DropShadowHolder_4.Name="DropShadowHolder"a.DropShadowHolder_4.Parent=a.Keybind;a.DropShadowHolder_4.BackgroundTransparency=1.000;a.DropShadowHolder_4.BorderSizePixel=0;a.DropShadowHolder_4.Size=UDim2.new(1,0,1,0)a.DropShadowHolder_4.ZIndex=0;a.DropShadow_4.Name="DropShadow"a.DropShadow_4.Parent=a.DropShadowHolder_4;a.DropShadow_4.AnchorPoint=Vector2.new(0.5,0.5)a.DropShadow_4.BackgroundTransparency=1.000;a.DropShadow_4.BorderSizePixel=0;a.DropShadow_4.Position=UDim2.new(0.5,0,0.5,0)a.DropShadow_4.Size=UDim2.new(1,32,1,32)a.DropShadow_4.ZIndex=109;a.DropShadow_4.Image="rbxassetid://6014261993"a.DropShadow_4.ImageColor3=Color3.fromRGB(0,0,0)a.DropShadow_4.ImageTransparency=0.500;a.DropShadow_4.ScaleType=Enum.ScaleType.Slice;a.DropShadow_4.SliceCenter=Rect.new(49,49,450,450)a.Text_3.Name="Text"a.Text_3.Parent=a.Keybind;a.Text_3.AnchorPoint=Vector2.new(0.5,0.5)a.Text_3.BackgroundColor3=Color3.fromRGB(255,255,255)a.Text_3.BackgroundTransparency=1.000;a.Text_3.Position=UDim2.new(0.5,0,0.5,0)a.Text_3.Size=UDim2.new(0.899999976,0,0.75,0)a.Text_3.ZIndex=112;a.Text_3.Font=Enum.Font.GothamSemibold;a.Text_3.Text="..."a.Text_3.TextColor3=Color3.fromRGB(100,100,100)a.Text_3.TextSize=14.000;a.HoverFrame_4.Name="HoverFrame"a.HoverFrame_4.Parent=a.Keybind;a.HoverFrame_4.BackgroundColor3=Color3.fromRGB(18,18,18)a.HoverFrame_4.BackgroundTransparency=1.000;a.HoverFrame_4.BorderSizePixel=0;a.HoverFrame_4.Size=UDim2.new(1,0,1,0)a.HoverFrame_4.ZIndex=111;a.UICorner_10.CornerRadius=UDim.new(0.100000001,0)a.UICorner_10.Parent=a.HoverFrame_4;a.ColorPicker.Name="ColorPicker"a.ColorPicker.Parent=a.Cheats;a.ColorPicker.BackgroundColor3=Color3.fromRGB(255,255,255)a.ColorPicker.BackgroundTransparency=1.000;a.ColorPicker.BorderSizePixel=0;a.ColorPicker.Position=UDim2.new(0.600000024,-8,0,0)a.ColorPicker.Size=UDim2.new(1,0,1,0)a.ColorPicker.ZIndex=200;a.UIListLayout.Parent=a.ColorPicker;a.UIListLayout.FillDirection=Enum.FillDirection.Horizontal;a.UIListLayout.HorizontalAlignment=Enum.HorizontalAlignment.Right;a.UIListLayout.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout.VerticalAlignment=Enum.VerticalAlignment.Center;a.UIListLayout.Padding=UDim.new(0,5)a.Text_4.Name="Text"a.Text_4.Parent=a.ColorPicker;a.Text_4.BackgroundColor3=Color3.fromRGB(255,255,255)a.Text_4.BackgroundTransparency=1.000;a.Text_4.Size=UDim2.new(0.699999988,0,0.800000012,0)a.Text_4.ZIndex=110;a.Text_4.Image="rbxassetid://7881709447"a.Text_4.ImageColor3=Color3.fromRGB(25,25,25)a.Text_4.ScaleType=Enum.ScaleType.Slice;a.Text_4.SliceCenter=Rect.new(512,512,512,512)a.Text_4.SliceScale=0.005;a.DropShadowHolder_5.Name="DropShadowHolder"a.DropShadowHolder_5.Parent=a.Text_4;a.DropShadowHolder_5.BackgroundTransparency=1.000;a.DropShadowHolder_5.BorderSizePixel=0;a.DropShadowHolder_5.Size=UDim2.new(1,0,1,0)a.DropShadowHolder_5.ZIndex=0;a.DropShadow_5.Name="DropShadow"a.DropShadow_5.Parent=a.DropShadowHolder_5;a.DropShadow_5.AnchorPoint=Vector2.new(0.5,0.5)a.DropShadow_5.BackgroundTransparency=1.000;a.DropShadow_5.BorderSizePixel=0;a.DropShadow_5.Position=UDim2.new(0.5,0,0.5,0)a.DropShadow_5.Size=UDim2.new(1,15,1,15)a.DropShadow_5.ZIndex=108;a.DropShadow_5.Image="rbxassetid://6015897843"a.DropShadow_5.ImageColor3=Color3.fromRGB(0,0,0)a.DropShadow_5.ImageTransparency=0.500;a.DropShadow_5.ScaleType=Enum.ScaleType.Slice;a.DropShadow_5.SliceCenter=Rect.new(49,49,450,450)a.Label.Name="Label"a.Label.Parent=a.Text_4;a.Label.Active=false;a.Label.AnchorPoint=Vector2.new(0.5,0.5)a.Label.BackgroundColor3=Color3.fromRGB(255,255,255)a.Label.BackgroundTransparency=1.000;a.Label.Position=UDim2.new(0.5,0,0.5,0)a.Label.Selectable=false;a.Label.Size=UDim2.new(0.800000012,0,0.800000012,0)a.Label.ZIndex=112;a.Label.Font=Enum.Font.Gotham;a.Label.Text=""a.Label.TextColor3=Color3.fromRGB(100,100,100)a.Label.TextSize=11.000;a.Label.TextWrapped=true;a.Preview.Name="Preview"a.Preview.Parent=a.ColorPicker;a.Preview.Active=false;a.Preview.BackgroundColor3=Color3.fromRGB(255,255,255)a.Preview.BackgroundTransparency=1.000;a.Preview.Selectable=false;a.Preview.Size=UDim2.new(1,0,0.800000012,0)a.Preview.ZIndex=112;a.Preview.Image="rbxassetid://7881709447"a.Preview.ScaleType=Enum.ScaleType.Slice;a.Preview.SliceCenter=Rect.new(512,512,512,512)a.Preview.SliceScale=0.005;a.DropShadowHolder_6.Name="DropShadowHolder"a.DropShadowHolder_6.Parent=a.Preview;a.DropShadowHolder_6.BackgroundTransparency=1.000;a.DropShadowHolder_6.BorderSizePixel=0;a.DropShadowHolder_6.Size=UDim2.new(1,0,1,0)a.DropShadowHolder_6.ZIndex=0;a.DropShadow_6.Name="DropShadow"a.DropShadow_6.Parent=a.DropShadowHolder_6;a.DropShadow_6.AnchorPoint=Vector2.new(0.5,0.5)a.DropShadow_6.BackgroundTransparency=1.000;a.DropShadow_6.BorderSizePixel=0;a.DropShadow_6.Position=UDim2.new(0.5,0,0.5,0)a.DropShadow_6.Size=UDim2.new(1,15,1,15)a.DropShadow_6.ZIndex=110;a.DropShadow_6.Image="rbxassetid://6015897843"a.DropShadow_6.ImageColor3=Color3.fromRGB(0,0,0)a.DropShadow_6.ImageTransparency=0.500;a.DropShadow_6.ScaleType=Enum.ScaleType.Slice;a.DropShadow_6.SliceCenter=Rect.new(49,49,450,450)a.UIAspectRatioConstraint_3.Parent=a.Preview;a.Hover.Name="Hover"a.Hover.Parent=a.Preview;a.Hover.BackgroundColor3=Color3.fromRGB(255,255,255)a.Hover.BackgroundTransparency=1.000;a.Hover.Size=UDim2.new(1,0,1,0)a.Hover.ZIndex=113;a.Hover.Image="rbxassetid://7881709447"a.Hover.ImageColor3=Color3.fromRGB(47,47,47)a.Hover.ImageTransparency=1.000;a.Hover.ScaleType=Enum.ScaleType.Slice;a.Hover.SliceCenter=Rect.new(512,512,512,512)a.Hover.SliceScale=0.005;a.Slider.Name="Slider"a.Slider.Parent=a.Cheats;a.Slider.BackgroundColor3=Color3.fromRGB(255,255,255)a.Slider.BackgroundTransparency=1.000;a.Slider.Size=UDim2.new(1,0,1,0)a.Drag.Name="Drag"a.Drag.Parent=a.Slider;a.Drag.BackgroundColor3=Color3.fromRGB(30,30,30)a.Drag.BorderSizePixel=0;a.Drag.LayoutOrder=-1;a.Drag.Size=UDim2.new(0.75,0,0.200000003,0)a.Drag.ZIndex=110;a.UICorner_11.CornerRadius=UDim.new(1,0)a.UICorner_11.Parent=a.Drag;a.Frame_2.Parent=a.Drag;a.Frame_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Frame_2.BorderSizePixel=0;a.Frame_2.LayoutOrder=-1;a.Frame_2.Size=UDim2.new(1,0,1,0)a.Frame_2.ZIndex=110;a.UICorner_12.CornerRadius=UDim.new(1,0)a.UICorner_12.Parent=a.Frame_2;a.UIGradient_4.Offset=Vector2.new(0.5,0)a.UIGradient_4.Transparency=NumberSequence.new{NumberSequenceKeypoint.new(0.00,0.00),NumberSequenceKeypoint.new(0.01,1.00),NumberSequenceKeypoint.new(1.00,1.00)}a.UIGradient_4.Parent=a.Frame_2;a.UIListLayout_2.Parent=a.Drag;a.UIListLayout_2.FillDirection=Enum.FillDirection.Horizontal;a.UIListLayout_2.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_2.VerticalAlignment=Enum.VerticalAlignment.Center;a.UIListLayout_2.Padding=UDim.new(0.0500000007,0)a.KeyInput.Name="KeyInput"a.KeyInput.Parent=a.Slider;a.KeyInput.BackgroundColor3=Color3.fromRGB(25,25,25)a.KeyInput.BorderSizePixel=0;a.KeyInput.Size=UDim2.new(0.4,0,0.699999988,0)a.KeyInput.ZIndex=110;a.UICorner_13.CornerRadius=UDim.new(0.100000001,0)a.UICorner_13.Parent=a.KeyInput;a.DropShadowHolder_7.Name="DropShadowHolder"a.DropShadowHolder_7.Parent=a.KeyInput;a.DropShadowHolder_7.BackgroundTransparency=1.000;a.DropShadowHolder_7.BorderSizePixel=0;a.DropShadowHolder_7.Size=UDim2.new(1,0,1,0)a.DropShadowHolder_7.ZIndex=0;a.DropShadow_7.Name="DropShadow"a.DropShadow_7.Parent=a.DropShadowHolder_7;a.DropShadow_7.AnchorPoint=Vector2.new(0.5,0.5)a.DropShadow_7.BackgroundTransparency=1.000;a.DropShadow_7.BorderSizePixel=0;a.DropShadow_7.Position=UDim2.new(0.5,0,0.5,0)a.DropShadow_7.Size=UDim2.new(1,25,1,25)a.DropShadow_7.ZIndex=109;a.DropShadow_7.Image="rbxassetid://6014261993"a.DropShadow_7.ImageColor3=Color3.fromRGB(0,0,0)a.DropShadow_7.ImageTransparency=0.500;a.DropShadow_7.ScaleType=Enum.ScaleType.Slice;a.DropShadow_7.SliceCenter=Rect.new(49,49,450,450)a.Text_5.Name="Text"a.Text_5.Parent=a.KeyInput;a.Text_5.Active=false;a.Text_5.AnchorPoint=Vector2.new(0.5,0.5)a.Text_5.BackgroundColor3=Color3.fromRGB(255,255,255)a.Text_5.BackgroundTransparency=1.000;a.Text_5.Position=UDim2.new(0.5,0,0.5,0)a.Text_5.Selectable=false;a.Text_5.Size=UDim2.new(0.699999988,0,0.699999988,0)a.Text_5.ZIndex=111;a.Text_5.Font=Enum.Font.GothamSemibold;a.Text_5.Text="10"a.Text_5.TextColor3=Color3.fromRGB(100,100,100)a.Text_5.TextSize=14.000;a.Text_5.TextScaled=true;a.Text_5.TextWrapped=true;a.UIListLayout_3.Parent=a.Slider;a.UIListLayout_3.FillDirection=Enum.FillDirection.Horizontal;a.UIListLayout_3.HorizontalAlignment=Enum.HorizontalAlignment.Right;a.UIListLayout_3.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_3.VerticalAlignment=Enum.VerticalAlignment.Center;a.UIListLayout_3.Padding=UDim.new(0.0500000007,0)a.Dropdown.Name="Dropdown"a.Dropdown.Parent=a.Cheats;a.Dropdown.BackgroundColor3=Color3.fromRGB(255,255,255)a.Dropdown.Size=UDim2.new(1,0,1,0)a.MainHolder.Name="MainHolder"a.MainHolder.Parent=a.Dropdown;a.MainHolder.AnchorPoint=Vector2.new(0,0.5)a.MainHolder.BackgroundColor3=Color3.fromRGB(25,25,25)a.MainHolder.BorderSizePixel=0;a.MainHolder.Size=UDim2.new(1,0,0.850000024,0)a.MainHolder.ZIndex=111;a.UICorner_14.CornerRadius=UDim.new(0.100000001,0)a.UICorner_14.Parent=a.MainHolder;a.DropShadowHolder_8.Name="DropShadowHolder"a.DropShadowHolder_8.Parent=a.MainHolder;a.DropShadowHolder_8.BackgroundTransparency=1.000;a.DropShadowHolder_8.BorderSizePixel=0;a.DropShadowHolder_8.Size=UDim2.new(1,0,1,0)a.DropShadowHolder_8.ZIndex=0;a.DropShadow_8.Name="DropShadow"a.DropShadow_8.Parent=a.DropShadowHolder_8;a.DropShadow_8.AnchorPoint=Vector2.new(0.5,0.5)a.DropShadow_8.BackgroundTransparency=1.000;a.DropShadow_8.BorderSizePixel=0;a.DropShadow_8.Position=UDim2.new(0.5,0,0.5,0)a.DropShadow_8.Size=UDim2.new(1,25,1,25)a.DropShadow_8.ZIndex=109;a.DropShadow_8.Image="rbxassetid://6014261993"a.DropShadow_8.ImageColor3=Color3.fromRGB(0,0,0)a.DropShadow_8.ImageTransparency=0.500;a.DropShadow_8.ScaleType=Enum.ScaleType.Slice;a.DropShadow_8.SliceCenter=Rect.new(49,49,450,450)a.Content_2.Name="Content"a.Content_2.Parent=a.MainHolder;a.Content_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Content_2.Size=UDim2.new(1,0,1,0)a.Text_6.Name="Text"a.Text_6.Parent=a.Content_2;a.Text_6.AnchorPoint=Vector2.new(0,0.5)a.Text_6.BackgroundColor3=Color3.fromRGB(255,255,255)a.Text_6.BackgroundTransparency=1.000;a.Text_6.Position=UDim2.new(0,0,0.5,0)a.Text_6.Size=UDim2.new(0.800000012,0,0.600000024,0)a.Text_6.ZIndex=113;a.Text_6.Font=Enum.Font.Gotham;a.Text_6.Text="None"a.Text_6.TextColor3=Color3.fromRGB(100,100,100)a.Text_6.TextScaled=true;a.Text_6.TextSize=14.000;a.Text_6.TextWrapped=true;a.Text_6.TextXAlignment=Enum.TextXAlignment.Left;a.UITextSizeConstraint_2.Parent=a.Text_6;a.UITextSizeConstraint_2.MaxTextSize=13;a.UIPadding_3.Parent=a.Content_2;a.UIPadding_3.PaddingLeft=UDim.new(0,4)a.UIListLayout_4.Parent=a.Content_2;a.UIListLayout_4.FillDirection=Enum.FillDirection.Horizontal;a.UIListLayout_4.HorizontalAlignment=Enum.HorizontalAlignment.Center;a.UIListLayout_4.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_4.VerticalAlignment=Enum.VerticalAlignment.Center;a.Icon.Name="Icon"a.Icon.Parent=a.Content_2;a.Icon.BackgroundColor3=Color3.fromRGB(255,255,255)a.Icon.Size=UDim2.new(0.699999988,0,0.699999988,0)a.UIAspectRatioConstraint_4.Parent=a.Icon;a.Holder.Name="Holder"a.Holder.Parent=a.Icon;a.Holder.BackgroundColor3=Color3.fromRGB(255,255,255)a.Holder.Size=UDim2.new(1,0,1,0)a.Icon_2.Name="Icon"a.Icon_2.Parent=a.Holder;a.Icon_2.BackgroundTransparency=1.000;a.Icon_2.Size=UDim2.new(1,0,1,0)a.Icon_2.ZIndex=111;a.Icon_2.Image="rbxassetid://7072706663"a.Icon_2.ImageColor3=Color3.fromRGB(100,100,100)a.Icon_2.ScaleType=Enum.ScaleType.Fit;a.UIAspectRatioConstraint_5.Parent=a.Holder;a.UIListLayout_5.Parent=a.Dropdown;a.UIListLayout_5.HorizontalAlignment=Enum.HorizontalAlignment.Center;a.UIListLayout_5.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_5.Padding=UDim.new(0.200000003,0)a.OptionHolder.Name="OptionHolder"a.OptionHolder.Parent=a.Dropdown;a.OptionHolder.BackgroundColor3=Color3.fromRGB(25,25,25)a.OptionHolder.BorderSizePixel=0;a.OptionHolder.Position=UDim2.new(0,0,1.5,0)a.OptionHolder.Size=UDim2.new(1,0,0,0)a.OptionHolder.ZIndex=112;a.Cover.Name="Cover"a.Cover.Parent=a.OptionHolder;a.Cover.AnchorPoint=Vector2.new(0.5,0.5)a.Cover.BackgroundColor3=Color3.fromRGB(20,20,20)a.Cover.BorderSizePixel=0;a.Cover.Position=UDim2.new(0.5,0,0.5,0)a.Cover.Size=UDim2.new(1,4,1,0)a.Cover.ZIndex=123;a.DropShadow_9.Name="DropShadow"a.DropShadow_9.Parent=a.Cover;a.DropShadow_9.AnchorPoint=Vector2.new(0.5,0.5)a.DropShadow_9.BackgroundTransparency=1.000;a.DropShadow_9.BorderSizePixel=0;a.DropShadow_9.Position=UDim2.new(0.5,0,0.5,0)a.DropShadow_9.Size=UDim2.new(1,50,1,50)a.DropShadow_9.ZIndex=111;a.DropShadow_9.Image="rbxassetid://6014261993"a.DropShadow_9.ImageColor3=Color3.fromRGB(0,0,0)a.DropShadow_9.ImageTransparency=1.000;a.DropShadow_9.ScaleType=Enum.ScaleType.Slice;a.DropShadow_9.SliceCenter=Rect.new(49,49,450,450)a.UICorner_15.CornerRadius=UDim.new(0.0500000007,0)a.UICorner_15.Parent=a.Cover;a.UIPadding_4.Parent=a.OptionHolder;a.UIPadding_4.PaddingLeft=UDim.new(0,2)a.UIPadding_4.PaddingRight=UDim.new(0,2)a.UICorner_16.CornerRadius=UDim.new(0.0500000007,0)a.UICorner_16.Parent=a.OptionHolder;a.ContentHolder.Name="ContentHolder"a.ContentHolder.Parent=a.OptionHolder;a.ContentHolder.AnchorPoint=Vector2.new(0.5,0.5)a.ContentHolder.BackgroundColor3=Color3.fromRGB(255,255,255)a.ContentHolder.BackgroundTransparency=1.000;a.ContentHolder.ClipsDescendants=true;a.ContentHolder.Position=UDim2.new(0.5,0,0.5,0)a.ContentHolder.Size=UDim2.new(1,4,1,0)a.Content_3.Name="Content"a.Content_3.Parent=a.ContentHolder;a.Content_3.BackgroundColor3=Color3.fromRGB(255,255,255)a.Content_3.BackgroundTransparency=1.000;a.Content_3.BorderSizePixel=0;a.Content_3.ClipsDescendants=false;a.Content_3.Selectable=false;a.Content_3.Size=UDim2.new(1,0,1,0)a.Content_3.ZIndex=113;a.Content_3.AutomaticCanvasSize=Enum.AutomaticSize.Y;a.Content_3.BottomImage=""a.Content_3.CanvasSize=UDim2.new(0,0,0,0)a.Content_3.ScrollBarThickness=2;a.Content_3.TopImage=""a.UIListLayout_6.Parent=a.Content_3;a.UIListLayout_6.HorizontalAlignment=Enum.HorizontalAlignment.Center;a.UIListLayout_6.SortOrder=Enum.SortOrder.LayoutOrder;a.Bottom.Name="Bottom"a.Bottom.Parent=a.Dropdown;a.Bottom.Active=false;a.Bottom.BackgroundColor3=Color3.fromRGB(255,255,255)a.Bottom.BackgroundTransparency=1.000;a.Bottom.Selectable=false;a.Bottom.Size=UDim2.new(1,0,0,0)a.Bottom.ZIndex=120;a.Bottom.AutoButtonColor=false;a.Bottom.Image="rbxassetid://7890831727"a.Bottom.ImageColor3=Color3.fromRGB(25,25,25)a.Bottom.ScaleType=Enum.ScaleType.Slice;a.Bottom.SliceCenter=Rect.new(512,512,512,512)a.Bottom.SliceScale=0.003;a.Current.Name="Current"a.Current.Parent=a.Bottom;a.Current.BackgroundColor3=Color3.fromRGB(255,255,255)a.Current.BackgroundTransparency=1.000;a.Current.Position=UDim2.new(0,0,0,2)a.Current.Size=UDim2.new(1,0,1,-4)a.Current.ZIndex=122;a.Current.Font=Enum.Font.Gotham;a.Current.Text="Empyrean Eegg"a.Current.TextColor3=Color3.fromRGB(200,200,200)a.Current.TextSize=14.000;a.Current.TextWrapped=true;a.Select.Name="Select"a.Select.Parent=a.Bottom;a.Select.BackgroundColor3=Color3.fromRGB(255,255,255)a.Select.BackgroundTransparency=1.000;a.Select.Size=UDim2.new(1,0,1,0)a.Select.ZIndex=120;a.Select.Image="rbxassetid://7890831727"a.Select.ImageColor3=Color3.fromRGB(83,87,158)a.Select.ImageTransparency=1.000;a.Select.ScaleType=Enum.ScaleType.Slice;a.Select.SliceCenter=Rect.new(512,512,512,512)a.Select.SliceScale=0.003;a.Slot.Name="Slot"a.Slot.Parent=a.Dropdown;a.Slot.Active=false;a.Slot.BackgroundColor3=Color3.fromRGB(255,255,255)a.Slot.BackgroundTransparency=1.000;a.Slot.Selectable=false;a.Slot.Size=UDim2.new(1,0,0,0)a.Slot.ZIndex=120;a.Slot.AutoButtonColor=false;a.Slot.Image="rbxassetid://7890925834"a.Slot.ImageColor3=Color3.fromRGB(25,25,25)a.Slot.ScaleType=Enum.ScaleType.Slice;a.Slot.SliceCenter=Rect.new(512,512,512,512)a.Slot.SliceScale=0.003;a.Line.Name="Line"a.Line.Parent=a.Slot;a.Line.BackgroundColor3=Color3.fromRGB(40,40,40)a.Line.BorderSizePixel=0;a.Line.Position=UDim2.new(0,0,1,-1)a.Line.Size=UDim2.new(1,0,0,1)a.Line.Visible=false;a.Line.ZIndex=122;a.Select_2.Name="Select"a.Select_2.Parent=a.Slot;a.Select_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Select_2.BackgroundTransparency=1.000;a.Select_2.Size=UDim2.new(1,0,1,0)a.Select_2.ZIndex=121;a.Select_2.Image="rbxassetid://7890925834"a.Select_2.ImageColor3=Color3.fromRGB(83,87,158)a.Select_2.ImageTransparency=1.000;a.Select_2.ScaleType=Enum.ScaleType.Slice;a.Select_2.SliceCenter=Rect.new(512,512,512,512)a.Select_2.SliceScale=0.003;a.Current_2.Name="Current"a.Current_2.Parent=a.Slot;a.Current_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Current_2.BackgroundTransparency=1.000;a.Current_2.Position=UDim2.new(0,0,0,2)a.Current_2.Size=UDim2.new(1,0,1,-4)a.Current_2.ZIndex=122;a.Current_2.Font=Enum.Font.Gotham;a.Current_2.Text="Empyrean Eegg"a.Current_2.TextColor3=Color3.fromRGB(200,200,200)a.Current_2.TextSize=14.000;a.Current_2.TextWrapped=true;a.Top.Name="Top"a.Top.Parent=a.Dropdown;a.Top.Active=false;a.Top.BackgroundColor3=Color3.fromRGB(255,255,255)a.Top.BackgroundTransparency=1.000;a.Top.Selectable=false;a.Top.Size=UDim2.new(1,0,0,0)a.Top.ZIndex=120;a.Top.AutoButtonColor=false;a.Top.Image="http://www.roblox.com/asset/?id=8374820043"a.Top.ImageColor3=Color3.fromRGB(25,25,25)a.Top.ScaleType=Enum.ScaleType.Slice;a.Top.SliceCenter=Rect.new(512,512,512,512)a.Top.SliceScale=0.003;a.Line_2.Name="Line"a.Line_2.Parent=a.Top;a.Line_2.BackgroundColor3=Color3.fromRGB(40,40,40)a.Line_2.BorderSizePixel=0;a.Line_2.Position=UDim2.new(0,0,1,-1)a.Line_2.Size=UDim2.new(1,0,0,1)a.Line_2.Visible=false;a.Line_2.ZIndex=122;a.Select_3.Name="Select"a.Select_3.Parent=a.Top;a.Select_3.BackgroundColor3=Color3.fromRGB(255,255,255)a.Select_3.BackgroundTransparency=1.000;a.Select_3.Size=UDim2.new(1,0,1,0)a.Select_3.ZIndex=121;a.Select_3.Image="http://www.roblox.com/asset/?id=8374820043"a.Select_3.ImageColor3=Color3.fromRGB(83,87,158)a.Select_3.ImageTransparency=1.000;a.Select_3.ScaleType=Enum.ScaleType.Slice;a.Select_3.SliceCenter=Rect.new(512,512,512,512)a.Select_3.SliceScale=0.003;a.Current_3.Name="Current"a.Current_3.Parent=a.Top;a.Current_3.BackgroundColor3=Color3.fromRGB(255,255,255)a.Current_3.BackgroundTransparency=1.000;a.Current_3.Position=UDim2.new(0,0,0,2)a.Current_3.Size=UDim2.new(1,0,1,-4)a.Current_3.ZIndex=122;a.Current_3.Font=Enum.Font.Gotham;a.Current_3.Text="Empyrean Eegg"a.Current_3.TextColor3=Color3.fromRGB(200,200,200)a.Current_3.TextSize=14.000;a.Current_3.TextWrapped=true;a.Objects.Name="Objects"a.Objects.Parent=a.UIObjects;a.Category.Name="Category"a.Category.Parent=a.Objects;a.Category.BackgroundColor3=Color3.fromRGB(35,35,35)a.Category.BackgroundTransparency=1.000;a.Category.BorderSizePixel=0;a.Category.LayoutOrder=1;a.Category.Size=UDim2.new(1,0,0.25,0)a.Category.ZIndex=121;a.HoverFrame_5.Name="HoverFrame"a.HoverFrame_5.Parent=a.Category;a.HoverFrame_5.BackgroundColor3=Color3.fromRGB(33,33,33)a.HoverFrame_5.BackgroundTransparency=1.000;a.HoverFrame_5.BorderSizePixel=0;a.HoverFrame_5.Size=UDim2.new(1,0,1,0)a.HoverFrame_5.ZIndex=122;a.Content_4.Name="Content"a.Content_4.Parent=a.Category;a.Content_4.BackgroundColor3=Color3.fromRGB(255,255,255)a.Content_4.BackgroundTransparency=1.000;a.Content_4.Size=UDim2.new(1,0,1,0)a.Image.Name="Image"a.Image.Parent=a.Content_4;a.Image.BackgroundTransparency=1.000;a.Image.Size=UDim2.new(0.400000006,0,0.400000006,0)a.Image.ZIndex=123;a.Image.Image="rbxassetid://8349124615"a.Image.ImageColor3=Color3.fromRGB(90,90,90)a.UIAspectRatioConstraint_6.Parent=a.Image;a.Title.Name="Title"a.Title.Parent=a.Content_4;a.Title.BackgroundColor3=Color3.fromRGB(255,255,255)a.Title.BackgroundTransparency=1.000;a.Title.Size=UDim2.new(0.800000012,0,0.219999999,0)a.Title.ZIndex=123;a.Title.Font=Enum.Font.Gotham;a.Title.Text="MISC"a.Title.TextColor3=Color3.fromRGB(90,90,90)a.Title.TextScaled=true;a.Title.TextSize=5.000;a.Title.TextWrapped=true;a.UITextSizeConstraint_3.Parent=a.Title;a.UITextSizeConstraint_3.MaxTextSize=35;a.UITextSizeConstraint_3.MinTextSize=10;a.UIListLayout_7.Parent=a.Content_4;a.UIListLayout_7.HorizontalAlignment=Enum.HorizontalAlignment.Center;a.UIListLayout_7.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_7.VerticalAlignment=Enum.VerticalAlignment.Center;a.UIListLayout_7.Padding=UDim.new(0.0500000007,0)a.CategoryContent.Name="CategoryContent"a.CategoryContent.Parent=a.Objects;a.CategoryContent.BackgroundColor3=Color3.fromRGB(255,255,255)a.CategoryContent.BackgroundTransparency=1.000;a.CategoryContent.Position=UDim2.new(1,0,0,0)a.CategoryContent.Size=UDim2.new(1,0,1,0)a.Bar2Holder.Name="Bar2Holder"a.Bar2Holder.Parent=a.CategoryContent;a.Bar2Holder.BackgroundColor3=Color3.fromRGB(255,255,255)a.Bar2Holder.BackgroundTransparency=1.000;a.Bar2Holder.Size=UDim2.new(1,8,0.850000024,0)a.UIListLayout_8.Parent=a.Bar2Holder;a.UIListLayout_8.HorizontalAlignment=Enum.HorizontalAlignment.Center;a.UIListLayout_8.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_9.Parent=a.CategoryContent;a.UIListLayout_9.HorizontalAlignment=Enum.HorizontalAlignment.Center;a.UIListLayout_9.SortOrder=Enum.SortOrder.LayoutOrder;a.UIPadding_5.Parent=a.CategoryContent;a.UIPadding_5.PaddingLeft=UDim.new(0,4)a.UIPadding_5.PaddingRight=UDim.new(0,4)a.Window.Name="Window"a.Window.Parent=a.Objects;a.Window.BackgroundColor3=Color3.fromRGB(255,255,255)a.Window.BackgroundTransparency=1.000;a.Window.Size=UDim2.new(1,0,1,0)a.Watermark.Name="Watermark"a.Watermark.Parent=a.Window;a.Watermark.BackgroundColor3=Color3.fromRGB(255,255,255)a.Watermark.BackgroundTransparency=1.000;a.Watermark.Size=UDim2.new(0.5,0,0.0199999996,0)a.Watermark.Font=Enum.Font.Gotham;a.Watermark.Text="OhioMode v2 | nil | nil"a.Watermark.TextColor3=Color3.fromRGB(255,255,255)a.Watermark.TextSize=14.000;a.Watermark.TextStrokeTransparency=0.800;a.Watermark.TextXAlignment=Enum.TextXAlignment.Left;a.Watermark.Position=UDim2.new(0,0,0,0)a.UIPadding_6.Parent=a.Window;a.UIPadding_6.PaddingBottom=UDim.new(0,8)a.UIPadding_6.PaddingLeft=UDim.new(0,8)a.UIPadding_6.PaddingRight=UDim.new(0,8)a.UIPadding_6.PaddingTop=UDim.new(0,8)a.MainUI.Name="MainUI"a.MainUI.Parent=a.Window;a.MainUI.AnchorPoint=Vector2.new(0.5,0.5)a.MainUI.BackgroundColor3=Color3.fromRGB(18,18,18)a.MainUI.Position=UDim2.new(0.5,0,0.5,0)a.MainUI.Size=UDim2.new(0,851,0,488)a.MainUI.ZIndex=100;a.DropShadowHolder_9.Name="DropShadowHolder"a.DropShadowHolder_9.Parent=a.MainUI;a.DropShadowHolder_9.BackgroundTransparency=1.000;a.DropShadowHolder_9.BorderSizePixel=0;a.DropShadowHolder_9.Size=UDim2.new(1,0,1,0)a.DropShadowHolder_9.ZIndex=0;a.DropShadow_10.Name="DropShadow"a.DropShadow_10.Parent=a.DropShadowHolder_9;a.DropShadow_10.AnchorPoint=Vector2.new(0.5,0.5)a.DropShadow_10.BackgroundTransparency=1.000;a.DropShadow_10.BorderSizePixel=0;a.DropShadow_10.Position=UDim2.new(0.5,0,0.5,0)a.DropShadow_10.Size=UDim2.new(1,45,1,45)a.DropShadow_10.ZIndex=99;a.DropShadow_10.Image="rbxassetid://6015897843"a.DropShadow_10.ImageColor3=Color3.fromRGB(0,0,0)a.DropShadow_10.ImageTransparency=0.500;a.DropShadow_10.ScaleType=Enum.ScaleType.Slice;a.DropShadow_10.SliceCenter=Rect.new(49,49,450,450)a.UICorner_17.CornerRadius=UDim.new(0.0199999996,0)a.UICorner_17.Parent=a.MainUI;a.Sidebar.Name="Sidebar"a.Sidebar.Parent=a.MainUI;a.Sidebar.BackgroundColor3=Color3.fromRGB(255,255,255)a.Sidebar.BackgroundTransparency=1.000;a.Sidebar.Size=UDim2.new(0.109999999,0,1,0)a.ContentHolder_2.Name="ContentHolder"a.ContentHolder_2.Parent=a.Sidebar;a.ContentHolder_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.ContentHolder_2.BackgroundTransparency=1.000;a.ContentHolder_2.Size=UDim2.new(1,0,1,0)a.UserInfo.Name="UserInfo"a.UserInfo.Parent=a.ContentHolder_2;a.UserInfo.BackgroundColor3=Color3.fromRGB(255,255,255)a.UserInfo.BackgroundTransparency=1.000;a.UserInfo.ClipsDescendants=true;a.UserInfo.Size=UDim2.new(1.85000002,0,0.150000006,0)a.Content_5.Name="Content"a.Content_5.Parent=a.UserInfo;a.Content_5.BackgroundColor3=Color3.fromRGB(255,255,255)a.Content_5.BackgroundTransparency=1.000;a.Content_5.Size=UDim2.new(1,0,1,0)a.Rank.Name="Rank"a.Rank.Parent=a.Content_5;a.Rank.BackgroundColor3=Color3.fromRGB(255,255,255)a.Rank.BackgroundTransparency=1.000;a.Rank.Size=UDim2.new(1,0,0.5,0)a.Rank.ZIndex=123;a.Rank.Font=Enum.Font.Gotham;a.Rank.Text="Admin"a.Rank.TextColor3=Color3.fromRGB(94,94,94)a.Rank.TextSize=14.000;a.Rank.TextXAlignment=Enum.TextXAlignment.Left;a.UIPadding_7.Parent=a.Content_5;a.UIPadding_7.PaddingBottom=UDim.new(0,12)a.UIPadding_7.PaddingLeft=UDim.new(0,12)a.UIPadding_7.PaddingRight=UDim.new(0,12)a.UIPadding_7.PaddingTop=UDim.new(0,12)a.UIListLayout_10.Parent=a.Content_5;a.UIListLayout_10.SortOrder=Enum.SortOrder.LayoutOrder;a.Title_2.Name="Title"a.Title_2.Parent=a.Content_5;a.Title_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Title_2.BackgroundTransparency=1.000;a.Title_2.LayoutOrder=-1;a.Title_2.Size=UDim2.new(1,0,0.5,0)a.Title_2.ZIndex=123;a.Title_2.Font=Enum.Font.GothamSemibold;a.Title_2.Text="susss!!!"a.Title_2.TextColor3=Color3.fromRGB(255,255,255)a.Title_2.TextSize=14.000;a.Title_2.TextXAlignment=Enum.TextXAlignment.Left;a.Line_3.Name="Line"a.Line_3.Parent=a.UserInfo;a.Line_3.BackgroundColor3=Color3.fromRGB(74,74,74)a.Line_3.BorderSizePixel=0;a.Line_3.Size=UDim2.new(1,0,0,1)a.Line_3.ZIndex=123;a.Fill.Name="Fill"a.Fill.Parent=a.UserInfo;a.Fill.BackgroundColor3=Color3.fromRGB(255,255,255)a.Fill.BackgroundTransparency=1.000;a.Fill.Size=UDim2.new(1,0,1,0)a.Fill.ZIndex=122;a.Fill.Image="rbxassetid://7881868371"a.Fill.ImageColor3=Color3.fromRGB(32,32,32)a.Fill.ScaleType=Enum.ScaleType.Slice;a.Fill.SliceCenter=Rect.new(512,512,512,512)a.Fill.SliceScale=0.010;a.Texture.Name="Texture"a.Texture.Parent=a.UserInfo;a.Texture.BackgroundColor3=Color3.fromRGB(255,255,255)a.Texture.BackgroundTransparency=1.000;a.Texture.Size=UDim2.new(10,0,10,0)a.Texture.ZIndex=123;a.Texture.Image="rbxasset://textures/loading/darkLoadingTexture.png"a.Texture.ImageColor3=Color3.fromRGB(188,188,188)a.Texture.ImageTransparency=0.850;a.Texture.ScaleType=Enum.ScaleType.Tile;a.Texture.TileSize=UDim2.new(0,300,0,300)a.UIListLayout_11.Parent=a.ContentHolder_2;a.UIListLayout_11.SortOrder=Enum.SortOrder.LayoutOrder;a.Cheats_2.Name="Cheats"a.Cheats_2.Parent=a.ContentHolder_2;a.Cheats_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Cheats_2.BackgroundTransparency=1.000;a.Cheats_2.LayoutOrder=-1;a.Cheats_2.Size=UDim2.new(1,0,0.850000024,0)a.UIListLayout_12.Parent=a.Cheats_2;a.UIListLayout_12.HorizontalAlignment=Enum.HorizontalAlignment.Center;a.UIListLayout_12.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_12.Padding=UDim.new(0.029,0)a.UIPadding_8.Parent=a.Cheats_2;a.UIPadding_8.PaddingLeft=UDim.new(0,4)a.UIPadding_8.PaddingRight=UDim.new(0,4)a.UIPadding_8.PaddingTop=UDim.new(0,16)a.Logo.Name="Logo"a.Logo.Parent=a.Cheats_2;a.Logo.BackgroundColor3=Color3.fromRGB(255,255,255)a.Logo.BackgroundTransparency=1.000;a.Logo.LayoutOrder=-5;a.Logo.Size=UDim2.new(1,0,0.100000001,0)a.Logo.ZIndex=122;a.Logo.Image="rbxassetid://8343875413"a.Logo.ImageColor3=Color3.fromRGB(134,142,255)a.Logo.ScaleType=Enum.ScaleType.Fit;a.UIGradient_5.Color=ColorSequence.new{ColorSequenceKeypoint.new(0.00,Color3.fromRGB(255,255,255)),ColorSequenceKeypoint.new(1.00,Color3.fromRGB(163,163,163))}a.UIGradient_5.Rotation=45;a.UIGradient_5.Parent=a.Logo;a.CheatHolder.Name="CheatHolder"a.CheatHolder.Parent=a.Cheats_2;a.CheatHolder.BackgroundColor3=Color3.fromRGB(255,255,255)a.CheatHolder.BackgroundTransparency=1.000;a.CheatHolder.Size=UDim2.new(1,8,0.699999988,0)a.UIListLayout_13.Parent=a.CheatHolder;a.UIListLayout_13.HorizontalAlignment=Enum.HorizontalAlignment.Center;a.UIListLayout_13.SortOrder=Enum.SortOrder.LayoutOrder;a.Fill_2.Name="Fill"a.Fill_2.Parent=a.Sidebar;a.Fill_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Fill_2.BackgroundTransparency=1.000;a.Fill_2.Size=UDim2.new(1,0,1,0)a.Fill_2.ZIndex=120;a.Fill_2.Image="rbxassetid://7881302920"a.Fill_2.ImageColor3=Color3.fromRGB(27,27,27)a.Fill_2.ScaleType=Enum.ScaleType.Slice;a.Fill_2.SliceCenter=Rect.new(512,512,512,512)a.Fill_2.SliceScale=0.020;a.DivLine.Name="DivLine"a.DivLine.Parent=a.Fill_2;a.DivLine.BackgroundColor3=Color3.fromRGB(74,74,74)a.DivLine.BorderSizePixel=0;a.DivLine.Position=UDim2.new(1,0,0,0)a.DivLine.Size=UDim2.new(0,1,0.850000024,0)a.DivLine.ZIndex=130;a.Tab2.Name="Tab2"a.Tab2.Parent=a.Sidebar;a.Tab2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Tab2.BackgroundTransparency=1.000;a.Tab2.Position=UDim2.new(1,0,0,0)a.Tab2.Size=UDim2.new(0.850000024,0,1,0)a.Tab2.ZIndex=120;a.Tab2.Image="rbxassetid://7881302920"a.Tab2.ImageColor3=Color3.fromRGB(27,27,27)a.Tab2.ScaleType=Enum.ScaleType.Slice;a.Tab2.SliceCenter=Rect.new(512,512,512,512)a.Tab2.SliceScale=0.020;a.Shadow.Name="Shadow"a.Shadow.Parent=a.Tab2;a.Shadow.BackgroundColor3=Color3.fromRGB(0,0,0)a.Shadow.BorderSizePixel=0;a.Shadow.Position=UDim2.new(1,0,0,0)a.Shadow.Size=UDim2.new(0.101426959,0,1,0)a.Shadow.ZIndex=107;a.UIGradient_6.Transparency=NumberSequence.new{NumberSequenceKeypoint.new(0.00,0.73),NumberSequenceKeypoint.new(0.60,1.00),NumberSequenceKeypoint.new(1.00,1.00)}a.UIGradient_6.Parent=a.Shadow;a.Sidebar2.Name="Sidebar2"a.Sidebar2.Parent=a.Sidebar;a.Sidebar2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Sidebar2.BackgroundTransparency=1.000;a.Sidebar2.ClipsDescendants=true;a.Sidebar2.Position=UDim2.new(1,0,0,0)a.Sidebar2.Size=UDim2.new(0.850000024,0,1,0)a.UIAspectRatioConstraint_7.Parent=a.MainUI;a.UIAspectRatioConstraint_7.AspectRatio=1.7;a.ColorPickerOverlay.Name="ColorPickerOverlay"a.ColorPickerOverlay.Parent=a.MainUI;a.ColorPickerOverlay.Active=false;a.ColorPickerOverlay.BackgroundColor3=Color3.fromRGB(255,255,255)a.ColorPickerOverlay.BackgroundTransparency=1.000;a.ColorPickerOverlay.ClipsDescendants=true;a.ColorPickerOverlay.Selectable=false;a.ColorPickerOverlay.Size=UDim2.new(1,0,1,0)a.ColorPickerOverlay.Visible=false;a.ColorPickerOverlay.ZIndex=200;a.ColorPickerOverlay.AutoButtonColor=false;a.ColorPickerOverlay.Image="rbxassetid://7880418493"a.ColorPickerOverlay.ImageColor3=Color3.fromRGB(18,18,18)a.ColorPickerOverlay.ImageTransparency=1.000;a.ColorPickerOverlay.ScaleType=Enum.ScaleType.Slice;a.ColorPickerOverlay.SliceCenter=Rect.new(512,512,512,512)a.ColorPickerOverlay.SliceScale=0.010;a.Content_6.Name="Content"a.Content_6.Parent=a.ColorPickerOverlay;a.Content_6.AnchorPoint=Vector2.new(0.5,0.5)a.Content_6.BackgroundColor3=Color3.fromRGB(255,255,255)a.Content_6.BackgroundTransparency=1.000;a.Content_6.Position=UDim2.new(0.5,0,1.5,0)a.Content_6.Size=UDim2.new(0.5,0,0.899999976,0)a.Content_6.ZIndex=201;a.MainWindow.Name="MainWindow"a.MainWindow.Parent=a.Content_6;a.MainWindow.BackgroundColor3=Color3.fromRGB(255,255,255)a.MainWindow.LayoutOrder=1;a.MainWindow.Size=UDim2.new(1,0,0.699999988,0)a.Wheel.Name="Wheel"a.Wheel.Parent=a.MainWindow;a.Wheel.AnchorPoint=Vector2.new(0,0.5)a.Wheel.BackgroundColor3=Color3.fromRGB(255,255,255)a.Wheel.BackgroundTransparency=1.000;a.Wheel.Position=UDim2.new(0,0,0.5,0)a.Wheel.Size=UDim2.new(0.800000012,0,0.800000012,0)a.Wheel.ZIndex=203;a.Wheel.Image="http://www.roblox.com/asset/?id=6020299385"a.Hitbox.Name="Hitbox"a.Hitbox.Parent=a.Wheel;a.Hitbox.Active=false;a.Hitbox.AnchorPoint=Vector2.new(0.5,0)a.Hitbox.BackgroundColor3=Color3.fromRGB(255,255,255)a.Hitbox.BackgroundTransparency=1.000;a.Hitbox.Position=UDim2.new(0.5,0,0,0)a.Hitbox.Selectable=false;a.Hitbox.Size=UDim2.new(1.29999995,0,1.29999995,0)a.Hitbox.ZIndex=205;a.Hitbox.Image="rbxassetid://7890831727"a.Hitbox.ImageTransparency=0.999;a.Hitbox.ScaleType=Enum.ScaleType.Slice;a.Hitbox.SliceCenter=Rect.new(512,512,512,512)a.Hitbox.SliceScale=0.003;a.Shadow_2.Name="Shadow"a.Shadow_2.Parent=a.Wheel;a.Shadow_2.AnchorPoint=Vector2.new(0.5,0.5)a.Shadow_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Shadow_2.BackgroundTransparency=1.000;a.Shadow_2.Position=UDim2.new(0.5,0,0.5,0)a.Shadow_2.Size=UDim2.new(1.29999995,0,1.32000005,0)a.Shadow_2.ZIndex=202;a.Shadow_2.Image="rbxassetid://7892079145"a.Shadow_2.ImageTransparency=0.550;a.UIAspectRatioConstraint_8.Parent=a.Wheel;a.Pointer.Name="Pointer"a.Pointer.Parent=a.Wheel;a.Pointer.AnchorPoint=Vector2.new(0.5,0.5)a.Pointer.BackgroundColor3=Color3.fromRGB(255,255,255)a.Pointer.BackgroundTransparency=1.000;a.Pointer.Position=UDim2.new(0.5,0,0.5,0)a.Pointer.Size=UDim2.new(0.100000001,0,0.100000001,0)a.Pointer.ZIndex=204;a.Pointer.Image="rbxassetid://7892266163"a.Pointer.ImageColor3=Color3.fromRGB(136,136,136)a.UIListLayout_14.Parent=a.MainWindow;a.UIListLayout_14.FillDirection=Enum.FillDirection.Horizontal;a.UIListLayout_14.HorizontalAlignment=Enum.HorizontalAlignment.Center;a.UIListLayout_14.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_14.VerticalAlignment=Enum.VerticalAlignment.Center;a.UIListLayout_14.Padding=UDim.new(0.200000003,0)a.Saturation.Name="Saturation"a.Saturation.Parent=a.MainWindow;a.Saturation.AnchorPoint=Vector2.new(0.5,0.5)a.Saturation.BackgroundColor3=Color3.fromRGB(255,255,255)a.Saturation.BackgroundTransparency=1.000;a.Saturation.BorderSizePixel=0;a.Saturation.Position=UDim2.new(0.800000012,0,0.5,0)a.Saturation.Size=UDim2.new(0.0340000018,0,1,0)a.Saturation.ZIndex=202;a.Saturation.Image="rbxassetid://3570695787"a.Saturation.ImageColor3=Color3.fromRGB(19,255,131)a.Saturation.ScaleType=Enum.ScaleType.Slice;a.Saturation.SliceCenter=Rect.new(100,100,100,100)a.Saturation.SliceScale=0.020;a.DropShadowHolder_10.Name="DropShadowHolder"a.DropShadowHolder_10.Parent=a.Saturation;a.DropShadowHolder_10.BackgroundTransparency=1.000;a.DropShadowHolder_10.BorderSizePixel=0;a.DropShadowHolder_10.Size=UDim2.new(1,0,1,0)a.DropShadowHolder_10.ZIndex=0;a.DropShadow_11.Name="DropShadow"a.DropShadow_11.Parent=a.DropShadowHolder_10;a.DropShadow_11.AnchorPoint=Vector2.new(0.5,0.5)a.DropShadow_11.BackgroundTransparency=1.000;a.DropShadow_11.BorderSizePixel=0;a.DropShadow_11.Position=UDim2.new(0.5,0,0.5,0)a.DropShadow_11.Size=UDim2.new(1,12,1,12)a.DropShadow_11.ZIndex=201;a.DropShadow_11.Image="rbxassetid://6014261993"a.DropShadow_11.ImageColor3=Color3.fromRGB(0,0,0)a.DropShadow_11.ImageTransparency=0.500;a.DropShadow_11.ScaleType=Enum.ScaleType.Slice;a.DropShadow_11.SliceCenter=Rect.new(49,49,450,450)a.Pointer_2.Name="Pointer"a.Pointer_2.Parent=a.Saturation;a.Pointer_2.AnchorPoint=Vector2.new(0.5,0)a.Pointer_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Pointer_2.BackgroundTransparency=1.000;a.Pointer_2.Position=UDim2.new(0.5,0,0,0)a.Pointer_2.Size=UDim2.new(1.29999995,0,0,4)a.Pointer_2.ZIndex=204;a.Pointer_2.Image="rbxassetid://7890831727"a.Pointer_2.ScaleType=Enum.ScaleType.Slice;a.Pointer_2.SliceCenter=Rect.new(512,512,512,512)a.Pointer_2.SliceScale=0.003;a.UIGradient_7.Color=ColorSequence.new{ColorSequenceKeypoint.new(0.00,Color3.fromRGB(255,255,255)),ColorSequenceKeypoint.new(1.00,Color3.fromRGB(0,0,0))}a.UIGradient_7.Rotation=90;a.UIGradient_7.Parent=a.Saturation;a.Hitbox_2.Name="Hitbox"a.Hitbox_2.Parent=a.Saturation;a.Hitbox_2.Active=false;a.Hitbox_2.AnchorPoint=Vector2.new(0.5,0)a.Hitbox_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Hitbox_2.BackgroundTransparency=1.000;a.Hitbox_2.Position=UDim2.new(0.5,0,0,0)a.Hitbox_2.Selectable=false;a.Hitbox_2.Size=UDim2.new(1.29999995,0,1.29999995,0)a.Hitbox_2.ZIndex=205;a.Hitbox_2.Image="rbxassetid://7890831727"a.Hitbox_2.ImageTransparency=0.999;a.Hitbox_2.ScaleType=Enum.ScaleType.Slice;a.Hitbox_2.SliceCenter=Rect.new(512,512,512,512)a.Hitbox_2.SliceScale=0.003;a.UIListLayout_15.Parent=a.Content_6;a.UIListLayout_15.HorizontalAlignment=Enum.HorizontalAlignment.Center;a.UIListLayout_15.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_15.Padding=UDim.new(0.0199999996,0)a.ClrDisplay.Name="ClrDisplay"a.ClrDisplay.Parent=a.Content_6;a.ClrDisplay.BackgroundColor3=Color3.fromRGB(255,255,255)a.ClrDisplay.LayoutOrder=2;a.ClrDisplay.Size=UDim2.new(1,0,0.100000001,0)a.UIListLayout_16.Parent=a.ClrDisplay;a.UIListLayout_16.FillDirection=Enum.FillDirection.Horizontal;a.UIListLayout_16.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_16.VerticalAlignment=Enum.VerticalAlignment.Center;a.UIListLayout_16.Padding=UDim.new(0.0500000007,0)a.RGB.Name="RGB"a.RGB.Parent=a.ClrDisplay;a.RGB.BackgroundColor3=Color3.fromRGB(255,255,255)a.RGB.BackgroundTransparency=1.000;a.RGB.Size=UDim2.new(0.600000024,0,0.800000012,0)a.RGB.ZIndex=202;a.RGB.Image="rbxassetid://7880418493"a.RGB.ImageColor3=Color3.fromRGB(32,32,32)a.RGB.ScaleType=Enum.ScaleType.Slice;a.RGB.SliceCenter=Rect.new(512,512,512,512)a.RGB.SliceScale=0.010;a.Textbox_2.Name="Textbox"a.Textbox_2.Parent=a.RGB;a.Textbox_2.Active=true;a.Textbox_2.AnchorPoint=Vector2.new(0.5,0.5)a.Textbox_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Textbox_2.BackgroundTransparency=1.000;a.Textbox_2.Position=UDim2.new(0.5,0,0.5,0)a.Textbox_2.Selectable=true;a.Textbox_2.Size=UDim2.new(0.850000024,0,0.850000024,0)a.Textbox_2.ZIndex=202;a.Textbox_2.Font=Enum.Font.Gotham;a.Textbox_2.Text="2, 39, 20"a.Textbox_2.TextColor3=Color3.fromRGB(255,255,255)a.Textbox_2.TextSize=14.000;a.DropShadowHolder_11.Name="DropShadowHolder"a.DropShadowHolder_11.Parent=a.RGB;a.DropShadowHolder_11.BackgroundTransparency=1.000;a.DropShadowHolder_11.BorderSizePixel=0;a.DropShadowHolder_11.Size=UDim2.new(1,0,1,0)a.DropShadowHolder_11.ZIndex=0;a.DropShadow_12.Name="DropShadow"a.DropShadow_12.Parent=a.DropShadowHolder_11;a.DropShadow_12.AnchorPoint=Vector2.new(0.5,0.5)a.DropShadow_12.BackgroundTransparency=1.000;a.DropShadow_12.BorderSizePixel=0;a.DropShadow_12.Position=UDim2.new(0.5,0,0.5,0)a.DropShadow_12.Size=UDim2.new(1,24,1,24)a.DropShadow_12.ZIndex=201;a.DropShadow_12.Image="rbxassetid://6014261993"a.DropShadow_12.ImageColor3=Color3.fromRGB(0,0,0)a.DropShadow_12.ImageTransparency=0.500;a.DropShadow_12.ScaleType=Enum.ScaleType.Slice;a.DropShadow_12.SliceCenter=Rect.new(49,49,450,450)a.Header.Name="Header"a.Header.Parent=a.RGB;a.Header.BackgroundColor3=Color3.fromRGB(255,255,255)a.Header.BackgroundTransparency=1.000;a.Header.Position=UDim2.new(0,0,-0.400000006,0)a.Header.Size=UDim2.new(1,0,0.300000012,0)a.Header.ZIndex=201;a.Header.Font=Enum.Font.Gotham;a.Header.Text="rgb"a.Header.TextColor3=Color3.fromRGB(255,255,255)a.Header.TextSize=14.000;a.Header.TextXAlignment=Enum.TextXAlignment.Left;a.Hex.Name="Hex"a.Hex.Parent=a.ClrDisplay;a.Hex.BackgroundColor3=Color3.fromRGB(255,255,255)a.Hex.BackgroundTransparency=1.000;a.Hex.LayoutOrder=1;a.Hex.Size=UDim2.new(0.349999994,0,0.800000012,0)a.Hex.ZIndex=202;a.Hex.Image="rbxassetid://7880418493"a.Hex.ImageColor3=Color3.fromRGB(32,32,32)a.Hex.ScaleType=Enum.ScaleType.Slice;a.Hex.SliceCenter=Rect.new(512,512,512,512)a.Hex.SliceScale=0.010;a.DropShadowHolder_12.Name="DropShadowHolder"a.DropShadowHolder_12.Parent=a.Hex;a.DropShadowHolder_12.BackgroundTransparency=1.000;a.DropShadowHolder_12.BorderSizePixel=0;a.DropShadowHolder_12.Size=UDim2.new(1,0,1,0)a.DropShadowHolder_12.ZIndex=0;a.DropShadow_13.Name="DropShadow"a.DropShadow_13.Parent=a.DropShadowHolder_12;a.DropShadow_13.AnchorPoint=Vector2.new(0.5,0.5)a.DropShadow_13.BackgroundTransparency=1.000;a.DropShadow_13.BorderSizePixel=0;a.DropShadow_13.Position=UDim2.new(0.5,0,0.5,0)a.DropShadow_13.Size=UDim2.new(1,24,1,24)a.DropShadow_13.ZIndex=201;a.DropShadow_13.Image="rbxassetid://6014261993"a.DropShadow_13.ImageColor3=Color3.fromRGB(0,0,0)a.DropShadow_13.ImageTransparency=0.500;a.DropShadow_13.ScaleType=Enum.ScaleType.Slice;a.DropShadow_13.SliceCenter=Rect.new(49,49,450,450)a.Textbox_3.Name="Textbox"a.Textbox_3.Parent=a.Hex;a.Textbox_3.Active=true;a.Textbox_3.AnchorPoint=Vector2.new(0.5,0.5)a.Textbox_3.BackgroundColor3=Color3.fromRGB(255,255,255)a.Textbox_3.BackgroundTransparency=1.000;a.Textbox_3.Position=UDim2.new(0.5,0,0.5,0)a.Textbox_3.Selectable=true;a.Textbox_3.Size=UDim2.new(0.850000024,0,0.850000024,0)a.Textbox_3.ZIndex=202;a.Textbox_3.Font=Enum.Font.Gotham;a.Textbox_3.Text="#22714"a.Textbox_3.TextColor3=Color3.fromRGB(255,255,255)a.Textbox_3.TextSize=14.000;a.Header_2.Name="Header"a.Header_2.Parent=a.Hex;a.Header_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Header_2.BackgroundTransparency=1.000;a.Header_2.Position=UDim2.new(0,0,-0.400000006,0)a.Header_2.Size=UDim2.new(1,0,0.300000012,0)a.Header_2.ZIndex=201;a.Header_2.Font=Enum.Font.Gotham;a.Header_2.Text="hex"a.Header_2.TextColor3=Color3.fromRGB(255,255,255)a.Header_2.TextSize=14.000;a.Header_2.TextXAlignment=Enum.TextXAlignment.Left;a.UIAspectRatioConstraint_9.Parent=a.Content_6;a.UIAspectRatioConstraint_9.AspectRatio=0.884;a.Buttons.Name="Buttons"a.Buttons.Parent=a.Content_6;a.Buttons.BackgroundColor3=Color3.fromRGB(255,255,255)a.Buttons.LayoutOrder=3;a.Buttons.Size=UDim2.new(1,0,0.100000001,0)a.Confirm.Name="Confirm"a.Confirm.Parent=a.Buttons;a.Confirm.Active=false;a.Confirm.BackgroundColor3=Color3.fromRGB(255,255,255)a.Confirm.BackgroundTransparency=1.000;a.Confirm.Selectable=false;a.Confirm.Size=UDim2.new(0.75,0,0.649999976,0)a.Confirm.ZIndex=201;a.Confirm.Image="rbxassetid://7881709447"a.Confirm.ImageColor3=Color3.fromRGB(50,50,50)a.Confirm.ScaleType=Enum.ScaleType.Slice;a.Confirm.SliceCenter=Rect.new(512,512,512,512)a.Confirm.SliceScale=0.005;a.Confirm_2.Name="Confirm"a.Confirm_2.Parent=a.Confirm;a.Confirm_2.AnchorPoint=Vector2.new(0.5,0)a.Confirm_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Confirm_2.BackgroundTransparency=1.000;a.Confirm_2.Position=UDim2.new(0.5,0,0,0)a.Confirm_2.Size=UDim2.new(0.600000024,0,1,0)a.Confirm_2.ZIndex=205;a.Confirm_2.Font=Enum.Font.GothamSemibold;a.Confirm_2.Text="Confirm Selection"a.Confirm_2.TextColor3=Color3.fromRGB(36,36,36)a.Confirm_2.TextSize=14.000;a.DropShadowHolder_13.Name="DropShadowHolder"a.DropShadowHolder_13.Parent=a.Confirm;a.DropShadowHolder_13.BackgroundTransparency=1.000;a.DropShadowHolder_13.BorderSizePixel=0;a.DropShadowHolder_13.Size=UDim2.new(1,0,1,0)a.DropShadowHolder_13.ZIndex=0;a.DropShadow_14.Name="DropShadow"a.DropShadow_14.Parent=a.DropShadowHolder_13;a.DropShadow_14.AnchorPoint=Vector2.new(0.5,0.5)a.DropShadow_14.BackgroundTransparency=1.000;a.DropShadow_14.BorderSizePixel=0;a.DropShadow_14.Position=UDim2.new(0.5,0,0.5,0)a.DropShadow_14.Size=UDim2.new(1,24,1,24)a.DropShadow_14.ZIndex=201;a.DropShadow_14.Image="rbxassetid://6015897843"a.DropShadow_14.ImageColor3=Color3.fromRGB(0,0,0)a.DropShadow_14.ImageTransparency=0.200;a.DropShadow_14.ScaleType=Enum.ScaleType.Slice;a.DropShadow_14.SliceCenter=Rect.new(49,49,450,450)a.Checkmark.Name="Checkmark"a.Checkmark.Parent=a.Confirm;a.Checkmark.AnchorPoint=Vector2.new(0.5,0.5)a.Checkmark.BackgroundColor3=Color3.fromRGB(255,255,255)a.Checkmark.BackgroundTransparency=1.000;a.Checkmark.BorderColor3=Color3.fromRGB(27,42,53)a.Checkmark.Position=UDim2.new(0.100000001,0,0.5,0)a.Checkmark.Size=UDim2.new(0.200000003,0,0.899999976,0)a.Checkmark.ZIndex=203;a.Checkmark.Image="rbxassetid://7072706620"a.Checkmark.ImageColor3=Color3.fromRGB(36,36,36)a.Checkmark.ScaleType=Enum.ScaleType.Fit;a.UIAspectRatioConstraint_10.Parent=a.Checkmark;a.OtherFill.Name="OtherFill"a.OtherFill.Parent=a.Confirm;a.OtherFill.BackgroundColor3=Color3.fromRGB(255,255,255)a.OtherFill.BackgroundTransparency=1.000;a.OtherFill.Size=UDim2.new(1,0,1,0)a.OtherFill.ZIndex=202;a.OtherFill.Image="rbxassetid://7881709447"a.OtherFill.ImageColor3=Color3.fromRGB(60,150,107)a.OtherFill.ScaleType=Enum.ScaleType.Slice;a.OtherFill.SliceCenter=Rect.new(512,512,512,512)a.OtherFill.SliceScale=0.005;a.UIListLayout_17.Parent=a.Buttons;a.UIListLayout_17.FillDirection=Enum.FillDirection.Horizontal;a.UIListLayout_17.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_17.VerticalAlignment=Enum.VerticalAlignment.Center;a.UIListLayout_17.Padding=UDim.new(0.0500000007,0)a.Cancel.Name="Cancel"a.Cancel.Parent=a.Buttons;a.Cancel.Active=false;a.Cancel.BackgroundColor3=Color3.fromRGB(255,255,255)a.Cancel.BackgroundTransparency=1.000;a.Cancel.LayoutOrder=1;a.Cancel.Selectable=false;a.Cancel.Size=UDim2.new(0.200000003,0,0.649999976,0)a.Cancel.ZIndex=201;a.Cancel.Image="rbxassetid://7881709447"a.Cancel.ImageColor3=Color3.fromRGB(50,50,50)a.Cancel.ScaleType=Enum.ScaleType.Slice;a.Cancel.SliceCenter=Rect.new(512,512,512,512)a.Cancel.SliceScale=0.005;a.OtherFill_2.Name="OtherFill"a.OtherFill_2.Parent=a.Cancel;a.OtherFill_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.OtherFill_2.BackgroundTransparency=1.000;a.OtherFill_2.Size=UDim2.new(1,0,1,0)a.OtherFill_2.ZIndex=202;a.OtherFill_2.Image="rbxassetid://7881709447"a.OtherFill_2.ImageColor3=Color3.fromRGB(170,89,91)a.OtherFill_2.ScaleType=Enum.ScaleType.Slice;a.OtherFill_2.SliceCenter=Rect.new(512,512,512,512)a.OtherFill_2.SliceScale=0.005;a.DropShadowHolder_14.Name="DropShadowHolder"a.DropShadowHolder_14.Parent=a.Cancel;a.DropShadowHolder_14.BackgroundTransparency=1.000;a.DropShadowHolder_14.BorderSizePixel=0;a.DropShadowHolder_14.Size=UDim2.new(1,0,1,0)a.DropShadowHolder_14.ZIndex=0;a.DropShadow_15.Name="DropShadow"a.DropShadow_15.Parent=a.DropShadowHolder_14;a.DropShadow_15.AnchorPoint=Vector2.new(0.5,0.5)a.DropShadow_15.BackgroundTransparency=1.000;a.DropShadow_15.BorderSizePixel=0;a.DropShadow_15.Position=UDim2.new(0.5,0,0.5,0)a.DropShadow_15.Size=UDim2.new(1,24,1,24)a.DropShadow_15.ZIndex=201;a.DropShadow_15.Image="rbxassetid://6015897843"a.DropShadow_15.ImageColor3=Color3.fromRGB(0,0,0)a.DropShadow_15.ImageTransparency=0.200;a.DropShadow_15.ScaleType=Enum.ScaleType.Slice;a.DropShadow_15.SliceCenter=Rect.new(49,49,450,450)a.Checkmark_2.Name="Checkmark"a.Checkmark_2.Parent=a.Cancel;a.Checkmark_2.AnchorPoint=Vector2.new(0.5,0.5)a.Checkmark_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Checkmark_2.BackgroundTransparency=1.000;a.Checkmark_2.BorderColor3=Color3.fromRGB(27,42,53)a.Checkmark_2.Position=UDim2.new(0.5,0,0.5,0)a.Checkmark_2.Size=UDim2.new(0.400000006,0,0.899999976,0)a.Checkmark_2.ZIndex=203;a.Checkmark_2.Image="rbxassetid://7072725342"a.Checkmark_2.ImageColor3=Color3.fromRGB(36,36,36)a.Checkmark_2.ScaleType=Enum.ScaleType.Fit;a.UIAspectRatioConstraint_11.Parent=a.Checkmark_2;a.Content_7.Name="Content"a.Content_7.Parent=a.MainUI;a.Content_7.BackgroundColor3=Color3.fromRGB(255,255,255)a.Content_7.BackgroundTransparency=1.000;a.Content_7.ClipsDescendants=true;a.Content_7.Position=UDim2.new(0.204050004,0,0,0)a.Content_7.Size=UDim2.new(0.796000004,0,1,0)a.Shadow_3.Name="Shadow"a.Shadow_3.Parent=a.Content_7;a.Shadow_3.BackgroundColor3=Color3.fromRGB(18,18,18)a.Shadow_3.BorderSizePixel=0;a.Shadow_3.Position=UDim2.new(-0.0192201305,0,0,0)a.Shadow_3.Size=UDim2.new(1.01922011,0,1,0)a.Shadow_3.Visible=false;a.Shadow_3.ZIndex=120;a.UIGradient_8.Rotation=90;a.UIGradient_8.Transparency=NumberSequence.new{NumberSequenceKeypoint.new(0.00,1.00),NumberSequenceKeypoint.new(0.96,1.00),NumberSequenceKeypoint.new(1.00,0.00)}a.UIGradient_8.Parent=a.Shadow_3;a.UICorner_18.CornerRadius=UDim.new(0.0199999996,0)a.UICorner_18.Parent=a.Shadow_3;a.Notifications.Name="Notifications"a.Notifications.Parent=a.Window;a.Notifications.BackgroundColor3=Color3.fromRGB(255,255,255)a.Notifications.BackgroundTransparency=1.000;a.Notifications.Position=UDim2.new(0.850000024,0,0,0)a.Notifications.Size=UDim2.new(0.150000006,0,1,0)a.UIListLayout_18.Parent=a.Notifications;a.UIListLayout_18.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_18.VerticalAlignment=Enum.VerticalAlignment.Bottom;a.CategoryButton.Name="CategoryButton"a.CategoryButton.Parent=a.Objects;a.CategoryButton.BackgroundColor3=Color3.fromRGB(35,35,35)a.CategoryButton.BackgroundTransparency=1.000;a.CategoryButton.BorderSizePixel=0;a.CategoryButton.Size=UDim2.new(1,0,0.200000003,0)a.CategoryButton.ZIndex=121;a.InnerContent.Name="InnerContent"a.InnerContent.Parent=a.CategoryButton;a.InnerContent.BackgroundColor3=Color3.fromRGB(255,255,255)a.InnerContent.BackgroundTransparency=1.000;a.InnerContent.Size=UDim2.new(1,0,1,0)a.UIListLayout_19.Parent=a.InnerContent;a.UIListLayout_19.HorizontalAlignment=Enum.HorizontalAlignment.Center;a.UIListLayout_19.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_19.VerticalAlignment=Enum.VerticalAlignment.Center;a.UIListLayout_19.Padding=UDim.new(0,5)a.Image_2.Name="Image"a.Image_2.Parent=a.InnerContent;a.Image_2.BackgroundTransparency=1.000;a.Image_2.Size=UDim2.new(0.400000006,0,0.400000006,0)a.Image_2.ZIndex=124;a.Image_2.Image="rbxassetid://8343977772"a.Image_2.ImageColor3=Color3.fromRGB(90,90,90)a.UIAspectRatioConstraint_12.Parent=a.Image_2;a.Title_3.Name="Title"a.Title_3.Parent=a.InnerContent;a.Title_3.BackgroundColor3=Color3.fromRGB(255,255,255)a.Title_3.BackgroundTransparency=1.000;a.Title_3.Size=UDim2.new(0.800000012,0,0.219999999,0)a.Title_3.ZIndex=124;a.Title_3.Font=Enum.Font.Gotham;a.Title_3.Text="AIMBOT"a.Title_3.TextColor3=Color3.fromRGB(90,90,90)a.Title_3.TextScaled=true;a.Title_3.TextSize=5.000;a.Title_3.TextWrapped=true;a.UITextSizeConstraint_4.Parent=a.Title_3;a.UITextSizeConstraint_4.MaxTextSize=15;a.UITextSizeConstraint_4.MinTextSize=10;a.SelectionShadow.Name="SelectionShadow"a.SelectionShadow.Parent=a.CategoryButton;a.SelectionShadow.BackgroundColor3=Color3.fromRGB(20,20,20)a.SelectionShadow.BackgroundTransparency=1.000;a.SelectionShadow.BorderSizePixel=0;a.SelectionShadow.Size=UDim2.new(1,0,1,0)a.SelectionShadow.ZIndex=123;a.UIGradient_9.Transparency=NumberSequence.new{NumberSequenceKeypoint.new(0.00,0.00),NumberSequenceKeypoint.new(0.60,1.00),NumberSequenceKeypoint.new(1.00,1.00)}a.UIGradient_9.Parent=a.SelectionShadow;a.HoverFrame_6.Name="HoverFrame"a.HoverFrame_6.Parent=a.CategoryButton;a.HoverFrame_6.BackgroundColor3=Color3.fromRGB(33,33,33)a.HoverFrame_6.BackgroundTransparency=1.000;a.HoverFrame_6.BorderSizePixel=0;a.HoverFrame_6.Size=UDim2.new(1,0,1,0)a.HoverFrame_6.ZIndex=122;a.CategoryFrame.Name="CategoryFrame"a.CategoryFrame.Parent=a.Objects;a.CategoryFrame.Active=true;a.CategoryFrame.BackgroundColor3=Color3.fromRGB(255,255,255)a.CategoryFrame.BackgroundTransparency=1.000;a.CategoryFrame.Position=UDim2.new(0,0,1,0)a.CategoryFrame.Size=UDim2.new(1,0,1,0)a.CategoryFrame.AutomaticCanvasSize=Enum.AutomaticSize.Y;a.CategoryFrame.CanvasSize=UDim2.new(0,0,0.5,0)a.CategoryFrame.ScrollBarThickness=0;a.Left.Name="Left"a.Left.Parent=a.CategoryFrame;a.Left.BackgroundColor3=Color3.fromRGB(255,255,255)a.Left.BackgroundTransparency=1.000;a.Left.Size=UDim2.new(0.5,0,1,0)a.Left.AutomaticSize=Enum.AutomaticSize.Y;a.UIPadding_9.Parent=a.Left;a.UIPadding_9.PaddingBottom=UDim.new(0,16)a.UIPadding_9.PaddingLeft=UDim.new(0,16)a.UIPadding_9.PaddingRight=UDim.new(0,16)a.UIPadding_9.PaddingTop=UDim.new(0,32)a.UIListLayout_20.Parent=a.Left;a.UIListLayout_20.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_20.Padding=UDim.new(0,35)a.Right.Name="Right"a.Right.Parent=a.CategoryFrame;a.Right.BackgroundColor3=Color3.fromRGB(255,255,255)a.Right.BackgroundTransparency=1.000;a.Right.Position=UDim2.new(0.5,0,0,0)a.Right.Size=UDim2.new(0.5,0,1,0)a.Right.AutomaticSize=Enum.AutomaticSize.Y;a.UIListLayout_21.Parent=a.Right;a.UIListLayout_21.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_21.Padding=UDim.new(0,35)a.UIPadding_10.Parent=a.Right;a.UIPadding_10.PaddingBottom=UDim.new(0,16)a.UIPadding_10.PaddingLeft=UDim.new(0,16)a.UIPadding_10.PaddingRight=UDim.new(0,16)a.UIPadding_10.PaddingTop=UDim.new(0,32)a.UIPadding_11.Parent=a.CategoryFrame;a.UIPadding_11.PaddingBottom=UDim.new(0,8)a.UIPadding_11.PaddingLeft=UDim.new(0,8)a.UIPadding_11.PaddingRight=UDim.new(0,8)a.UIPadding_11.PaddingTop=UDim.new(0,8)a.Section.Name="Section"a.Section.Parent=a.Objects;a.Section.BackgroundColor3=Color3.fromRGB(255,255,255)a.Section.BackgroundTransparency=1.000;a.Section.Size=UDim2.new(1,0,0,0)a.Section.ZIndex=101;a.Border.Name="Border"a.Border.Parent=a.Section;a.Border.BackgroundColor3=Color3.fromRGB(18,18,18)a.Border.BorderSizePixel=0;a.Border.Size=UDim2.new(1,0,1,0)a.Border.ZIndex=107;a.SectionTitle.Name="SectionTitle"a.SectionTitle.Parent=a.Border;a.SectionTitle.BackgroundColor3=Color3.fromRGB(255,255,255)a.SectionTitle.BackgroundTransparency=1.000;a.SectionTitle.LayoutOrder=-1;a.SectionTitle.Position=UDim2.new(0,0,0,-25)a.SectionTitle.Size=UDim2.new(1,0,0,20)a.SectionTitle.ZIndex=110;a.SectionTitle.Font=Enum.Font.GothamBold;a.SectionTitle.Text="TEXT BOXES"a.SectionTitle.TextColor3=Color3.fromRGB(60,60,60)a.SectionTitle.TextScaled=true;a.SectionTitle.TextSize=14.000;a.SectionTitle.TextWrapped=true;a.SectionTitle.TextXAlignment=Enum.TextXAlignment.Left;a.UITextSizeConstraint_5.Parent=a.SectionTitle;a.UITextSizeConstraint_5.MaxTextSize=14;a.UITextSizeConstraint_5.MinTextSize=10;a.UICorner_19.CornerRadius=UDim.new(0,2)a.UICorner_19.Parent=a.Border;a.Content_8.Name="Content"a.Content_8.Parent=a.Border;a.Content_8.BackgroundColor3=Color3.fromRGB(255,255,255)a.Content_8.BackgroundTransparency=1.000;a.Content_8.Size=UDim2.new(1,0,1,0)a.UIPadding_12.Parent=a.Content_8;a.UIPadding_12.PaddingBottom=UDim.new(0,8)a.UIPadding_12.PaddingLeft=UDim.new(0,8)a.UIPadding_12.PaddingRight=UDim.new(0,8)a.UIPadding_12.PaddingTop=UDim.new(0,8)a.UIListLayout_22.Parent=a.Content_8;a.UIListLayout_22.HorizontalAlignment=Enum.HorizontalAlignment.Center;a.UIListLayout_22.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_22.Padding=UDim.new(0,10)a.DropShadow_16.Name="DropShadow"a.DropShadow_16.Parent=a.Section;a.DropShadow_16.AnchorPoint=Vector2.new(0.5,0.5)a.DropShadow_16.BackgroundTransparency=1.000;a.DropShadow_16.BorderSizePixel=0;a.DropShadow_16.Position=UDim2.new(0.5,0,0.5,0)a.DropShadow_16.Size=UDim2.new(1,47,1,47)a.DropShadow_16.ZIndex=105;a.DropShadow_16.Image="rbxassetid://6014261993"a.DropShadow_16.ImageColor3=Color3.fromRGB(0,0,0)a.DropShadow_16.ImageTransparency=0.500;a.DropShadow_16.ScaleType=Enum.ScaleType.Slice;a.DropShadow_16.SliceCenter=Rect.new(49,49,450,450)a.CheatBase.Name="CheatBase"a.CheatBase.Parent=a.Objects;a.CheatBase.BackgroundColor3=Color3.fromRGB(255,255,255)a.CheatBase.LayoutOrder=1;a.CheatBase.Size=UDim2.new(1,0,0,30)a.Content_9.Name="Content"a.Content_9.Parent=a.CheatBase;a.Content_9.BackgroundColor3=Color3.fromRGB(255,255,255)a.Content_9.Size=UDim2.new(1,0,1,0)a.UIListLayout_23.Parent=a.Content_9;a.UIListLayout_23.FillDirection=Enum.FillDirection.Horizontal;a.UIListLayout_23.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_23.VerticalAlignment=Enum.VerticalAlignment.Center;a.Text_7.Name="Text"a.Text_7.Parent=a.Content_9;a.Text_7.BackgroundColor3=Color3.fromRGB(255,255,255)a.Text_7.Size=UDim2.new(0.5,0,1,0)a.Text_8.Name="Text"a.Text_8.Parent=a.Text_7;a.Text_8.AnchorPoint=Vector2.new(0.5,0.5)a.Text_8.BackgroundColor3=Color3.fromRGB(255,255,255)a.Text_8.BackgroundTransparency=1.000;a.Text_8.Position=UDim2.new(0.5,0,0.25,0)a.Text_8.Size=UDim2.new(0.899999976,0,0.5,0)a.Text_8.Visible=false;a.Text_8.ZIndex=111;a.Text_8.Font=Enum.Font.GothamSemibold;a.Text_8.Text="Title"a.Text_8.TextColor3=Color3.fromRGB(100,100,100)a.Text_8.TextSize=18.000;a.Text_8.TextWrapped=true;a.Text_8.TextXAlignment=Enum.TextXAlignment.Left;a.Desc.Name="Desc"a.Desc.Parent=a.Text_8;a.Desc.AnchorPoint=Vector2.new(0.5,0)a.Desc.BackgroundColor3=Color3.fromRGB(255,255,255)a.Desc.BackgroundTransparency=1.000;a.Desc.Position=UDim2.new(0.75,0,1.12,0)a.Desc.Size=UDim2.new(1.5,0,0.5,0)a.Desc.Visible=false;a.Desc.ZIndex=111;a.Desc.Font=Enum.Font.Gotham;a.Desc.Text="Short description"a.Desc.TextColor3=Color3.fromRGB(60,60,60)a.Desc.TextSize=12.000;a.Desc.TextWrapped=true;a.Desc.TextXAlignment=Enum.TextXAlignment.Left;a.ElementContent.Name="ElementContent"a.ElementContent.Parent=a.Content_9;a.ElementContent.BackgroundColor3=Color3.fromRGB(255,255,255)a.ElementContent.Size=UDim2.new(0.5,0,1,0)a.UIListLayout_24.Parent=a.ElementContent;a.UIListLayout_24.FillDirection=Enum.FillDirection.Horizontal;a.UIListLayout_24.HorizontalAlignment=Enum.HorizontalAlignment.Right;a.UIListLayout_24.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_24.VerticalAlignment=Enum.VerticalAlignment.Center;a.UIListLayout_24.Padding=UDim.new(0.0500000007,0)a.Notification.Name="Notification"a.Notification.Parent=a.Objects;a.Notification.BackgroundColor3=Color3.fromRGB(20,20,20)a.Notification.BackgroundTransparency=1.000;a.Notification.BorderSizePixel=0;a.Notification.Size=UDim2.new(1,0,0.150000006,0)a.Notification.ZIndex=10;a.Main.Name="Main"a.Main.Parent=a.Notification;a.Main.BackgroundColor3=Color3.fromRGB(20,20,20)a.Main.Size=UDim2.new(1,0,1,0)a.DropShadowHolder_15.Name="DropShadowHolder"a.DropShadowHolder_15.Parent=a.Main;a.DropShadowHolder_15.BackgroundTransparency=1.000;a.DropShadowHolder_15.BorderSizePixel=0;a.DropShadowHolder_15.Size=UDim2.new(1,0,1,0)a.DropShadowHolder_15.ZIndex=0;a.DropShadow_17.Name="DropShadow"a.DropShadow_17.Parent=a.DropShadowHolder_15;a.DropShadow_17.AnchorPoint=Vector2.new(0.5,0.5)a.DropShadow_17.BackgroundTransparency=1.000;a.DropShadow_17.BorderSizePixel=0;a.DropShadow_17.Position=UDim2.new(0.5,0,0.5,0)a.DropShadow_17.Size=UDim2.new(1,47,1,47)a.DropShadow_17.ZIndex=0;a.DropShadow_17.Image="rbxassetid://6014261993"a.DropShadow_17.ImageColor3=Color3.fromRGB(0,0,0)a.DropShadow_17.ImageTransparency=0.500;a.DropShadow_17.ScaleType=Enum.ScaleType.Slice;a.DropShadow_17.SliceCenter=Rect.new(49,49,450,450)a.Content_10.Name="Content"a.Content_10.Parent=a.Main;a.Content_10.BackgroundColor3=Color3.fromRGB(255,255,255)a.Content_10.BackgroundTransparency=1.000;a.Content_10.Size=UDim2.new(1,0,1,0)a.UIListLayout_25.Parent=a.Content_10;a.UIListLayout_25.FillDirection=Enum.FillDirection.Horizontal;a.UIListLayout_25.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_25.VerticalAlignment=Enum.VerticalAlignment.Center;a.UIListLayout_25.Padding=UDim.new(0.0299999993,0)a.Line_4.Name="Line"a.Line_4.Parent=a.Content_10;a.Line_4.BackgroundColor3=Color3.fromRGB(40,40,40)a.Line_4.BorderSizePixel=0;a.Line_4.LayoutOrder=-1;a.Line_4.Size=UDim2.new(0,1,1,0)a.Line_4.ZIndex=11;a.Buttons_2.Name="Buttons"a.Buttons_2.Parent=a.Content_10;a.Buttons_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Buttons_2.BackgroundTransparency=1.000;a.Buttons_2.BorderSizePixel=0;a.Buttons_2.Size=UDim2.new(0.189999998,-1,1,0)a.UIListLayout_26.Parent=a.Buttons_2;a.UIListLayout_26.HorizontalAlignment=Enum.HorizontalAlignment.Center;a.UIListLayout_26.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_26.VerticalAlignment=Enum.VerticalAlignment.Center;a.UIListLayout_26.Padding=UDim.new(0.05,0)a.Close.Name="Close"a.Close.Parent=a.Buttons_2;a.Close.AnchorPoint=Vector2.new(0.5,0.5)a.Close.BackgroundColor3=Color3.fromRGB(255,255,255)a.Close.BackgroundTransparency=1.000;a.Close.BorderColor3=Color3.fromRGB(27,42,53)a.Close.Position=UDim2.new(0.100000001,0,0.5,0)a.Close.Size=UDim2.new(0.5,0,1,0)a.Close.ZIndex=203;a.Close.Image="rbxassetid://7072725342"a.Close.ScaleType=Enum.ScaleType.Fit;a.UIAspectRatioConstraint_13.Parent=a.Close;a.Text_9.Name="Text"a.Text_9.Parent=a.Content_10;a.Text_9.BackgroundColor3=Color3.fromRGB(255,255,255)a.Text_9.BackgroundTransparency=1.000;a.Text_9.LayoutOrder=-2;a.Text_9.Size=UDim2.new(0.75,0,1,0)a.UIListLayout_27.Parent=a.Text_9;a.UIListLayout_27.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_27.VerticalAlignment=Enum.VerticalAlignment.Center;a.Title_4.Name="Title"a.Title_4.Parent=a.Text_9;a.Title_4.BackgroundColor3=Color3.fromRGB(255,255,255)a.Title_4.BackgroundTransparency=1.000;a.Title_4.Size=UDim2.new(1,0,0.400000006,0)a.Title_4.ZIndex=12;a.Title_4.Font=Enum.Font.GothamSemibold;a.Title_4.Text="Notification"a.Title_4.TextColor3=Color3.fromRGB(255,255,255)a.Title_4.TextSize=20.000;a.Title_4.TextWrapped=true;a.Title_4.TextXAlignment=Enum.TextXAlignment.Left;a.Desc_2.Name="Desc"a.Desc_2.Parent=a.Text_9;a.Desc_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Desc_2.BackgroundTransparency=1.000;a.Desc_2.Size=UDim2.new(1,0,0.400000006,0)a.Desc_2.ZIndex=12;a.Desc_2.Font=Enum.Font.Gotham;a.Desc_2.Text="You got no choice dude"a.Desc_2.TextColor3=Color3.fromRGB(150,150,150)a.Desc_2.TextSize=14.000;a.Desc_2.TextWrapped=true;a.Desc_2.TextXAlignment=Enum.TextXAlignment.Left;a.UIPadding_13.Parent=a.Text_9;a.UIPadding_13.PaddingBottom=UDim.new(0,4)a.UIPadding_13.PaddingLeft=UDim.new(0,8)a.UIPadding_13.PaddingRight=UDim.new(0,4)a.UIPadding_13.PaddingTop=UDim.new(0,4)a.UICorner_20.CornerRadius=UDim.new(0.0500000007,0)a.UICorner_20.Parent=a.Main;a.UIAspectRatioConstraint_14.Parent=a.Main;a.UIAspectRatioConstraint_14.AspectRatio=2.788;a.Notification_2.Name="Notification"a.Notification_2.Parent=a.Main;a.Notification_2.BackgroundColor3=Color3.fromRGB(15,15,15)a.Notification_2.BorderSizePixel=0;a.Notification_2.Size=UDim2.new(1,0,1,0)a.Notification_2.ZIndex=20;a.UICorner_21.CornerRadius=UDim.new(0.0500000007,0)a.UICorner_21.Parent=a.Notification_2;a.Prompt.Name="Prompt"a.Prompt.Parent=a.Objects;a.Prompt.BackgroundColor3=Color3.fromRGB(20,20,20)a.Prompt.BackgroundTransparency=1.000;a.Prompt.Size=UDim2.new(1,0,0.150000006,0)a.Prompt.ZIndex=10;a.Main_2.Name="Main"a.Main_2.Parent=a.Prompt;a.Main_2.BackgroundColor3=Color3.fromRGB(20,20,20)a.Main_2.BorderSizePixel=0;a.Main_2.Size=UDim2.new(1,0,1,0)a.UICorner_22.CornerRadius=UDim.new(0.0500000007,0)a.UICorner_22.Parent=a.Main_2;a.DropShadowHolder_16.Name="DropShadowHolder"a.DropShadowHolder_16.Parent=a.Main_2;a.DropShadowHolder_16.BackgroundTransparency=1.000;a.DropShadowHolder_16.BorderSizePixel=0;a.DropShadowHolder_16.Size=UDim2.new(1,0,1,0)a.DropShadowHolder_16.ZIndex=0;a.DropShadow_18.Name="DropShadow"a.DropShadow_18.Parent=a.DropShadowHolder_16;a.DropShadow_18.AnchorPoint=Vector2.new(0.5,0.5)a.DropShadow_18.BackgroundTransparency=1.000;a.DropShadow_18.BorderSizePixel=0;a.DropShadow_18.Position=UDim2.new(0.5,0,0.5,0)a.DropShadow_18.Size=UDim2.new(1,47,1,47)a.DropShadow_18.ZIndex=0;a.DropShadow_18.Image="rbxassetid://6014261993"a.DropShadow_18.ImageColor3=Color3.fromRGB(0,0,0)a.DropShadow_18.ImageTransparency=0.500;a.DropShadow_18.ScaleType=Enum.ScaleType.Slice;a.DropShadow_18.SliceCenter=Rect.new(49,49,450,450)a.Content_11.Name="Content"a.Content_11.Parent=a.Main_2;a.Content_11.BackgroundColor3=Color3.fromRGB(255,255,255)a.Content_11.BackgroundTransparency=1.000;a.Content_11.Size=UDim2.new(1,0,1,0)a.UIListLayout_28.Parent=a.Content_11;a.UIListLayout_28.FillDirection=Enum.FillDirection.Horizontal;a.UIListLayout_28.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_28.VerticalAlignment=Enum.VerticalAlignment.Center;a.UIListLayout_28.Padding=UDim.new(0.0299999993,0)a.Line_5.Name="Line"a.Line_5.Parent=a.Content_11;a.Line_5.BackgroundColor3=Color3.fromRGB(40,40,40)a.Line_5.BorderSizePixel=0;a.Line_5.LayoutOrder=-1;a.Line_5.Size=UDim2.new(0,1,1,0)a.Line_5.ZIndex=11;a.Buttons_3.Name="Buttons"a.Buttons_3.Parent=a.Content_11;a.Buttons_3.BackgroundColor3=Color3.fromRGB(255,255,255)a.Buttons_3.BackgroundTransparency=.999;a.Buttons_3.BorderSizePixel=0;a.Buttons_3.Size=UDim2.new(0.189999998,-1,1,0)a.UIListLayout_29.Parent=a.Buttons_3;a.UIListLayout_29.HorizontalAlignment=Enum.HorizontalAlignment.Center;a.UIListLayout_29.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_29.VerticalAlignment=Enum.VerticalAlignment.Center;a.UIListLayout_29.Padding=UDim.new(0.300000012,0)a.Accept.Name="Accept"a.Accept.Parent=a.Buttons_3;a.Accept.AnchorPoint=Vector2.new(0.5,0.5)a.Accept.BackgroundColor3=Color3.fromRGB(255,255,255)a.Accept.BackgroundTransparency=1.000;a.Accept.BorderColor3=Color3.fromRGB(27,42,53)a.Accept.Position=UDim2.new(0.100000001,0,0.5,0)a.Accept.Size=UDim2.new(0.5,0,1,0)a.Accept.ZIndex=203;a.Accept.Image="rbxassetid://7072706620"a.Accept.ScaleType=Enum.ScaleType.Fit;a.UIAspectRatioConstraint_15.Parent=a.Accept;a.Close_2.Name="Close"a.Close_2.Parent=a.Buttons_3;a.Close_2.AnchorPoint=Vector2.new(0.5,0.5)a.Close_2.BackgroundColor3=Color3.fromRGB(255,255,255)a.Close_2.BackgroundTransparency=1.000;a.Close_2.BorderColor3=Color3.fromRGB(27,42,53)a.Close_2.Position=UDim2.new(0.100000001,0,0.5,0)a.Close_2.Size=UDim2.new(0.5,0,1,0)a.Close_2.ZIndex=203;a.Close_2.Image="rbxassetid://7072725342"a.Close_2.ScaleType=Enum.ScaleType.Fit;a.UIAspectRatioConstraint_16.Parent=a.Close_2;a.Text_10.Name="Text"a.Text_10.Parent=a.Content_11;a.Text_10.BackgroundColor3=Color3.fromRGB(255,255,255)a.Text_10.BackgroundTransparency=1.000;a.Text_10.LayoutOrder=-2;a.Text_10.Size=UDim2.new(0.75,0,1,0)a.UIListLayout_30.Parent=a.Text_10;a.UIListLayout_30.SortOrder=Enum.SortOrder.LayoutOrder;a.UIListLayout_30.VerticalAlignment=Enum.VerticalAlignment.Center;a.Title_5.Name="Title"a.Title_5.Parent=a.Text_10;a.Title_5.BackgroundColor3=Color3.fromRGB(255,255,255)a.Title_5.BackgroundTransparency=1.000;a.Title_5.Size=UDim2.new(1,0,0.400000006,0)a.Title_5.ZIndex=12;a.Title_5.Font=Enum.Font.GothamSemibold;a.Title_5.Text="Prompt"a.Title_5.TextColor3=Color3.fromRGB(255,255,255)a.Title_5.TextSize=20.000;a.Title_5.TextWrapped=true;a.Title_5.TextXAlignment=Enum.TextXAlignment.Left;a.Desc_3.Name="Desc"a.Desc_3.Parent=a.Text_10;a.Desc_3.BackgroundColor3=Color3.fromRGB(255,255,255)a.Desc_3.BackgroundTransparency=1.000;a.Desc_3.Size=UDim2.new(1,0,0.400000006,0)a.Desc_3.ZIndex=12;a.Desc_3.Font=Enum.Font.Gotham;a.Desc_3.Text="Would you like to start autofarm?"a.Desc_3.TextColor3=Color3.fromRGB(150,150,150)a.Desc_3.TextSize=14.000;a.Desc_3.TextWrapped=true;a.Desc_3.TextXAlignment=Enum.TextXAlignment.Left;a.UIPadding_14.Parent=a.Text_10;a.UIPadding_14.PaddingBottom=UDim.new(0,4)a.UIPadding_14.PaddingLeft=UDim.new(0,8)a.UIPadding_14.PaddingRight=UDim.new(0,4)a.UIPadding_14.PaddingTop=UDim.new(0,4)a.Notification_3.Name="Notification"a.Notification_3.Parent=a.Main_2;a.Notification_3.BackgroundColor3=Color3.fromRGB(15,15,15)a.Notification_3.BorderSizePixel=0;a.Notification_3.Size=UDim2.new(1,0,1,0)a.Notification_3.ZIndex=20;a.UICorner_23.CornerRadius=UDim.new(0.0500000007,0)a.UICorner_23.Parent=a.Notification_3;a.UIAspectRatioConstraint_17.Parent=a.Main_2;a.UIAspectRatioConstraint_17.AspectRatio=2.788;return a.UIObjects end;return a()end;local b=b()b.Parent=script;for a,a in pairs(script.UIObjects:GetChildren())do a.Parent=a.Parent.Parent end;script.UIObjects:Destroy()function a.new(a,b)if a=="Cheat"then if script.Cheats:FindFirstChild(b)then return script.Cheats[b]:Clone()else error("Invalid cheatType")end end;if script.Objects:FindFirstChild(a)then return script.Objects[a]:Clone()else error("Invalid objectType")end end;return a end;local b=b()local function c()local a={}local b=workspace.Camera.ViewportSize;local c=Vector2.new(b.X/2,b.Y/2)a.OffsetToScale=function(a)return({a[1]/b.X,a[2]/b.Y})end;a.ScaleToOffset=function(a)local c=a[1]*b.X;local a=a[2]*b.Y;return c,a end;a.CheckBoundary=function(b,c,d)if b then local e=b.AbsoluteSize;local b=b.AbsolutePosition;local f=-(e-b)+e;local b=(e+b)-c.AbsoluteSize;local c=c.Position;local a,e=a.ScaleToOffset({c.X.Scale,c.Y.Scale})local c=Vector2.new(c.X.Offset+d.X+a,c.Y.Offset+d.Y+e)a=math.clamp(c.X,f.X,b.X)e=math.clamp(c.Y,f.Y,b.Y)return a,e end end;a.SortTable=function(a,b,c)a=a or{}b=b or{}local d;local e;pcall(function()if c then for b,b in ipairs(b)do if table.find(a,b)and b.ZIndex<=c.ZIndex then if not e then e=(c.AbsolutePosition-b.AbsolutePosition).Magnitude;d=b else local a=(c.AbsolutePosition-b.AbsolutePosition).Magnitude;if a<e then e=a;d=b end end end end end end)return d end;a.Side=function(a)if a>=-135 and a<=-45 then return'Left'elseif a<=45 and a>-45 then return'Down'elseif a<=135 and a>45 then return'Right'else return'Up'end end;a.Snap=function(b,d,e)local f=d.AbsolutePosition-c;local c=b.AbsolutePosition-c;local c=f-c;local c=math.deg(math.atan2(c.X,c.Y))local c=a.Side(c)local f=b.Size;local g=d.Size;local h,i=table.unpack(a.OffsetToScale({g.X.Offset,g.Y.Offset}))h=h+g.X.Scale;i=i+g.Y.Scale;local g,j=table.unpack(a.OffsetToScale({f.X.Offset,f.Y.Offset}))g=g+f.X.Scale;j=j+f.Y.Scale;local f={g,j}local k,l=table.unpack(a.OffsetToScale({b.Position.X.Offset,b.Position.Y.Offset}))local m=(e and a.OffsetToScale({e.X.Offset,0})[1])or a.OffsetToScale({d.Position.X.Offset,0})[1]local a=(e and a.OffsetToScale({0,e.Y.Offset})[2])or a.OffsetToScale({0,d.Position.Y.Offset})[2]if c=='Up'then local a=UDim2.new(m,0,l+b.Position.Y.Scale,0)f[2]=f[2]+i-j;return a+UDim2.new(0,0,-f[2],0)elseif c=='Down'then local a=UDim2.new(m,0,l+b.Position.Y.Scale,0)return a+UDim2.new(0,0,f[2],0)elseif c=='Left'then local a=UDim2.new(k+b.Position.X.Scale,0,a,0)f[1]=f[1]+h-g;return a+UDim2.new(-f[1],0,0,0)elseif c=='Right'then local a=UDim2.new(k+b.Position.X.Scale,0,a,0)return a+UDim2.new(f[1],0,0,0)end end;return a end;local function d()local a=game:GetService("RunService")local b=a:IsClient()if b then local b=game:GetService("UserInputService")local d=game:GetService("TweenService")local c=c()local d=game.Players.LocalPlayer;local e=d:GetMouse()local f={}local g={}local h=false;local i=false;local j=workspace.Camera.ViewportSize;local j=Vector2.new(j.X/2,j.Y/2)local k;local k;local l={}l.__index=l;local m={}local n={HoverIcon=nil,DraggingIcon=nil,PriorityIcon=nil,Priority="Snapping"}function l:SetData(a)for a,b in pairs(a)do self[a]=b end end;function l:Destroy()local a=table.find(m,self)if a then if g[self]then for a,a in ipairs(g[self])do if a then a:Destroy()end end;g[self]=nil end;if self._InputCheck then self._InputCheck:Disconnect()self._InputCheck=nil end;table.remove(m,a)if#m==0 and k then k:Disconnect()k=nil end end end;function l:GetDistanceFromUI(a)local a=a.AbsolutePosition-j;local b=self.Object.AbsolutePosition-j;local a=a-b;local a=math.deg(math.atan2(a.X,a.Y))local a=c.Side(a)if a=="Up"then elseif a=="Down"then elseif a=="Left"then elseif a=="Right"then end end;coroutine.wrap(function()while n.HoverIcon do a.RenderStepped:Wait()if n.PriorityIcon=="Hover"or not h then local a=true;for b,b in ipairs(m)do if b.CanDrag then a=false;break end end;if a then local a=Vector2.new(e.X,e.Y)local a=d.PlayerGui:GetGuiObjectsAtPosition(a.X,a.Y)if#a>=1 then i=true;if n.HoverIcon then e.Icon=n.HoverIcon end else i=false;e.Icon=""end end end end end)()f.Drag=function(a,b,c,d,e,f,h)local i={}i.Boundary=c;i.Object=a;i.Clippings=d;i.CanDrag=false;i.OldPosition=nil;i.Clipped=nil;i.AutoClip=e;i.ResponseTime=(f and math.abs(f))i.Snappings=h;i.Snapped=nil;i._InputCheck=b.InputBegan:Connect(function(a)if a.UserInputType==Enum.UserInputType.MouseButton1 then local b=false;for a,a in ipairs(m)do if a.CanDrag then b=true;break end end;local c=g[i]if not b then i.CanDrag=true;c[1]:Fire()local b;b=a.Changed:Connect(function()if a.UserInputState==Enum.UserInputState.End then i.CanDrag=false;c[2]:Fire()b:Disconnect()end end)end end end)local a=Instance.new("BindableEvent")local b=Instance.new("BindableEvent")i.DragStart=a.Event;i.DragEnd=b.Event;g[i]={a,b}setmetatable(i,l)table.insert(m,i)return i end;f.InputBegan=b.InputBegan:Connect(function(b,f)if f then return end;if b.UserInputType==Enum.UserInputType.MouseButton1 then for a,a in ipairs(m)do if a.CanDrag then a.OldPosition=Vector2.new(e.X,e.Y)end end;k=a.RenderStepped:Connect(function(a)local b=Vector2.new(e.X,e.Y)local f=0;for e,e in ipairs(m)do if e.CanDrag then f=f+1;local f=e.Object.Position;local g=b-e.OldPosition;local h,i=c.ScaleToOffset({f.X.Scale,f.Y.Scale})local f=UDim2.new(0,f.X.Offset+g.X+h,0,f.Y.Offset+g.Y+i)if e.Boundary then local a,b=c.CheckBoundary(e.Boundary,e.Object,g)f=UDim2.new(0,a,0,b)end;local g;if e.ResponseTime then g=a*7*e.ResponseTime else g=1 end;e._Target=f;e.Object.Position=e.Object.Position:Lerp(f,g)e.OldPosition=e.OldPosition:Lerp(b,g)local a=d.PlayerGui:GetGuiObjectsAtPosition(b.X,b.Y)local a=c.SortTable(e.Clippings,a,e.Object)if a then e.Clipped=a else if not e.AutoClip then e.Clipped=nil end end;if e.Snappings then local a;local b;for c,c in ipairs(e.Snappings)do if not a then a=(e.Object.AbsolutePosition-c.AbsolutePosition).Magnitude;b=c else local d=(e.Object.AbsolutePosition-c.AbsolutePosition).Magnitude;if d<a then a=d;b=c end end end;if a then local c,d=c.ScaleToOffset({b.Size.X.Scale,b.Size.Y.Scale})c=c+b.Size.X.Offset;d=d+b.Size.X.Offset;local f=(e.Object.AbsolutePosition-(b.AbsolutePosition+Vector2.new(c))).Magnitude*0.0264583333;local c=(e.Object.AbsolutePosition-(b.AbsolutePosition-Vector2.new(c))).Magnitude*0.0264583333;local g=(e.Object.AbsolutePosition-(b.AbsolutePosition+Vector2.new(0,d))).Magnitude*0.0264583333;local d=(e.Object.AbsolutePosition-(b.AbsolutePosition-Vector2.new(0,d))).Magnitude*0.0264583333;if(a*0.0264583333)<=3.5 or g<=2.5 or f<=2.5 or c<=2.5 and d<=2.5 then e.Snap=b else e.Snap=nil end end end end end;if f~=0 and(n.PriorityIcon=="Dragging"or not i)and n.DraggingIcon then e.Icon=n.DraggingIcon end end)end end)f.InputEnd=b.InputEnded:Connect(function(b)if b.UserInputType==Enum.UserInputType.MouseButton1 then if k then k:Disconnect()k=nil;e.Icon=""for b,b in ipairs(m)do coroutine.wrap(function()if b.Clipped and(not b.Snap or n.Priority=="Clipping")then if b.ResponseTime then if b.ResponseTime>0 then for c=1,10 do a.RenderStepped:Wait()b.Object.Position=b.Object.Position:Lerp(b.Clipped.Position,c/10)end end else b.Object.Position=b.Clipped.Position end;b.Object.Rotation=b.Clipped.Rotation end;if b.Snap and(not b.Clipped or n.Priority=="Snapping")then local c=c.Snap(b.Snap,b.Object,b._Target)if b.ResponseTime then for d=1,10 do a.RenderStepped:Wait()b.Object.Position=b.Object.Position:Lerp(c,d/10)end else b.Object.Position=c end;b.Snap=nil end end)()if b.CanDrag then b.OldPosition=nil end end end end end)return f end end;local c=d()local function d()local a={}local b=game:GetService("TweenService")local c=TweenInfo.new(.4,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out)a.ButtonHoverEffect=function(a,d)local e=Instance.new("BindableEvent")local f={}local function g()b:Create(a.HoverFrame,c,{BackgroundTransparency=.5}):Play()end;local function h()b:Create(a.HoverFrame,c,{BackgroundTransparency=1}):Play()end;local b=false;table.insert(f,a.InputBegan:Connect(function(a,c)if c==true or a.UserInputType~=Enum.UserInputType.MouseMovement then return end;if d then if d()==false then return end end;b=true;g()e:Fire()end))table.insert(f,a.InputEnded:Connect(function(a,c)if c==true or a.UserInputType~=Enum.UserInputType.MouseMovement then return end;if d then if d()==false then return end end;b=false;h()end))return{Event=e.Event,Disconnect=function()for a,a in pairs(f)do f:Disconnect()end;h()end}end;a.ButtonClickEffect=function(a,d)local e=Instance.new("BindableEvent")local f={}local function g()b:Create(a,c,{BackgroundTransparency=.5}):Play()end;local function h()b:Create(a,c,{BackgroundTransparency=1}):Play()end;table.insert(f,a.InputBegan:Connect(function(a,b)if b==true or a.UserInputType~=Enum.UserInputType.MouseButton1 then return end;if d then if d()==false then return end end;g()end))table.insert(f,a.InputEnded:Connect(function(a,b)if b==true or a.UserInputType~=Enum.UserInputType.MouseButton1 then return end;h()if d then if d()==false then return end end;e:Fire()end))return{Event=e.Event,Disconnect=function()for a,a in pairs(f)do f:Disconnect()end;h()end}end;return a end;local d=d()local e=function(a)local b=Instance.new("Frame")Instance.new("UICorner",b)b.UICorner.CornerRadius=UDim.new(1,0)b.AnchorPoint=Vector2.new(0.5,0.5)b.BackgroundColor3=Color3.fromRGB(0,0,0)b.Position=UDim2.new(0,game.Players.LocalPlayer:GetMouse().X-a.AbsolutePosition.X,0,game.Players.LocalPlayer:GetMouse().Y-a.AbsolutePosition.Y)b.Size=UDim2.new(0,1,0,1)b.Transparency=.8;b.ZIndex=999;b.Parent=a;local c={}c.Size=UDim2.new(0,(a.AbsoluteSize.X),0,(a.AbsoluteSize.X))c.Transparency=1;game.Debris:AddItem(b,.4)local a=game:GetService("TweenService"):Create(b,TweenInfo.new(.4,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out),c)a:Play()end;local function f(a)local b={0}for a,a in pairs(a:GetChildren())do if a:IsA("GuiObject")then table.insert(b,a.LayoutOrder)end end;return math.max(unpack(b))+1 end;local g=game:GetService("RunService")local h=game:GetService("HttpService")local i=game:GetService("Players")local i=i.LocalPlayer;local j=game:GetService("TweenService")local k=TweenInfo.new(.4,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out)local l={"Window","Category","Button","Section"}for b,b in pairs(l)do a[b]={}a[b].__index=a[b]end;function a.new(d,e,f)local j=Instance.new("ScreenGui")j.Name=h:GenerateGUID(false)j.Parent=g:IsStudio()==false and game:GetService("CoreGui")or i:WaitForChild("PlayerGui")j.ResetOnSpawn=false;j.ZIndexBehavior=Enum.ZIndexBehavior.Global;local b=b.new("Window")b.Parent=j;local g=Instance.new("Frame")g.BackgroundTransparency=1;g.Size=UDim2.fromScale(2,2)g.AnchorPoint=Vector2.new(0.5,0.5)g.Position=UDim2.fromScale(.5,.5)local h=Instance.new("UIAspectRatioConstraint",g)h.AspectRatio=1.2;g.Parent=b.MainUI.Sidebar.ContentHolder.Cheats.Logo;g.ZIndex=300;local c=c.Drag(b.MainUI,g)b.Watermark.Text=("OhioMode v2 | %s | %s"):format(e,d)local c=b.MainUI.Sidebar.ContentHolder.UserInfo.Content;c.Rank.Text=f;c.Title.Text=e;return setmetatable({UI={},windowInfo={gameName=d,userId=e,rank=f},currentSelection=nil,currentCategorySelection=nil,currentTab=nil,MainUI=b},a.Window)end;function a.Window:setAnimSpeed(a)k=TweenInfo.new(.4/(a/100),Enum.EasingStyle.Exponential,Enum.EasingDirection.Out)end;function a.Window:Notification(a)local b=b.new("Notification").Main;b.Size=UDim2.new(1,0,1,-5)b:FindFirstChildOfClass("UIAspectRatioConstraint"):Destroy()local c=self.MainUI.Notifications;b.Content.Text.Title.Text=a.Title;b.Content.Text.Desc.Text=a.Desc;local d=f(c)b.LayoutOrder=d;b.Notification.BackgroundTransparency=0;b.Parent.Size=UDim2.fromScale(1,0)b.Parent.Parent=c;wait(.02)j:Create(b.Parent,k,{Size=UDim2.new(1,0,.1,5)}):Play()wait(.2)j:Create(b.Notification,k,{BackgroundTransparency=1}):Play()local c={}local d=true;local function e()d=false;for a,a in pairs(c)do a:Disconnect()end;j:Create(b.Notification,k,{BackgroundTransparency=0}):Play()j:Create(b,TweenInfo.new(.3,Enum.EasingStyle.Sine,Enum.EasingDirection.InOut),{Position=UDim2.fromScale(2,0)}):Play()task.delay(.3,function()j:Create(b.Parent,TweenInfo.new(.5,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out),{Size=UDim2.fromScale(0,0)}):Play()local a=b.Parent;b.Parent:ClearAllChildren()wait(.3)a:Destroy()end)for a,a in pairs(b:GetDescendants())do if a:IsA("ImageLabel")or a:IsA("ImageButton")then j:Create(a,k,{ImageTransparency=1}):Play()elseif a:IsA("TextLabel")then j:Create(a,k,{TextTransparency=1}):Play()end end end;if a.expire then task.delay(a.expire,function()if d then e()end end)end;table.insert(c,b.Content.Buttons.InputBegan:Connect(function(a,c)if c then return end;if a.UserInputType==Enum.UserInputType.MouseMovement then j:Create(b.Content.Buttons.Close,k,{ImageColor3=Color3.fromRGB(100,100,100)}):Play()elseif a.UserInputType==Enum.UserInputType.MouseButton1 then e()end end))table.insert(c,b.Content.Buttons.InputEnded:Connect(function(a,c)if c then return end;if a.UserInputType==Enum.UserInputType.MouseMovement then j:Create(b.Content.Buttons.Close,k,{ImageColor3=Color3.fromRGB(255,255,255)}):Play()end end))end;function a.Window:Prompt(a)local b=b.new("Prompt").Main;b.Size=UDim2.new(1,0,1,-5)b:FindFirstChildOfClass("UIAspectRatioConstraint"):Destroy()local c=self.MainUI.Notifications;b.Content.Text.Title.Text=a.Title;b.Content.Text.Desc.Text=a.Desc;local a=f(c)b.LayoutOrder=a;b.Notification.BackgroundTransparency=0;b.Parent.Size=UDim2.fromScale(1,0)b.Parent.Parent=c;wait(.02)j:Create(b.Parent,k,{Size=UDim2.new(1,0,.1,5)}):Play()wait(.2)j:Create(b.Notification,k,{BackgroundTransparency=1}):Play()local a={}local c=true;local d=nil;local e=Instance.new("BindableEvent")local function f()c=false;e:Fire()for a,a in pairs(a)do a:Disconnect()end;j:Create(b.Notification,k,{BackgroundTransparency=0}):Play()j:Create(b,TweenInfo.new(.3,Enum.EasingStyle.Sine,Enum.EasingDirection.InOut),{Position=UDim2.fromScale(2,0)}):Play()task.delay(.3,function()j:Create(b.Parent,TweenInfo.new(.5,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out),{Size=UDim2.fromScale(0,0)}):Play()local a=b.Parent;b.Parent:ClearAllChildren()wait(.3)a:Destroy()end)for a,a in pairs(b:GetDescendants())do if a:IsA("ImageLabel")or a:IsA("ImageButton")then j:Create(a,k,{ImageTransparency=1}):Play()elseif a:IsA("TextLabel")then j:Create(a,k,{TextTransparency=1}):Play()end end end;local function c(a,b)local c=Instance.new("Frame")c.Size=UDim2.fromScale(1,.35)c.BackgroundTransparency=1;a.Parent=c;c.Name=a.Name;a.Name="Button"a.Position=UDim2.fromScale(.5,.5-(.2/b))return c end;local g=b.Content.Buttons;local h=c(b.Content.Buttons.Close,1)h.LayoutOrder=1;local b=c(b.Content.Buttons.Accept,-1)h.Parent=g;b.Parent=g;table.insert(a,h.InputBegan:Connect(function(a,b)if b then return end;if a.UserInputType==Enum.UserInputType.MouseMovement then j:Create(h.Button,k,{ImageColor3=Color3.fromRGB(100,100,100)}):Play()elseif a.UserInputType==Enum.UserInputType.MouseButton1 then f()end end))table.insert(a,h.InputEnded:Connect(function(a,b)if b then return end;if a.UserInputType==Enum.UserInputType.MouseMovement then j:Create(h.Button,k,{ImageColor3=Color3.fromRGB(255,255,255)}):Play()end end))table.insert(a,b.InputBegan:Connect(function(a,c)if c then return end;if a.UserInputType==Enum.UserInputType.MouseMovement then j:Create(b.Button,k,{ImageColor3=Color3.fromRGB(100,100,100)}):Play()elseif a.UserInputType==Enum.UserInputType.MouseButton1 then d=true;f()end end))table.insert(a,b.InputEnded:Connect(function(a,c)if c then return end;if a.UserInputType==Enum.UserInputType.MouseMovement then j:Create(b.Button,k,{ImageColor3=Color3.fromRGB(255,255,255)}):Play()end end))e.Event:Wait()return d end;function a.Window:ChangeCategory(a)local b=self.MainUI.MainUI.Sidebar.ContentHolder.Cheats.CheatHolder;local a=b:FindFirstChild(a)if a and self.currentSelection~=a then if self.currentSelection then j:Create(self.currentSelection.Content.Image,k,{ImageColor3=Color3.fromRGB(90,90,90)}):Play()j:Create(self.currentSelection.Content.Title,k,{TextColor3=Color3.fromRGB(90,90,90)}):Play()j:Create(self.currentSelection.HoverFrame,k,{BackgroundTransparency=1}):Play()j:Create(self.MainUI.MainUI.Sidebar.Sidebar2[self.currentSelection.Name],k,{Position=UDim2.fromScale(1,0)}):Play()end;j:Create(a.Content.Image,k,{ImageColor3=Color3.fromRGB(83,87,158)}):Play()j:Create(a.Content.Title,k,{TextColor3=Color3.fromRGB(83,87,158)}):Play()j:Create(a.HoverFrame,k,{BackgroundTransparency=.3}):Play()j:Create(self.MainUI.MainUI.Sidebar.Sidebar2[a.Name],k,{Position=UDim2.fromScale(0,0)}):Play()self.currentSelection=a;local b=nil;for a,a in pairs(self.MainUI.MainUI.Sidebar.Sidebar2[a.Name].Bar2Holder:GetChildren())do if a:IsA("GuiObject")then b=a;break end end;if b then self:ChangeCategorySelection(b.Name)end end end;function a.Window:ChangeCategorySelection(a)local b=self.MainUI.MainUI.Sidebar.Sidebar2[self.currentSelection.Name].Bar2Holder;local b=b:FindFirstChild(a)if b and self.currentCategorySelection~=b then if self.currentCategorySelection then j:Create(self.currentCategorySelection.InnerContent.Image,k,{ImageColor3=Color3.fromRGB(90,90,90)}):Play()j:Create(self.currentCategorySelection.InnerContent.Title,k,{TextColor3=Color3.fromRGB(90,90,90)}):Play()j:Create(self.currentCategorySelection.HoverFrame,k,{BackgroundTransparency=1}):Play()j:Create(self.currentCategorySelection.SelectionShadow,k,{BackgroundTransparency=1}):Play()j:Create(self.currentTab,k,{Position=UDim2.fromScale(0,1)}):Play()end;j:Create(b.InnerContent.Image,k,{ImageColor3=Color3.fromRGB(83,87,158)}):Play()j:Create(b.InnerContent.Title,k,{TextColor3=Color3.fromRGB(83,87,158)}):Play()j:Create(b.HoverFrame,k,{BackgroundTransparency=.3}):Play()j:Create(b.SelectionShadow,k,{BackgroundTransparency=.6}):Play()local a=self.MainUI.MainUI.Content:FindFirstChild(a)if a then j:Create(a,k,{Position=UDim2.fromScale(0,0)}):Play()end;self.currentTab=a;self.currentCategorySelection=b end end;function a.Window:Category(c,g)local h=self.MainUI.MainUI.Sidebar.ContentHolder.Cheats.CheatHolder;local j=b.new("Category")j.Content.Title.Text=c;j.Content.Image.Image=g;self.UI[c]={}j.Name=c;j.Parent=h;j.LayoutOrder=f(h)local b=b.new("CategoryContent")b.Name=c;b.Visible=true;b.Parent=self.MainUI.MainUI.Sidebar.Sidebar2;local f=d.ButtonHoverEffect(j,function()if self.currentSelection~=j then return true else return false end end)local d=d.ButtonClickEffect(j)d.Event:Connect(function()e(j,i:GetMouse().X,i:GetMouse().Y)self:ChangeCategory(c)end)if self.currentSelection==nil then self:ChangeCategory(c)end;return setmetatable({Effects={Hover=f,Click=d},oldSelf=self,categoryUI=j,contentHolder=b},a.Category)end;function a.Category:Button(c,g)local h=self.ContentHolder;local h=b.new("CategoryButton")h.InnerContent.Image.Image=g;h.InnerContent.Title.Text=c;h.Parent=self.contentHolder.Bar2Holder;h.LayoutOrder=f(self.contentHolder.Bar2Holder)h.Name=c;local f=0;for a,a in pairs(self.contentHolder.Bar2Holder:GetChildren())do if a:IsA("GuiObject")then f=f+1 end end;for a,a in pairs(self.contentHolder.Bar2Holder:GetChildren())do if a:IsA("GuiObject")then a.Size=UDim2.fromScale(1,1/f)end end;h.Size=UDim2.fromScale(1,1/f)self.oldSelf.UI[self.categoryUI.Name][c]={}local b=b.new("CategoryFrame")b.Name=c;b.Parent=self.oldSelf.MainUI.MainUI.Content;b.Visible=true;local f=d.ButtonHoverEffect(h,function()if self.currentCategorySelection~=h then return true else return false end end)local d=d.ButtonClickEffect(h)d.Event:Connect(function()e(h,i:GetMouse().X,i:GetMouse().Y)if self.oldSelf.currentSelection.Name==self.categoryUI.Name then self.oldSelf:ChangeCategorySelection(c)end end)if self.oldSelf.currentCategorySelection==nil and self.oldSelf.currentSelection.Name==self.categoryUI.Name then self.oldSelf:ChangeCategorySelection(c)end;return setmetatable({Effects={Hover=f,Click=d},oldSelf=self,CategoryName=self.categoryUI.Name,SectionName=c,CategoryFrame=b},a.Button)end;function a.Button:Section(c,d)local b=b.new("Section")b.Border.SectionTitle.Text=c;b.DropShadow.Size=UDim2.new(1,25,1,25)b.Name=c;b.Border.Content.ChildAdded:Connect(function(a)local a=25+(10*math.clamp(#b.Border.Content:GetChildren()-2,0,3))b.DropShadow.Size=UDim2.new(1,a,1,a)end)b.Parent=self.oldSelf.oldSelf.MainUI.MainUI.Content[self.SectionName][d]b.LayoutOrder=f(self.oldSelf.oldSelf.MainUI.MainUI.Content[self.SectionName][d])self.oldSelf.oldSelf.UI[self.oldSelf.categoryUI.Name][self.SectionName][c]={}b.Size=UDim2.new(1,0,0,b.Border.Content.UIListLayout.AbsoluteContentSize.Y+20)b.Border.Content.UIListLayout:GetPropertyChangedSignal("AbsoluteContentSize"):Connect(function()b.Size=UDim2.new(1,0,0,b.Border.Content.UIListLayout.AbsoluteContentSize.Y+20)end)return setmetatable({MainSelf=self.oldSelf.oldSelf,oldSelf=self,Section=b},a.Section)end;local c={["Button"]={FullSize=true},["Checkbox"]={TextSize=UDim2.fromScale(.2,1)},["Textbox"]={TextSize=UDim2.fromScale(.4,1),FullSize=true},["Dropdown"]={FullSize=true},["Slider"]={TextSize=UDim2.fromScale(.45,1)},["Toggle"]={TextSize=UDim2.fromScale(.5,1)}}local function d(a,d)local e=b.new("CheatBase")local c=c[a]local f=c~=nil and c.FullSize or false;local f=f and UDim2.fromScale(1,1)or UDim2.fromScale(.5,1)if d.Title then if d.Description then e.Content.Text.Text.Text=d.Title;e.Content.Text.Text.Desc.Text=d.Description;e.Content.Text.Text.Desc.Visible=true;e.Content.Text.Text.Visible=true else e.Content.Text.Text.Text=d.Title;e.Content.Text.Text.Size=UDim2.fromScale(.9,1)e.Content.Text.Text.Position=UDim2.fromScale(.5,.5)e.Content.Text.Text.Visible=true end;if c and c.TextSize then f=c.TextSize else f=UDim2.fromScale(.5,1)end end;local c=1-f.X.Scale;e.Content.ElementContent.Size=f;e.Content.Text.Size=UDim2.fromScale(c,1)local a=b.new("Cheat",a)if a then a.Parent=e.Content.ElementContent end;return e end;local function b(a,b)local c=Instance.new("BindableEvent")local d=(b:IsA("ImageLabel")or b:IsA("ImageButton"))and"ImageTransparency"or"BackgroundTransparency"local function e(a)return{[d]=a}end;a.InputBegan:Connect(function(a,c)if c then return end;if a.UserInputType==Enum.UserInputType.MouseMovement then j:Create(b,k,e(.5)):Play()elseif a.UserInputType==Enum.UserInputType.MouseButton1 then j:Create(b,k,e(.2)):Play()end end)a.InputEnded:Connect(function(a,d)if d then return end;if a.UserInputType==Enum.UserInputType.MouseMovement then j:Create(b,k,e(1)):Play()elseif a.UserInputType==Enum.UserInputType.MouseButton1 then j:Create(b,k,e(.5)):Play()c:Fire()end end)return c.Event end;function a.Section:Button(a,c)local e={}e.__index=e;local d=d("Button",a)d.Parent=self.Section.Border.Content;d.LayoutOrder=f(self.Section.Border.Content)local f=d.Content.ElementContent.Button;b(f,f.HoverFrame):Connect(function()c()end)f.Text.Text=a.ButtonName;local b=setmetatable({element=f,UI=d},e)self.oldSelf.oldSelf.oldSelf.UI[self.oldSelf.oldSelf.categoryUI.Name][self.oldSelf.SectionName][self.Section.Name][a.Title]=b;return b end;function a.Section:Checkbox(a,c)local e={}e.__index=e;local d=d("Checkbox",a)d.Parent=self.Section.Border.Content;d.LayoutOrder=f(self.Section.Border.Content)local f=d.Content.ElementContent.Checkbox;local g=false;e.setValue=function(a)g=a;if a then j:Create(f.Selection,k,{Size=UDim2.fromScale(.85,.85),BackgroundTransparency=0}):Play()else j:Create(f.Selection,k,{Size=UDim2.fromScale(0.5,0.5),BackgroundTransparency=1.1}):Play()end;c(g)end;e.getValue=function()return g end;b(f,f.HoverFrame):Connect(function()e.setValue(not g)end)if a.Default then e.setValue(a.Default)end;local b=setmetatable({element=f,UI=d},e)self.oldSelf.oldSelf.oldSelf.UI[self.oldSelf.oldSelf.categoryUI.Name][self.oldSelf.SectionName][self.Section.Name][a.Title]=b;return b end;function a.Section:Toggle(a,c)local e={}e.__index=e;local d=d("Toggle",a)d.Parent=self.Section.Border.Content;d.LayoutOrder=f(self.Section.Border.Content)local f=d.Content.ElementContent.Toggle;local g=false;e.setValue=function(a)g=a;if a then j:Create(f.Content.Frame,k,{Position=UDim2.fromScale(.8,.5)}):Play()j:Create(f,k,{BackgroundColor3=Color3.fromRGB(134,142,255)}):Play()else j:Create(f.Content.Frame,k,{Position=UDim2.fromScale(.2,.5)}):Play()j:Create(f,k,{BackgroundColor3=Color3.fromRGB(25,25,25)}):Play()end;c(g)end;e.getValue=function()return g end;b(f,f.HoverFrame):Connect(function()e.setValue(not g)end)if a.Default then e.setValue(a.Default)end;local b=setmetatable({element=f,UI=d},e)self.oldSelf.oldSelf.oldSelf.UI[self.oldSelf.oldSelf.categoryUI.Name][self.oldSelf.SectionName][self.Section.Name][a.Title]=b;return b end;function a.Section:Textbox(a,b)local c={}c.__index=c;local d=d("Textbox",a)d.Parent=self.Section.Border.Content;d.LayoutOrder=f(self.Section.Border.Content)local e=d.Content.ElementContent.Textbox;local function f()local a=math.clamp(e.Text.TextBounds.X,10,e.Parent.AbsoluteSize.X)+20;j:Create(e,k,{Size=UDim2.fromScale(a/e.Parent.AbsoluteSize.X,1)}):Play()end;c.setValue=function(a)e.Text.Text=a;f()b(e.Text.Text)end;c.getValue=function()return e.Text.Text end;f()e.Text.Focused:Connect(function()j:Create(e,k,{BackgroundColor3=Color3.fromRGB(17,17,17)}):Play()j:Create(e,k,{Size=UDim2.fromScale(1,1)}):Play()end)e.Text.FocusLost:Connect(function()j:Create(e,k,{BackgroundColor3=Color3.fromRGB(25,25,25)}):Play()c.setValue(e.Text.Text)end)if a.Default then c.setValue(a.Default)end;local b=setmetatable({element=e,UI=d},c)self.oldSelf.oldSelf.oldSelf.UI[self.oldSelf.oldSelf.categoryUI.Name][self.oldSelf.SectionName][self.Section.Name][a.Title]=b;return b end;local c={}function a.Section:Keybind(a,e)local g={}g.__index=g;local d=d("Keybind",a)d.Parent=self.Section.Border.Content;d.LayoutOrder=f(self.Section.Border.Content)local f=d.Content.ElementContent.Keybind;local function h()local a=math.clamp(f.Text.TextBounds.X,10,f.Parent.AbsoluteSize.X)+20;j:Create(f,k,{Size=UDim2.fromScale(a/f.Parent.AbsoluteSize.X,1)}):Play()end;local i=nil;local j=nil;g.setValue=function(a)f.Text.Text=a.Name;h()i=a;if j then j:Disconnect()end;c={}j=game:GetService("UserInputService").InputBegan:Connect(function(a,b)if b then return end;if a.UserInputType==Enum.UserInputType.Keyboard and a.KeyCode==i then e()elseif a.UserInputType.Name==i.Name then e()end end)end;g.getValue=function()return i end;h()local e=false;local j;b(f,f.HoverFrame):Connect(function()if e then return end;if c.old and c.set~=g.setValue then return end;e=true;f.Text.Text="..."h()local a=g.getValue()j=game:GetService("UserInputService").InputBegan:Connect(function(a,b)if a.UserInputType==Enum.UserInputType.Keyboard then i=a.KeyCode;e=false;g.setValue(i)j:Disconnect()elseif a.UserInputType==Enum.UserInputType.MouseButton2 or a.UserInputType==Enum.UserInputType.MouseButton1 then i=a.UserInputType;e=false;g.setValue(i)j:Disconnect()end end)c.old=a;c.conn=j;c.set=g.setValue end)if a.Default then g.setValue(a.Default)end;local b=setmetatable({element=f,UI=d},g)self.oldSelf.oldSelf.oldSelf.UI[self.oldSelf.oldSelf.categoryUI.Name][self.oldSelf.SectionName][self.Section.Name][a.Title]=b;return b end;function toInteger(a)return math.floor(a.r*255)*256^2+math.floor(a.g*255)*256+math.floor(a.b*255)end;function toHex(a)local a=toInteger(a)local a=a;local b=""local c={"A","B","C","D","E","F"}repeat local d=a%16;local e=tostring(d)if d>=10 then e=c[1+d-10]end;a=math.floor(a/16)b=b..e until a<=0;return"#"..string.reverse(b)end;function a.Section:ColorPicker(a,c)local e={}e.__index=e;local d=d("ColorPicker",a)d.Parent=self.Section.Border.Content;d.LayoutOrder=f(self.Section.Border.Content)local f=d.Content.ElementContent.ColorPicker;local h=false;local i=Color3.fromRGB(255,255,255)e.setValue=function(a)j:Create(f.Preview,k,{ImageColor3=a}):Play()i=a;c(a)f.Text.Label.Text=math.floor(a.R*255)..", "..math.floor(a.G*255)..", "..math.floor(a.B*255)end;e.getValue=function()return i end;e.openMenu=function()if h==true then return end;h=true;local a;local b;self.MainSelf.MainUI.MainUI.ColorPickerOverlay.Visible=true;j:Create(self.MainSelf.MainUI.MainUI.ColorPickerOverlay,k,{ImageTransparency=.07}):Play()j:Create(self.MainSelf.MainUI.MainUI.ColorPickerOverlay.Content,k,{Position=UDim2.fromScale(.5,0.5)}):Play()local b=self.MainSelf.MainUI.MainUI.ColorPickerOverlay.Content;local c=b.MainWindow.Wheel;local d=b.MainWindow.Saturation.Pointer;local f=b.MainWindow.Saturation;local function i()local a=Vector2.new(c.AbsolutePosition.X+(c.AbsoluteSize.X/2),c.AbsolutePosition.Y+(c.AbsoluteSize.Y/2))local b=Vector2.new(c.Pointer.AbsolutePosition.X+(c.Pointer.AbsoluteSize.X/2),c.Pointer.AbsolutePosition.Y+(c.Pointer.AbsoluteSize.Y/2))local e=(math.pi-math.atan2(b.Y-a.Y,b.X-a.X))/(math.pi*2)local a=(a-b).Magnitude/(c.AbsoluteSize.X/2)local b=math.abs((d.AbsolutePosition.Y-f.AbsolutePosition.Y)/f.AbsoluteSize.Y-1)local b=Color3.fromHSV(math.clamp(e,0,1),math.clamp(a,0,1),math.clamp(b,0,1))return b,Color3.fromHSV(math.clamp(e,0,1),math.clamp(a,0,1),1)end;local l=false;local m=false;local n={}table.insert(n,self.MainSelf.MainUI.MainUI.ColorPickerOverlay.Content.MainWindow.Wheel.Hitbox.InputBegan:Connect(function(a,b)if b==true then return end;if a.UserInputType==Enum.UserInputType.MouseButton1 then l=true end end))table.insert(n,self.MainSelf.MainUI.MainUI.ColorPickerOverlay.Content.MainWindow.Wheel.Hitbox.InputEnded:Connect(function(a,b)if b==true then return end;if a.UserInputType==Enum.UserInputType.MouseButton1 then l=false end end))table.insert(n,self.MainSelf.MainUI.MainUI.ColorPickerOverlay.Content.MainWindow.Saturation.Hitbox.InputBegan:Connect(function(a,b)if b==true then return end;if a.UserInputType==Enum.UserInputType.MouseButton1 then m=true end end))table.insert(n,self.MainSelf.MainUI.MainUI.ColorPickerOverlay.Content.MainWindow.Saturation.Hitbox.InputEnded:Connect(function(a,b)if b==true then return end;if a.UserInputType==Enum.UserInputType.MouseButton1 then m=false end end))table.insert(n,g.RenderStepped:Connect(function()local e=game:GetService("UserInputService"):GetMouseLocation()-Vector2.new(0,game:GetService("GuiService"):GetGuiInset().Y)local g=Vector2.new(c.AbsolutePosition.X+(c.AbsoluteSize.X/2),c.AbsolutePosition.Y+(c.AbsoluteSize.Y/2))local g=(e-g).Magnitude;if l then if g<=c.AbsoluteSize.X/2 then c.Pointer.Position=UDim2.new(0,e.X-c.AbsolutePosition.X,0,e.Y-c.AbsolutePosition.Y)end end;if m then d.Position=UDim2.new(d.Position.X.Scale,0,0,math.clamp(e.Y-f.AbsolutePosition.Y,0,f.AbsoluteSize.Y))end;local c,d=i()f.ImageColor3=d;if c~=a then a=c;b.ClrDisplay.RGB.Textbox.Text=math.floor(c.R*255)..", "..math.floor(c.G*255)..", "..math.floor(c.B*255)b.ClrDisplay.Hex.Textbox.Text=toHex(c)end end))local function a()for a,a in pairs(n)do a:Disconnect()end;j:Create(self.MainSelf.MainUI.MainUI.ColorPickerOverlay,k,{ImageTransparency=1}):Play()j:Create(self.MainSelf.MainUI.MainUI.ColorPickerOverlay.Content,k,{Position=UDim2.fromScale(.5,1.5)}):Play()wait(.5)self.MainSelf.MainUI.MainUI.ColorPickerOverlay.Visible=false;h=false end;table.insert(n,b.Buttons.Cancel.InputBegan:Connect(function(c,d)if d==true then return end;if c.UserInputType==Enum.UserInputType.MouseButton1 then a()elseif c.UserInputType==Enum.UserInputType.MouseMovement then j:Create(b.Buttons.Cancel.OtherFill,k,{ImageColor3=Color3.fromRGB(150,69,71)}):Play()end end))table.insert(n,b.Buttons.Cancel.InputEnded:Connect(function(a,c)if c==true then return end;if a.UserInputType==Enum.UserInputType.MouseMovement then j:Create(b.Buttons.Cancel.OtherFill,k,{ImageColor3=Color3.fromRGB(170,89,91)}):Play()end end))table.insert(n,b.Buttons.Confirm.InputBegan:Connect(function(c,d)if d==true then return end;if c.UserInputType==Enum.UserInputType.MouseButton1 then local b,c=i()e.setValue(b)a()elseif c.UserInputType==Enum.UserInputType.MouseMovement then j:Create(b.Buttons.Confirm.OtherFill,k,{ImageColor3=Color3.fromRGB(60,150,107)}):Play()end end))table.insert(n,b.Buttons.Confirm.InputEnded:Connect(function(a,c)if c==true then return end;if a.UserInputType==Enum.UserInputType.MouseMovement then j:Create(b.Buttons.Confirm.OtherFill,k,{ImageColor3=Color3.fromRGB(85,170,127)}):Play()end end))end;f.Text.Label.Focused:Connect(function()j:Create(f.Text,k,{ImageColor3=Color3.fromRGB(20,20,20)}):Play()end)f.Text.Label.FocusLost:Connect(function()j:Create(f.Text,k,{ImageColor3=Color3.fromRGB(25,25,25)}):Play()local a=f.Text.Label.Text:split(",")if#a==3 then for a,a in pairs(a)do if tonumber(a)==nil then f.Text.Label.Text=math.floor(i.R*255)..", "..math.floor(i.G*255)..", "..math.floor(i.B*255)return end end;local a=Color3.fromRGB(a[1],a[2],a[3])e.setValue(a)else f.Text.Label.Text=math.floor(i.R*255)..", "..math.floor(i.G*255)..", "..math.floor(i.B*255)end end)b(f.Preview,f.Preview.Hover):Connect(function()e.openMenu()end)if a.Default then e.setValue(a.Default)else e.setValue(Color3.fromRGB(255,255,255))end;local b=setmetatable({element=f,UI=d},e)self.oldSelf.oldSelf.oldSelf.UI[self.oldSelf.oldSelf.categoryUI.Name][self.oldSelf.SectionName][self.Section.Name][a.Title]=b;return b end;function a.Section:Slider(a,b)local c={}c.__index=c;local d=d("Slider",a)d.Parent=self.Section.Border.Content;d.LayoutOrder=f(self.Section.Border.Content)local e=d.Content.ElementContent.Slider;if a.Min==nil then a.Min=0 end;if a.Max==nil then a.Max=10 end;local f=a.Min;local h=0;c.getData=function()return a end;c.setValue=function(a,c)f=math.floor(a)h=c;e.KeyInput.Text.Text=tostring(math.floor(a))j:Create(e.Drag.Frame.UIGradient,k,{Offset=Vector2.new(h,0)}):Play()b(a)end;c.getValue=function()return f end;e.KeyInput.Text.Focused:Connect(function()j:Create(e.KeyInput,k,{BackgroundColor3=Color3.fromRGB(17,17,17)}):Play()end)e.KeyInput.Text.FocusLost:Connect(function()j:Create(e.KeyInput,k,{BackgroundColor3=Color3.fromRGB(25,25,25)}):Play()if tonumber(e.KeyInput.Text.Text)then e.KeyInput.Text.Text=math.clamp(tonumber(e.KeyInput.Text.Text),a.Min,a.Max)end;if tonumber(e.KeyInput.Text.Text)then local a=math.clamp(tonumber(e.KeyInput.Text.Text)/a.Max,0,1)c.setValue(tonumber(e.KeyInput.Text.Text),a)else e.KeyInput.Text.Text=tostring(math.floor(f))end end)local b=false;g.RenderStepped:Connect(function()if b then local b=i:GetMouse().X;local d=e.Drag.AbsolutePosition.X;local f=e.Drag.AbsolutePosition.X-(e.Drag.AbsoluteSize.X)local e=e.Drag.AbsolutePosition.X+(e.Drag.AbsoluteSize.X)local b=math.clamp((b-d)/(e-d),0,1)local a=((a.Max-a.Min)*b)+a.Min;c.setValue(a,b)end end)e.Drag.InputBegan:Connect(function(a,c)if c==true then return end;if a.UserInputType==Enum.UserInputType.MouseButton1 then b=true end end)e.Drag.InputEnded:Connect(function(a,c)if c==true then return end;if a.UserInputType==Enum.UserInputType.MouseButton1 then b=false end end)if a.Default then local b=math.clamp(tonumber(a.Default)/a.Max,0,1)c.setValue(tonumber(a.Default),b)else local b=math.clamp((((a.Max-a.Min)/2)+a.Min)/a.Max,0,1)c.setValue(tonumber((((a.Max-a.Min)/2)+a.Min)),b)end;local b=setmetatable({element=e,UI=d},c)self.oldSelf.oldSelf.oldSelf.UI[self.oldSelf.oldSelf.categoryUI.Name][self.oldSelf.SectionName][self.Section.Name][a.Title]=b;return b end;function a.Section:Dropdown(a,b)local c={}c.__index=c;local d=d("Dropdown",a)d.Parent=self.Section.Border.Content;d.LayoutOrder=f(self.Section.Border.Content)local e=d.Content.ElementContent.Dropdown;local f=e.Slot:Clone()e.Slot:Destroy()local g=e.Bottom:Clone()e.Bottom:Destroy()local h=e.Top:Clone()e.Top:Destroy()local i={}local l=false;local m=a.Options~=nil and a.Options or{}local n={}local n={}c.refreshUI=function()local a=""for b,c in pairs(m)do local c=e.OptionHolder.ContentHolder.Content:FindFirstChild(b)if m[b]then j:Create(c.Select,k,{ImageTransparency=0}):Play()if a==""then a=b else a=a..", "..b end else j:Create(c.Select,k,{ImageTransparency=1}):Play()end end;if a==""then a="None"end;e.MainHolder.Content.Text.Text=a end;c.setValue=function(d,f,g)if m[d]~=nil then if e.OptionHolder.ContentHolder.Content:FindFirstChild(d)then if a.Multi==true then m[d]=f;c.refreshUI()else if f==true then for a,b in pairs(m)do m[a]=false end;if g==nil then c.openMenu()end;m[d]=true;c.refreshUI()end end;b(m)end end end;local function b()for a,a in pairs(e.OptionHolder.ContentHolder.Content:GetChildren())do if a:IsA("GuiObject")then a:Destroy()end end;for a,a in pairs(n)do a:Disconnect()end;local a=0;local b=0;for a,a in pairs(m)do b=b+1 end;for d,i in pairs(m)do local l;a=a+1;if a==b then l=g:Clone()elseif a~=1 then l=f:Clone()else l=h:Clone()end;l.Name=d;l.Parent=e.OptionHolder.ContentHolder.Content;l.LayoutOrder=i;l.Size=UDim2.fromScale(1,1/b)l.Current.Text=d;table.insert(n,l.InputBegan:Connect(function(a,b)if b then return end;if a.UserInputType==Enum.UserInputType.MouseButton1 then c.setValue(d,not m[d])elseif a.UserInputType==Enum.UserInputType.MouseMovement then j:Create(l,k,{ImageColor3=Color3.fromRGB(20,20,20)}):Play()end end))table.insert(n,l.InputEnded:Connect(function(a,b)if a.UserInputType==Enum.UserInputType.MouseMovement then j:Create(l,k,{ImageColor3=Color3.fromRGB(25,25,25)}):Play()end end))end end;b()c.updateDropdown=function(a)m=a;b()c.refreshUI()end;c.openMenu=function()local a=0;for b,b in pairs(m)do a=a+1 end;if a==0 then return end;l=not l;if l then j:Create(e.MainHolder.Content.Icon.Holder,k,{Rotation=180}):Play()j:Create(e.OptionHolder,k,{Size=UDim2.fromScale(1,math.clamp(a,0,999)*.7)}):Play()local a=15+(10*math.clamp(a,0,3))j:Create(e.OptionHolder.Cover.DropShadow,k,{ImageTransparency=0.5,Size=UDim2.new(1,a,1,a)}):Play()e.OptionHolder.Visible=true;task.delay(.4,function()if l then j:Create(e.OptionHolder.Cover,k,{BackgroundTransparency=1}):Play()end end)else j:Create(e.MainHolder.Content.Icon.Holder,k,{Rotation=0}):Play()j:Create(e.OptionHolder,k,{Size=UDim2.fromScale(1,0)}):Play()j:Create(e.OptionHolder.Cover.DropShadow,k,{ImageTransparency=1,Size=UDim2.new(1,0,1,0)}):Play()j:Create(e.OptionHolder.Cover,TweenInfo.new(.2,Enum.EasingStyle.Exponential,Enum.EasingDirection.Out),{BackgroundTransparency=0}):Play()task.delay(.4,function()if l then return end;e.OptionHolder.Visible=false end)end end;c.getValue=function()return m end;table.insert(i,e.MainHolder.Content.Icon.InputBegan:Connect(function(a,b)if b then return end;if a.UserInputType==Enum.UserInputType.MouseMovement then j:Create(e.MainHolder.Content.Icon.Holder.Icon,k,{Position=UDim2.fromScale(0,.2),ImageColor3=Color3.fromRGB(50,50,50)}):Play()elseif a.UserInputType==Enum.UserInputType.MouseButton1 then c.openMenu()end end))table.insert(i,e.MainHolder.Content.Icon.InputEnded:Connect(function(a,b)if b then return end;if a.UserInputType==Enum.UserInputType.MouseMovement then j:Create(e.MainHolder.Content.Icon.Holder.Icon,k,{Position=UDim2.fromScale(0,0),ImageColor3=Color3.fromRGB(100,100,100)}):Play()end end))if a.Default then c.setValue(a.Default,true,true)end;local b=setmetatable({element=e,UI=d},c)self.oldSelf.oldSelf.oldSelf.UI[self.oldSelf.oldSelf.categoryUI.Name][self.oldSelf.SectionName][self.Section.Name][a.Title]=b;return b end;return a
+
+
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+local RunService = game:GetService("RunService")
+local LocalPlayer = game:GetService("Players").LocalPlayer
+local Mouse = LocalPlayer:GetMouse()
+local HttpService = game:GetService("HttpService")
+
+local OrionLib = {
+	Elements = {},
+	ThemeObjects = {},
+	Connections = {},
+	Flags = {},
+	Themes = {
+		Default = {
+			Main = Color3.fromRGB(25, 25, 25),
+			Second = Color3.fromRGB(32, 32, 32),
+			Stroke = Color3.fromRGB(60, 60, 60),
+			Divider = Color3.fromRGB(60, 60, 60),
+			Text = Color3.fromRGB(240, 240, 240),
+			TextDark = Color3.fromRGB(150, 150, 150)
+		}
+	},
+	SelectedTheme = "Default",
+	Folder = nil,
+	SaveCfg = false
+}
+
+--Feather Icons https://github.com/evoincorp/lucideblox/tree/master/src/modules/util - Created by 7kayoh
+local Icons = {}
+
+local Success, Response = pcall(function()
+	Icons = HttpService:JSONDecode(game:HttpGetAsync("https://raw.githubusercontent.com/evoincorp/lucideblox/master/src/modules/util/icons.json")).icons
+end)
+
+if not Success then
+	warn("\nOrion Library - Failed to load Feather Icons. Error code: " .. Response .. "\n")
+end	
+
+local function GetIcon(IconName)
+	if Icons[IconName] ~= nil then
+		return Icons[IconName]
+	else
+		return nil
+	end
+end   
+
+local Orion = Instance.new("ScreenGui")
+Orion.Name = "Orion"
+if syn then
+	syn.protect_gui(Orion)
+	Orion.Parent = game.CoreGui
+else
+	Orion.Parent = gethui() or game.CoreGui
+end
+
+if gethui then
+	for _, Interface in ipairs(gethui():GetChildren()) do
+		if Interface.Name == Orion.Name and Interface ~= Orion then
+			Interface:Destroy()
+		end
+	end
+else
+	for _, Interface in ipairs(game.CoreGui:GetChildren()) do
+		if Interface.Name == Orion.Name and Interface ~= Orion then
+			Interface:Destroy()
+		end
+	end
+end
+
+function OrionLib:IsRunning()
+	if gethui then
+		return Orion.Parent == gethui()
+	else
+		return Orion.Parent == game:GetService("CoreGui")
+	end
+
+end
+
+local function AddConnection(Signal, Function)
+	if (not OrionLib:IsRunning()) then
+		return
+	end
+	local SignalConnect = Signal:Connect(Function)
+	table.insert(OrionLib.Connections, SignalConnect)
+	return SignalConnect
+end
+
+task.spawn(function()
+	while (OrionLib:IsRunning()) do
+		wait()
+	end
+
+	for _, Connection in next, OrionLib.Connections do
+		Connection:Disconnect()
+	end
+end)
+
+local function MakeDraggable(DragPoint, Main)
+	pcall(function()
+		local Dragging, DragInput, MousePos, FramePos = false
+		AddConnection(DragPoint.InputBegan, function(Input)
+			if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+				Dragging = true
+				MousePos = Input.Position
+				FramePos = Main.Position
+
+				Input.Changed:Connect(function()
+					if Input.UserInputState == Enum.UserInputState.End then
+						Dragging = false
+					end
+				end)
+			end
+		end)
+		AddConnection(DragPoint.InputChanged, function(Input)
+			if Input.UserInputType == Enum.UserInputType.MouseMovement then
+				DragInput = Input
+			end
+		end)
+		AddConnection(UserInputService.InputChanged, function(Input)
+			if Input == DragInput and Dragging then
+				local Delta = Input.Position - MousePos
+				--TweenService:Create(Main, TweenInfo.new(0.05, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {Position  = UDim2.new(FramePos.X.Scale,FramePos.X.Offset + Delta.X, FramePos.Y.Scale, FramePos.Y.Offset + Delta.Y)}):Play()
+				Main.Position  = UDim2.new(FramePos.X.Scale,FramePos.X.Offset + Delta.X, FramePos.Y.Scale, FramePos.Y.Offset + Delta.Y)
+			end
+		end)
+	end)
+end    
+
+local function Create(Name, Properties, Children)
+	local Object = Instance.new(Name)
+	for i, v in next, Properties or {} do
+		Object[i] = v
+	end
+	for i, v in next, Children or {} do
+		v.Parent = Object
+	end
+	return Object
+end
+
+local function CreateElement(ElementName, ElementFunction)
+	OrionLib.Elements[ElementName] = function(...)
+		return ElementFunction(...)
+	end
+end
+
+local function MakeElement(ElementName, ...)
+	local NewElement = OrionLib.Elements[ElementName](...)
+	return NewElement
+end
+
+local function SetProps(Element, Props)
+	table.foreach(Props, function(Property, Value)
+		Element[Property] = Value
+	end)
+	return Element
+end
+
+local function SetChildren(Element, Children)
+	table.foreach(Children, function(_, Child)
+		Child.Parent = Element
+	end)
+	return Element
+end
+
+local function Round(Number, Factor)
+	local Result = math.floor(Number/Factor + (math.sign(Number) * 0.5)) * Factor
+	if Result < 0 then Result = Result + Factor end
+	return Result
+end
+
+local function ReturnProperty(Object)
+	if Object:IsA("Frame") or Object:IsA("TextButton") then
+		return "BackgroundColor3"
+	end 
+	if Object:IsA("ScrollingFrame") then
+		return "ScrollBarImageColor3"
+	end 
+	if Object:IsA("UIStroke") then
+		return "Color"
+	end 
+	if Object:IsA("TextLabel") or Object:IsA("TextBox") then
+		return "TextColor3"
+	end   
+	if Object:IsA("ImageLabel") or Object:IsA("ImageButton") then
+		return "ImageColor3"
+	end   
+end
+
+local function AddThemeObject(Object, Type)
+	if not OrionLib.ThemeObjects[Type] then
+		OrionLib.ThemeObjects[Type] = {}
+	end    
+	table.insert(OrionLib.ThemeObjects[Type], Object)
+	Object[ReturnProperty(Object)] = OrionLib.Themes[OrionLib.SelectedTheme][Type]
+	return Object
+end    
+
+local function SetTheme()
+	for Name, Type in pairs(OrionLib.ThemeObjects) do
+		for _, Object in pairs(Type) do
+			Object[ReturnProperty(Object)] = OrionLib.Themes[OrionLib.SelectedTheme][Name]
+		end    
+	end    
+end
+
+local function PackColor(Color)
+	return {R = Color.R * 255, G = Color.G * 255, B = Color.B * 255}
+end    
+
+local function UnpackColor(Color)
+	return Color3.fromRGB(Color.R, Color.G, Color.B)
+end
+
+local function LoadCfg(Config)
+	local Data = HttpService:JSONDecode(Config)
+	table.foreach(Data, function(a,b)
+		if OrionLib.Flags[a] then
+			spawn(function() 
+				if OrionLib.Flags[a].Type == "Colorpicker" then
+					OrionLib.Flags[a]:Set(UnpackColor(b))
+				else
+					OrionLib.Flags[a]:Set(b)
+				end    
+			end)
+		else
+			warn("Orion Library Config Loader - Could not find ", a ,b)
+		end
+	end)
+end
+
+local function SaveCfg(Name)
+	local Data = {}
+	for i,v in pairs(OrionLib.Flags) do
+		if v.Save then
+			if v.Type == "Colorpicker" then
+				Data[i] = PackColor(v.Value)
+			else
+				Data[i] = v.Value
+			end
+		end	
+	end
+	writefile(OrionLib.Folder .. "/" .. Name .. ".txt", tostring(HttpService:JSONEncode(Data)))
+end
+
+local WhitelistedMouse = {Enum.UserInputType.MouseButton1, Enum.UserInputType.MouseButton2,Enum.UserInputType.MouseButton3}
+local BlacklistedKeys = {Enum.KeyCode.Unknown,Enum.KeyCode.W,Enum.KeyCode.A,Enum.KeyCode.S,Enum.KeyCode.D,Enum.KeyCode.Up,Enum.KeyCode.Left,Enum.KeyCode.Down,Enum.KeyCode.Right,Enum.KeyCode.Slash,Enum.KeyCode.Tab,Enum.KeyCode.Backspace,Enum.KeyCode.Escape}
+
+local function CheckKey(Table, Key)
+	for _, v in next, Table do
+		if v == Key then
+			return true
+		end
+	end
+end
+
+CreateElement("Corner", function(Scale, Offset)
+	local Corner = Create("UICorner", {
+		CornerRadius = UDim.new(Scale or 0, Offset or 10)
+	})
+	return Corner
+end)
+
+CreateElement("Stroke", function(Color, Thickness)
+	local Stroke = Create("UIStroke", {
+		Color = Color or Color3.fromRGB(255, 255, 255),
+		Thickness = Thickness or 1
+	})
+	return Stroke
+end)
+
+CreateElement("List", function(Scale, Offset)
+	local List = Create("UIListLayout", {
+		SortOrder = Enum.SortOrder.LayoutOrder,
+		Padding = UDim.new(Scale or 0, Offset or 0)
+	})
+	return List
+end)
+
+CreateElement("Padding", function(Bottom, Left, Right, Top)
+	local Padding = Create("UIPadding", {
+		PaddingBottom = UDim.new(0, Bottom or 4),
+		PaddingLeft = UDim.new(0, Left or 4),
+		PaddingRight = UDim.new(0, Right or 4),
+		PaddingTop = UDim.new(0, Top or 4)
+	})
+	return Padding
+end)
+
+CreateElement("TFrame", function()
+	local TFrame = Create("Frame", {
+		BackgroundTransparency = 1
+	})
+	return TFrame
+end)
+
+CreateElement("Frame", function(Color)
+	local Frame = Create("Frame", {
+		BackgroundColor3 = Color or Color3.fromRGB(255, 255, 255),
+		BorderSizePixel = 0
+	})
+	return Frame
+end)
+
+CreateElement("RoundFrame", function(Color, Scale, Offset)
+	local Frame = Create("Frame", {
+		BackgroundColor3 = Color or Color3.fromRGB(255, 255, 255),
+		BorderSizePixel = 0
+	}, {
+		Create("UICorner", {
+			CornerRadius = UDim.new(Scale, Offset)
+		})
+	})
+	return Frame
+end)
+
+CreateElement("Button", function()
+	local Button = Create("TextButton", {
+		Text = "",
+		AutoButtonColor = false,
+		BackgroundTransparency = 1,
+		BorderSizePixel = 0
+	})
+	return Button
+end)
+
+CreateElement("ScrollFrame", function(Color, Width)
+	local ScrollFrame = Create("ScrollingFrame", {
+		BackgroundTransparency = 1,
+		MidImage = "rbxassetid://7445543667",
+		BottomImage = "rbxassetid://7445543667",
+		TopImage = "rbxassetid://7445543667",
+		ScrollBarImageColor3 = Color,
+		BorderSizePixel = 0,
+		ScrollBarThickness = Width,
+		CanvasSize = UDim2.new(0, 0, 0, 0)
+	})
+	return ScrollFrame
+end)
+
+CreateElement("Image", function(ImageID)
+	local ImageNew = Create("ImageLabel", {
+		Image = ImageID,
+		BackgroundTransparency = 1
+	})
+
+	if GetIcon(ImageID) ~= nil then
+		ImageNew.Image = GetIcon(ImageID)
+	end	
+
+	return ImageNew
+end)
+
+CreateElement("ImageButton", function(ImageID)
+	local Image = Create("ImageButton", {
+		Image = ImageID,
+		BackgroundTransparency = 1
+	})
+	return Image
+end)
+
+CreateElement("Label", function(Text, TextSize, Transparency)
+	local Label = Create("TextLabel", {
+		Text = Text or "",
+		TextColor3 = Color3.fromRGB(240, 240, 240),
+		TextTransparency = Transparency or 0,
+		TextSize = TextSize or 15,
+		Font = Enum.Font.Gotham,
+		RichText = true,
+		BackgroundTransparency = 1,
+		TextXAlignment = Enum.TextXAlignment.Left
+	})
+	return Label
+end)
+
+local NotificationHolder = SetProps(SetChildren(MakeElement("TFrame"), {
+	SetProps(MakeElement("List"), {
+		HorizontalAlignment = Enum.HorizontalAlignment.Center,
+		SortOrder = Enum.SortOrder.LayoutOrder,
+		VerticalAlignment = Enum.VerticalAlignment.Bottom,
+		Padding = UDim.new(0, 5)
+	})
+}), {
+	Position = UDim2.new(1, -25, 1, -25),
+	Size = UDim2.new(0, 300, 1, -25),
+	AnchorPoint = Vector2.new(1, 1),
+	Parent = Orion
+})
+
+function OrionLib:MakeNotification(NotificationConfig)
+	spawn(function()
+		NotificationConfig.Name = NotificationConfig.Name or "Notification"
+		NotificationConfig.Content = NotificationConfig.Content or "Test"
+		NotificationConfig.Image = NotificationConfig.Image or "rbxassetid://4384403532"
+		NotificationConfig.Time = NotificationConfig.Time or 15
+
+		local NotificationParent = SetProps(MakeElement("TFrame"), {
+			Size = UDim2.new(1, 0, 0, 0),
+			AutomaticSize = Enum.AutomaticSize.Y,
+			Parent = NotificationHolder
+		})
+
+		local NotificationFrame = SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(25, 25, 25), 0, 10), {
+			Parent = NotificationParent, 
+			Size = UDim2.new(1, 0, 0, 0),
+			Position = UDim2.new(1, -55, 0, 0),
+			BackgroundTransparency = 0,
+			AutomaticSize = Enum.AutomaticSize.Y
+		}), {
+			MakeElement("Stroke", Color3.fromRGB(93, 93, 93), 1.2),
+			MakeElement("Padding", 12, 12, 12, 12),
+			SetProps(MakeElement("Image", NotificationConfig.Image), {
+				Size = UDim2.new(0, 20, 0, 20),
+				ImageColor3 = Color3.fromRGB(240, 240, 240),
+				Name = "Icon"
+			}),
+			SetProps(MakeElement("Label", NotificationConfig.Name, 15), {
+				Size = UDim2.new(1, -30, 0, 20),
+				Position = UDim2.new(0, 30, 0, 0),
+				Font = Enum.Font.GothamBold,
+				Name = "Title"
+			}),
+			SetProps(MakeElement("Label", NotificationConfig.Content, 14), {
+				Size = UDim2.new(1, 0, 0, 0),
+				Position = UDim2.new(0, 0, 0, 25),
+				Font = Enum.Font.GothamSemibold,
+				Name = "Content",
+				AutomaticSize = Enum.AutomaticSize.Y,
+				TextColor3 = Color3.fromRGB(200, 200, 200),
+				TextWrapped = true
+			})
+		})
+
+		TweenService:Create(NotificationFrame, TweenInfo.new(0.5, Enum.EasingStyle.Quint), {Position = UDim2.new(0, 0, 0, 0)}):Play()
+
+		wait(NotificationConfig.Time - 0.88)
+		TweenService:Create(NotificationFrame.Icon, TweenInfo.new(0.4, Enum.EasingStyle.Quint), {ImageTransparency = 1}):Play()
+		TweenService:Create(NotificationFrame, TweenInfo.new(0.8, Enum.EasingStyle.Quint), {BackgroundTransparency = 0.6}):Play()
+		wait(0.3)
+		TweenService:Create(NotificationFrame.UIStroke, TweenInfo.new(0.6, Enum.EasingStyle.Quint), {Transparency = 0.9}):Play()
+		TweenService:Create(NotificationFrame.Title, TweenInfo.new(0.6, Enum.EasingStyle.Quint), {TextTransparency = 0.4}):Play()
+		TweenService:Create(NotificationFrame.Content, TweenInfo.new(0.6, Enum.EasingStyle.Quint), {TextTransparency = 0.5}):Play()
+		wait(0.05)
+
+		NotificationFrame:TweenPosition(UDim2.new(1, 20, 0, 0),'In','Quint',0.8,true)
+		wait(1.35)
+		NotificationFrame:Destroy()
+	end)
+end    
+
+function OrionLib:Init()
+	if OrionLib.SaveCfg then	
+		pcall(function()
+			if isfile(OrionLib.Folder .. "/" .. game.GameId .. ".txt") then
+				LoadCfg(readfile(OrionLib.Folder .. "/" .. game.GameId .. ".txt"))
+				OrionLib:MakeNotification({
+					Name = "Configuration",
+					Content = "Auto-loaded configuration for the game " .. game.GameId .. ".",
+					Time = 5
+				})
+			end
+		end)		
+	end	
+end	
+
+function OrionLib:MakeWindow(WindowConfig)
+	local FirstTab = true
+	local Minimized = false
+	local Loaded = false
+	local UIHidden = false
+
+	WindowConfig = WindowConfig or {}
+	WindowConfig.Name = WindowConfig.Name or "Orion Library"
+	WindowConfig.ConfigFolder = WindowConfig.ConfigFolder or WindowConfig.Name
+	WindowConfig.SaveConfig = WindowConfig.SaveConfig or false
+	WindowConfig.HidePremium = WindowConfig.HidePremium or false
+	if WindowConfig.IntroEnabled == nil then
+		WindowConfig.IntroEnabled = true
+	end
+	WindowConfig.IntroText = WindowConfig.IntroText or "Orion Library"
+	WindowConfig.CloseCallback = WindowConfig.CloseCallback or function() end
+	WindowConfig.ShowIcon = WindowConfig.ShowIcon or false
+	WindowConfig.Icon = WindowConfig.Icon or "rbxassetid://8834748103"
+	WindowConfig.IntroIcon = WindowConfig.IntroIcon or "rbxassetid://8834748103"
+	OrionLib.Folder = WindowConfig.ConfigFolder
+	OrionLib.SaveCfg = WindowConfig.SaveConfig
+
+	if WindowConfig.SaveConfig then
+		if not isfolder(WindowConfig.ConfigFolder) then
+			makefolder(WindowConfig.ConfigFolder)
+		end	
+	end
+
+	local TabHolder = AddThemeObject(SetChildren(SetProps(MakeElement("ScrollFrame", Color3.fromRGB(255, 255, 255), 4), {
+		Size = UDim2.new(1, 0, 1, -50)
+	}), {
+		MakeElement("List"),
+		MakeElement("Padding", 8, 0, 0, 8)
+	}), "Divider")
+
+	AddConnection(TabHolder.UIListLayout:GetPropertyChangedSignal("AbsoluteContentSize"), function()
+		TabHolder.CanvasSize = UDim2.new(0, 0, 0, TabHolder.UIListLayout.AbsoluteContentSize.Y + 16)
+	end)
+
+	local CloseBtn = SetChildren(SetProps(MakeElement("Button"), {
+		Size = UDim2.new(0.5, 0, 1, 0),
+		Position = UDim2.new(0.5, 0, 0, 0),
+		BackgroundTransparency = 1
+	}), {
+		AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://7072725342"), {
+			Position = UDim2.new(0, 9, 0, 6),
+			Size = UDim2.new(0, 18, 0, 18)
+		}), "Text")
+	})
+
+	local MinimizeBtn = SetChildren(SetProps(MakeElement("Button"), {
+		Size = UDim2.new(0.5, 0, 1, 0),
+		BackgroundTransparency = 1
+	}), {
+		AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://7072719338"), {
+			Position = UDim2.new(0, 9, 0, 6),
+			Size = UDim2.new(0, 18, 0, 18),
+			Name = "Ico"
+		}), "Text")
+	})
+
+	local DragPoint = SetProps(MakeElement("TFrame"), {
+		Size = UDim2.new(1, 0, 0, 50)
+	})
+
+	local WindowStuff = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 10), {
+		Size = UDim2.new(0, 150, 1, -50),
+		Position = UDim2.new(0, 0, 0, 50)
+	}), {
+		AddThemeObject(SetProps(MakeElement("Frame"), {
+			Size = UDim2.new(1, 0, 0, 10),
+			Position = UDim2.new(0, 0, 0, 0)
+		}), "Second"), 
+		AddThemeObject(SetProps(MakeElement("Frame"), {
+			Size = UDim2.new(0, 10, 1, 0),
+			Position = UDim2.new(1, -10, 0, 0)
+		}), "Second"), 
+		AddThemeObject(SetProps(MakeElement("Frame"), {
+			Size = UDim2.new(0, 1, 1, 0),
+			Position = UDim2.new(1, -1, 0, 0)
+		}), "Stroke"), 
+		TabHolder,
+		SetChildren(SetProps(MakeElement("TFrame"), {
+			Size = UDim2.new(1, 0, 0, 50),
+			Position = UDim2.new(0, 0, 1, -50)
+		}), {
+			AddThemeObject(SetProps(MakeElement("Frame"), {
+				Size = UDim2.new(1, 0, 0, 1)
+			}), "Stroke"), 
+			AddThemeObject(SetChildren(SetProps(MakeElement("Frame"), {
+				AnchorPoint = Vector2.new(0, 0.5),
+				Size = UDim2.new(0, 32, 0, 32),
+				Position = UDim2.new(0, 10, 0.5, 0)
+			}), {
+				SetProps(MakeElement("Image", "https://www.roblox.com/headshot-thumbnail/image?userId=".. LocalPlayer.UserId .."&width=420&height=420&format=png"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				}),
+				AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://4031889928"), {
+					Size = UDim2.new(1, 0, 1, 0),
+				}), "Second"),
+				MakeElement("Corner", 1)
+			}), "Divider"),
+			SetChildren(SetProps(MakeElement("TFrame"), {
+				AnchorPoint = Vector2.new(0, 0.5),
+				Size = UDim2.new(0, 32, 0, 32),
+				Position = UDim2.new(0, 10, 0.5, 0)
+			}), {
+				AddThemeObject(MakeElement("Stroke"), "Stroke"),
+				MakeElement("Corner", 1)
+			}),
+			AddThemeObject(SetProps(MakeElement("Label", LocalPlayer.DisplayName, WindowConfig.HidePremium and 14 or 13), {
+				Size = UDim2.new(1, -60, 0, 13),
+				Position = WindowConfig.HidePremium and UDim2.new(0, 50, 0, 19) or UDim2.new(0, 50, 0, 12),
+				Font = Enum.Font.GothamBold,
+				ClipsDescendants = true
+			}), "Text"),
+			AddThemeObject(SetProps(MakeElement("Label", "", 12), {
+				Size = UDim2.new(1, -60, 0, 12),
+				Position = UDim2.new(0, 50, 1, -25),
+				Visible = not WindowConfig.HidePremium
+			}), "TextDark")
+		}),
+	}), "Second")
+
+	local WindowName = AddThemeObject(SetProps(MakeElement("Label", WindowConfig.Name, 14), {
+		Size = UDim2.new(1, -30, 2, 0),
+		Position = UDim2.new(0, 25, 0, -24),
+		Font = Enum.Font.GothamBlack,
+		TextSize = 20
+	}), "Text")
+
+	local WindowTopBarLine = AddThemeObject(SetProps(MakeElement("Frame"), {
+		Size = UDim2.new(1, 0, 0, 1),
+		Position = UDim2.new(0, 0, 1, -1)
+	}), "Stroke")
+
+	local MainWindow = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 10), {
+		Parent = Orion,
+		Position = UDim2.new(0.5, -307, 0.5, -172),
+		Size = UDim2.new(0, 615, 0, 344),
+		ClipsDescendants = true
+	}), {
+		--SetProps(MakeElement("Image", "rbxassetid://3523728077"), {
+		--	AnchorPoint = Vector2.new(0.5, 0.5),
+		--	Position = UDim2.new(0.5, 0, 0.5, 0),
+		--	Size = UDim2.new(1, 80, 1, 320),
+		--	ImageColor3 = Color3.fromRGB(33, 33, 33),
+		--	ImageTransparency = 0.7
+		--}),
+		SetChildren(SetProps(MakeElement("TFrame"), {
+			Size = UDim2.new(1, 0, 0, 50),
+			Name = "TopBar"
+		}), {
+			WindowName,
+			WindowTopBarLine,
+			AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 7), {
+				Size = UDim2.new(0, 70, 0, 30),
+				Position = UDim2.new(1, -90, 0, 10)
+			}), {
+				AddThemeObject(MakeElement("Stroke"), "Stroke"),
+				AddThemeObject(SetProps(MakeElement("Frame"), {
+					Size = UDim2.new(0, 1, 1, 0),
+					Position = UDim2.new(0.5, 0, 0, 0)
+				}), "Stroke"), 
+				CloseBtn,
+				MinimizeBtn
+			}), "Second"), 
+		}),
+		DragPoint,
+		WindowStuff
+	}), "Main")
+
+	if WindowConfig.ShowIcon then
+		WindowName.Position = UDim2.new(0, 50, 0, -24)
+		local WindowIcon = SetProps(MakeElement("Image", WindowConfig.Icon), {
+			Size = UDim2.new(0, 20, 0, 20),
+			Position = UDim2.new(0, 25, 0, 15)
+		})
+		WindowIcon.Parent = MainWindow.TopBar
+	end	
+
+	MakeDraggable(DragPoint, MainWindow)
+
+	AddConnection(CloseBtn.MouseButton1Up, function()
+		MainWindow.Visible = false
+		UIHidden = true
+		OrionLib:MakeNotification({
+			Name = "Interface Hidden",
+			Content = "Tap RightShift to reopen the interface",
+			Time = 5
+		})
+		WindowConfig.CloseCallback()
+	end)
+
+	AddConnection(UserInputService.InputBegan, function(Input)
+		if Input.KeyCode == Enum.KeyCode.RightShift and UIHidden then
+			MainWindow.Visible = true
+		end
+	end)
+
+	AddConnection(MinimizeBtn.MouseButton1Up, function()
+		if Minimized then
+			TweenService:Create(MainWindow, TweenInfo.new(0.5, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {Size = UDim2.new(0, 615, 0, 344)}):Play()
+			MinimizeBtn.Ico.Image = "rbxassetid://7072719338"
+			wait(.02)
+			MainWindow.ClipsDescendants = false
+			WindowStuff.Visible = true
+			WindowTopBarLine.Visible = true
+		else
+			MainWindow.ClipsDescendants = true
+			WindowTopBarLine.Visible = false
+			MinimizeBtn.Ico.Image = "rbxassetid://7072720870"
+
+			TweenService:Create(MainWindow, TweenInfo.new(0.5, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {Size = UDim2.new(0, WindowName.TextBounds.X + 140, 0, 50)}):Play()
+			wait(0.1)
+			WindowStuff.Visible = false	
+		end
+		Minimized = not Minimized    
+	end)
+
+	local function LoadSequence()
+		MainWindow.Visible = false
+		local LoadSequenceLogo = SetProps(MakeElement("Image", WindowConfig.IntroIcon), {
+			Parent = Orion,
+			AnchorPoint = Vector2.new(0.5, 0.5),
+			Position = UDim2.new(0.5, 0, 0.4, 0),
+			Size = UDim2.new(0, 28, 0, 28),
+			ImageColor3 = Color3.fromRGB(255, 255, 255),
+			ImageTransparency = 1
+		})
+
+		local LoadSequenceText = SetProps(MakeElement("Label", WindowConfig.IntroText, 14), {
+			Parent = Orion,
+			Size = UDim2.new(1, 0, 1, 0),
+			AnchorPoint = Vector2.new(0.5, 0.5),
+			Position = UDim2.new(0.5, 19, 0.5, 0),
+			TextXAlignment = Enum.TextXAlignment.Center,
+			Font = Enum.Font.GothamBold,
+			TextTransparency = 1
+		})
+
+		TweenService:Create(LoadSequenceLogo, TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {ImageTransparency = 0, Position = UDim2.new(0.5, 0, 0.5, 0)}):Play()
+		wait(0.8)
+		TweenService:Create(LoadSequenceLogo, TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {Position = UDim2.new(0.5, -(LoadSequenceText.TextBounds.X/2), 0.5, 0)}):Play()
+		wait(0.3)
+		TweenService:Create(LoadSequenceText, TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {TextTransparency = 0}):Play()
+		wait(2)
+		TweenService:Create(LoadSequenceText, TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {TextTransparency = 1}):Play()
+		MainWindow.Visible = true
+		LoadSequenceLogo:Destroy()
+		LoadSequenceText:Destroy()
+	end 
+
+	if WindowConfig.IntroEnabled then
+		LoadSequence()
+	end	
+
+	local TabFunction = {}
+	function TabFunction:MakeTab(TabConfig)
+		TabConfig = TabConfig or {}
+		TabConfig.Name = TabConfig.Name or "Tab"
+		TabConfig.Icon = TabConfig.Icon or ""
+		TabConfig.PremiumOnly = TabConfig.PremiumOnly or false
+
+		local TabFrame = SetChildren(SetProps(MakeElement("Button"), {
+			Size = UDim2.new(1, 0, 0, 30),
+			Parent = TabHolder
+		}), {
+			AddThemeObject(SetProps(MakeElement("Image", TabConfig.Icon), {
+				AnchorPoint = Vector2.new(0, 0.5),
+				Size = UDim2.new(0, 18, 0, 18),
+				Position = UDim2.new(0, 10, 0.5, 0),
+				ImageTransparency = 0.4,
+				Name = "Ico"
+			}), "Text"),
+			AddThemeObject(SetProps(MakeElement("Label", TabConfig.Name, 14), {
+				Size = UDim2.new(1, -35, 1, 0),
+				Position = UDim2.new(0, 35, 0, 0),
+				Font = Enum.Font.GothamSemibold,
+				TextTransparency = 0.4,
+				Name = "Title"
+			}), "Text")
+		})
+
+		if GetIcon(TabConfig.Icon) ~= nil then
+			TabFrame.Ico.Image = GetIcon(TabConfig.Icon)
+		end	
+
+		local Container = AddThemeObject(SetChildren(SetProps(MakeElement("ScrollFrame", Color3.fromRGB(255, 255, 255), 5), {
+			Size = UDim2.new(1, -150, 1, -50),
+			Position = UDim2.new(0, 150, 0, 50),
+			Parent = MainWindow,
+			Visible = false,
+			Name = "ItemContainer"
+		}), {
+			MakeElement("List", 0, 6),
+			MakeElement("Padding", 15, 10, 10, 15)
+		}), "Divider")
+
+		AddConnection(Container.UIListLayout:GetPropertyChangedSignal("AbsoluteContentSize"), function()
+			Container.CanvasSize = UDim2.new(0, 0, 0, Container.UIListLayout.AbsoluteContentSize.Y + 30)
+		end)
+
+		if FirstTab then
+			FirstTab = false
+			TabFrame.Ico.ImageTransparency = 0
+			TabFrame.Title.TextTransparency = 0
+			TabFrame.Title.Font = Enum.Font.GothamBlack
+			Container.Visible = true
+		end    
+
+		AddConnection(TabFrame.MouseButton1Click, function()
+			for _, Tab in next, TabHolder:GetChildren() do
+				if Tab:IsA("TextButton") then
+					Tab.Title.Font = Enum.Font.GothamSemibold
+					TweenService:Create(Tab.Ico, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {ImageTransparency = 0.4}):Play()
+					TweenService:Create(Tab.Title, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {TextTransparency = 0.4}):Play()
+				end    
+			end
+			for _, ItemContainer in next, MainWindow:GetChildren() do
+				if ItemContainer.Name == "ItemContainer" then
+					ItemContainer.Visible = false
+				end    
+			end  
+			TweenService:Create(TabFrame.Ico, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {ImageTransparency = 0}):Play()
+			TweenService:Create(TabFrame.Title, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {TextTransparency = 0}):Play()
+			TabFrame.Title.Font = Enum.Font.GothamBlack
+			Container.Visible = true   
+		end)
+
+		local function GetElements(ItemParent)
+			local ElementFunction = {}
+			function ElementFunction:AddLabel(Text)
+				local LabelFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 30),
+					BackgroundTransparency = 0.7,
+					Parent = ItemParent
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", Text, 15), {
+						Size = UDim2.new(1, -12, 1, 0),
+						Position = UDim2.new(0, 12, 0, 0),
+						Font = Enum.Font.GothamBold,
+						Name = "Content"
+					}), "Text"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke")
+				}), "Second")
+
+				local LabelFunction = {}
+				function LabelFunction:Set(ToChange)
+					LabelFrame.Content.Text = ToChange
+				end
+				return LabelFunction
+			end
+			function ElementFunction:AddParagraph(Text, Content)
+				Text = Text or "Text"
+				Content = Content or "Content"
+
+				local ParagraphFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 30),
+					BackgroundTransparency = 0.7,
+					Parent = ItemParent
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", Text, 15), {
+						Size = UDim2.new(1, -12, 0, 14),
+						Position = UDim2.new(0, 12, 0, 10),
+						Font = Enum.Font.GothamBold,
+						Name = "Title"
+					}), "Text"),
+					AddThemeObject(SetProps(MakeElement("Label", "", 13), {
+						Size = UDim2.new(1, -24, 0, 0),
+						Position = UDim2.new(0, 12, 0, 26),
+						Font = Enum.Font.GothamSemibold,
+						Name = "Content",
+						TextWrapped = true
+					}), "TextDark"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke")
+				}), "Second")
+
+				AddConnection(ParagraphFrame.Content:GetPropertyChangedSignal("Text"), function()
+					ParagraphFrame.Content.Size = UDim2.new(1, -24, 0, ParagraphFrame.Content.TextBounds.Y)
+					ParagraphFrame.Size = UDim2.new(1, 0, 0, ParagraphFrame.Content.TextBounds.Y + 35)
+				end)
+
+				ParagraphFrame.Content.Text = Content
+
+				local ParagraphFunction = {}
+				function ParagraphFunction:Set(ToChange)
+					ParagraphFrame.Content.Text = ToChange
+				end
+				return ParagraphFunction
+			end    
+			function ElementFunction:AddButton(ButtonConfig)
+				ButtonConfig = ButtonConfig or {}
+				ButtonConfig.Name = ButtonConfig.Name or "Button"
+				ButtonConfig.Callback = ButtonConfig.Callback or function() end
+				ButtonConfig.Icon = ButtonConfig.Icon or "rbxassetid://3944703587"
+
+				local Button = {}
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				})
+
+				local ButtonFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 33),
+					Parent = ItemParent
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", ButtonConfig.Name, 15), {
+						Size = UDim2.new(1, -12, 1, 0),
+						Position = UDim2.new(0, 12, 0, 0),
+						Font = Enum.Font.GothamBold,
+						Name = "Content"
+					}), "Text"),
+					AddThemeObject(SetProps(MakeElement("Image", ButtonConfig.Icon), {
+						Size = UDim2.new(0, 20, 0, 20),
+						Position = UDim2.new(1, -30, 0, 7),
+					}), "TextDark"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					Click
+				}), "Second")
+
+				AddConnection(Click.MouseEnter, function()
+					TweenService:Create(ButtonFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+				end)
+
+				AddConnection(Click.MouseLeave, function()
+					TweenService:Create(ButtonFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = OrionLib.Themes[OrionLib.SelectedTheme].Second}):Play()
+				end)
+
+				AddConnection(Click.MouseButton1Up, function()
+					TweenService:Create(ButtonFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+					spawn(function()
+						ButtonConfig.Callback()
+					end)
+				end)
+
+				AddConnection(Click.MouseButton1Down, function()
+					TweenService:Create(ButtonFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 6, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 6, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 6)}):Play()
+				end)
+
+				function Button:Set(ButtonText)
+					ButtonFrame.Content.Text = ButtonText
+				end	
+
+				return Button
+			end    
+			function ElementFunction:AddToggle(ToggleConfig)
+				ToggleConfig = ToggleConfig or {}
+				ToggleConfig.Name = ToggleConfig.Name or "Toggle"
+				ToggleConfig.Default = ToggleConfig.Default or false
+				ToggleConfig.Callback = ToggleConfig.Callback or function() end
+				ToggleConfig.Color = ToggleConfig.Color or Color3.fromRGB(9, 99, 195)
+				ToggleConfig.Flag = ToggleConfig.Flag or nil
+				ToggleConfig.Save = ToggleConfig.Save or false
+
+				local Toggle = {Value = ToggleConfig.Default, Save = ToggleConfig.Save}
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				})
+
+				local ToggleBox = SetChildren(SetProps(MakeElement("RoundFrame", ToggleConfig.Color, 0, 4), {
+					Size = UDim2.new(0, 24, 0, 24),
+					Position = UDim2.new(1, -24, 0.5, 0),
+					AnchorPoint = Vector2.new(0.5, 0.5)
+				}), {
+					SetProps(MakeElement("Stroke"), {
+						Color = ToggleConfig.Color,
+						Name = "Stroke",
+						Transparency = 0.5
+					}),
+					SetProps(MakeElement("Image", "rbxassetid://3944680095"), {
+						Size = UDim2.new(0, 20, 0, 20),
+						AnchorPoint = Vector2.new(0.5, 0.5),
+						Position = UDim2.new(0.5, 0, 0.5, 0),
+						ImageColor3 = Color3.fromRGB(255, 255, 255),
+						Name = "Ico"
+					}),
+				})
+
+				local ToggleFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 38),
+					Parent = ItemParent
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", ToggleConfig.Name, 15), {
+						Size = UDim2.new(1, -12, 1, 0),
+						Position = UDim2.new(0, 12, 0, 0),
+						Font = Enum.Font.GothamBold,
+						Name = "Content"
+					}), "Text"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					ToggleBox,
+					Click
+				}), "Second")
+
+				function Toggle:Set(Value)
+					Toggle.Value = Value
+					TweenService:Create(ToggleBox, TweenInfo.new(0.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Toggle.Value and ToggleConfig.Color or OrionLib.Themes.Default.Divider}):Play()
+					TweenService:Create(ToggleBox.Stroke, TweenInfo.new(0.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {Color = Toggle.Value and ToggleConfig.Color or OrionLib.Themes.Default.Stroke}):Play()
+					TweenService:Create(ToggleBox.Ico, TweenInfo.new(0.3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {ImageTransparency = Toggle.Value and 0 or 1, Size = Toggle.Value and UDim2.new(0, 20, 0, 20) or UDim2.new(0, 8, 0, 8)}):Play()
+					ToggleConfig.Callback(Toggle.Value)
+				end    
+
+				Toggle:Set(Toggle.Value)
+
+				AddConnection(Click.MouseEnter, function()
+					TweenService:Create(ToggleFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+				end)
+
+				AddConnection(Click.MouseLeave, function()
+					TweenService:Create(ToggleFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = OrionLib.Themes[OrionLib.SelectedTheme].Second}):Play()
+				end)
+
+				AddConnection(Click.MouseButton1Up, function()
+					TweenService:Create(ToggleFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+					SaveCfg(game.GameId)
+					Toggle:Set(not Toggle.Value)
+				end)
+
+				AddConnection(Click.MouseButton1Down, function()
+					TweenService:Create(ToggleFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 6, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 6, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 6)}):Play()
+				end)
+
+				if ToggleConfig.Flag then
+					OrionLib.Flags[ToggleConfig.Flag] = Toggle
+				end	
+				return Toggle
+			end  
+			function ElementFunction:AddSlider(SliderConfig)
+				SliderConfig = SliderConfig or {}
+				SliderConfig.Name = SliderConfig.Name or "Slider"
+				SliderConfig.Min = SliderConfig.Min or 0
+				SliderConfig.Max = SliderConfig.Max or 100
+				SliderConfig.Increment = SliderConfig.Increment or 1
+				SliderConfig.Default = SliderConfig.Default or 50
+				SliderConfig.Callback = SliderConfig.Callback or function() end
+				SliderConfig.ValueName = SliderConfig.ValueName or ""
+				SliderConfig.Color = SliderConfig.Color or Color3.fromRGB(9, 149, 98)
+				SliderConfig.Flag = SliderConfig.Flag or nil
+				SliderConfig.Save = SliderConfig.Save or false
+
+				local Slider = {Value = SliderConfig.Default, Save = SliderConfig.Save}
+				local Dragging = false
+
+				local SliderDrag = SetChildren(SetProps(MakeElement("RoundFrame", SliderConfig.Color, 0, 5), {
+					Size = UDim2.new(0, 0, 1, 0),
+					BackgroundTransparency = 0.3,
+					ClipsDescendants = true
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", "value", 13), {
+						Size = UDim2.new(1, -12, 0, 14),
+						Position = UDim2.new(0, 12, 0, 6),
+						Font = Enum.Font.GothamBold,
+						Name = "Value",
+						TextTransparency = 0
+					}), "Text")
+				})
+
+				local SliderBar = SetChildren(SetProps(MakeElement("RoundFrame", SliderConfig.Color, 0, 5), {
+					Size = UDim2.new(1, -24, 0, 26),
+					Position = UDim2.new(0, 12, 0, 30),
+					BackgroundTransparency = 0.9
+				}), {
+					SetProps(MakeElement("Stroke"), {
+						Color = SliderConfig.Color
+					}),
+					AddThemeObject(SetProps(MakeElement("Label", "value", 13), {
+						Size = UDim2.new(1, -12, 0, 14),
+						Position = UDim2.new(0, 12, 0, 6),
+						Font = Enum.Font.GothamBold,
+						Name = "Value",
+						TextTransparency = 0.8
+					}), "Text"),
+					SliderDrag
+				})
+
+				local SliderFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 4), {
+					Size = UDim2.new(1, 0, 0, 65),
+					Parent = ItemParent
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", SliderConfig.Name, 15), {
+						Size = UDim2.new(1, -12, 0, 14),
+						Position = UDim2.new(0, 12, 0, 10),
+						Font = Enum.Font.GothamBold,
+						Name = "Content"
+					}), "Text"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					SliderBar
+				}), "Second")
+
+				SliderBar.InputBegan:Connect(function(Input)
+					if Input.UserInputType == Enum.UserInputType.MouseButton1 then 
+						Dragging = true 
+					end 
+				end)
+				SliderBar.InputEnded:Connect(function(Input) 
+					if Input.UserInputType == Enum.UserInputType.MouseButton1 then 
+						Dragging = false 
+					end 
+				end)
+
+				UserInputService.InputChanged:Connect(function(Input)
+					if Dragging and Input.UserInputType == Enum.UserInputType.MouseMovement then 
+						local SizeScale = math.clamp((Input.Position.X - SliderBar.AbsolutePosition.X) / SliderBar.AbsoluteSize.X, 0, 1)
+						Slider:Set(SliderConfig.Min + ((SliderConfig.Max - SliderConfig.Min) * SizeScale)) 
+						SaveCfg(game.GameId)
+					end
+				end)
+
+				function Slider:Set(Value)
+					self.Value = math.clamp(Round(Value, SliderConfig.Increment), SliderConfig.Min, SliderConfig.Max)
+					TweenService:Create(SliderDrag,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{Size = UDim2.fromScale((self.Value - SliderConfig.Min) / (SliderConfig.Max - SliderConfig.Min), 1)}):Play()
+					SliderBar.Value.Text = tostring(self.Value) .. " " .. SliderConfig.ValueName
+					SliderDrag.Value.Text = tostring(self.Value) .. " " .. SliderConfig.ValueName
+					SliderConfig.Callback(self.Value)
+				end      
+
+				Slider:Set(Slider.Value)
+				if SliderConfig.Flag then				
+					OrionLib.Flags[SliderConfig.Flag] = Slider
+				end
+				return Slider
+			end  
+			function ElementFunction:AddDropdown(DropdownConfig)
+				DropdownConfig = DropdownConfig or {}
+				DropdownConfig.Name = DropdownConfig.Name or "Dropdown"
+				DropdownConfig.Options = DropdownConfig.Options or {}
+				DropdownConfig.Default = DropdownConfig.Default or ""
+				DropdownConfig.Callback = DropdownConfig.Callback or function() end
+				DropdownConfig.Flag = DropdownConfig.Flag or nil
+				DropdownConfig.Save = DropdownConfig.Save or false
+
+				local Dropdown = {Value = DropdownConfig.Default, Options = DropdownConfig.Options, Buttons = {}, Toggled = false, Type = "Dropdown", Save = DropdownConfig.Save}
+				local MaxElements = 5
+
+				if not table.find(Dropdown.Options, Dropdown.Value) then
+					Dropdown.Value = "..."
+				end
+
+				local DropdownList = MakeElement("List")
+
+				local DropdownContainer = AddThemeObject(SetProps(SetChildren(MakeElement("ScrollFrame", Color3.fromRGB(40, 40, 40), 4), {
+					DropdownList
+				}), {
+					Parent = ItemParent,
+					Position = UDim2.new(0, 0, 0, 38),
+					Size = UDim2.new(1, 0, 1, -38),
+					ClipsDescendants = true
+				}), "Divider")
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				})
+
+				local DropdownFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 38),
+					Parent = ItemParent,
+					ClipsDescendants = true
+				}), {
+					DropdownContainer,
+					SetProps(SetChildren(MakeElement("TFrame"), {
+						AddThemeObject(SetProps(MakeElement("Label", DropdownConfig.Name, 15), {
+							Size = UDim2.new(1, -12, 1, 0),
+							Position = UDim2.new(0, 12, 0, 0),
+							Font = Enum.Font.GothamBold,
+							Name = "Content"
+						}), "Text"),
+						AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://7072706796"), {
+							Size = UDim2.new(0, 20, 0, 20),
+							AnchorPoint = Vector2.new(0, 0.5),
+							Position = UDim2.new(1, -30, 0.5, 0),
+							ImageColor3 = Color3.fromRGB(240, 240, 240),
+							Name = "Ico"
+						}), "TextDark"),
+						AddThemeObject(SetProps(MakeElement("Label", "Selected", 13), {
+							Size = UDim2.new(1, -40, 1, 0),
+							Font = Enum.Font.Gotham,
+							Name = "Selected",
+							TextXAlignment = Enum.TextXAlignment.Right
+						}), "TextDark"),
+						AddThemeObject(SetProps(MakeElement("Frame"), {
+							Size = UDim2.new(1, 0, 0, 1),
+							Position = UDim2.new(0, 0, 1, -1),
+							Name = "Line",
+							Visible = false
+						}), "Stroke"), 
+						Click
+					}), {
+						Size = UDim2.new(1, 0, 0, 38),
+						ClipsDescendants = true,
+						Name = "F"
+					}),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					MakeElement("Corner")
+				}), "Second")
+
+				AddConnection(DropdownList:GetPropertyChangedSignal("AbsoluteContentSize"), function()
+					DropdownContainer.CanvasSize = UDim2.new(0, 0, 0, DropdownList.AbsoluteContentSize.Y)
+				end)  
+
+				local function AddOptions(Options)
+					for _, Option in pairs(Options) do
+						local OptionBtn = AddThemeObject(SetProps(SetChildren(MakeElement("Button", Color3.fromRGB(40, 40, 40)), {
+							MakeElement("Corner", 0, 6),
+							AddThemeObject(SetProps(MakeElement("Label", Option, 13, 0.4), {
+								Position = UDim2.new(0, 8, 0, 0),
+								Size = UDim2.new(1, -8, 1, 0),
+								Name = "Title"
+							}), "Text")
+						}), {
+							Parent = DropdownContainer,
+							Size = UDim2.new(1, 0, 0, 28),
+							BackgroundTransparency = 1,
+							ClipsDescendants = true
+						}), "Divider")
+
+						AddConnection(OptionBtn.MouseButton1Click, function()
+							Dropdown:Set(Option)
+							SaveCfg(game.GameId)
+						end)
+
+						Dropdown.Buttons[Option] = OptionBtn
+					end
+				end	
+
+				function Dropdown:Refresh(Options, Delete)
+					if Delete then
+						for _,v in pairs(Dropdown.Buttons) do
+							v:Destroy()
+						end    
+						table.clear(Dropdown.Options)
+						table.clear(Dropdown.Buttons)
+					end
+					Dropdown.Options = Options
+					AddOptions(Dropdown.Options)
+				end  
+
+				function Dropdown:Set(Value)
+					if not table.find(Dropdown.Options, Value) then
+						Dropdown.Value = "..."
+						DropdownFrame.F.Selected.Text = Dropdown.Value
+						for _, v in pairs(Dropdown.Buttons) do
+							TweenService:Create(v,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{BackgroundTransparency = 1}):Play()
+							TweenService:Create(v.Title,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{TextTransparency = 0.4}):Play()
+						end	
+						return
+					end
+
+					Dropdown.Value = Value
+					DropdownFrame.F.Selected.Text = Dropdown.Value
+
+					for _, v in pairs(Dropdown.Buttons) do
+						TweenService:Create(v,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{BackgroundTransparency = 1}):Play()
+						TweenService:Create(v.Title,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{TextTransparency = 0.4}):Play()
+					end	
+					TweenService:Create(Dropdown.Buttons[Value],TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{BackgroundTransparency = 0}):Play()
+					TweenService:Create(Dropdown.Buttons[Value].Title,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{TextTransparency = 0}):Play()
+					return DropdownConfig.Callback(Dropdown.Value)
+				end
+
+				AddConnection(Click.MouseButton1Click, function()
+					Dropdown.Toggled = not Dropdown.Toggled
+					DropdownFrame.F.Line.Visible = Dropdown.Toggled
+					TweenService:Create(DropdownFrame.F.Ico,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{Rotation = Dropdown.Toggled and 180 or 0}):Play()
+					if #Dropdown.Options > MaxElements then
+						TweenService:Create(DropdownFrame,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{Size = Dropdown.Toggled and UDim2.new(1, 0, 0, 38 + (MaxElements * 28)) or UDim2.new(1, 0, 0, 38)}):Play()
+					else
+						TweenService:Create(DropdownFrame,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{Size = Dropdown.Toggled and UDim2.new(1, 0, 0, DropdownList.AbsoluteContentSize.Y + 38) or UDim2.new(1, 0, 0, 38)}):Play()
+					end
+				end)
+
+				Dropdown:Refresh(Dropdown.Options, false)
+				Dropdown:Set(Dropdown.Value)
+				if DropdownConfig.Flag then				
+					OrionLib.Flags[DropdownConfig.Flag] = Dropdown
+				end
+				return Dropdown
+			end
+			function ElementFunction:AddBind(BindConfig)
+				BindConfig.Name = BindConfig.Name or "Bind"
+				BindConfig.Default = BindConfig.Default or Enum.KeyCode.Unknown
+				BindConfig.Hold = BindConfig.Hold or false
+				BindConfig.Callback = BindConfig.Callback or function() end
+				BindConfig.Flag = BindConfig.Flag or nil
+				BindConfig.Save = BindConfig.Save or false
+
+				local Bind = {Value, Binding = false, Type = "Bind", Save = BindConfig.Save}
+				local Holding = false
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				})
+
+				local BindBox = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 4), {
+					Size = UDim2.new(0, 24, 0, 24),
+					Position = UDim2.new(1, -12, 0.5, 0),
+					AnchorPoint = Vector2.new(1, 0.5)
+				}), {
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					AddThemeObject(SetProps(MakeElement("Label", BindConfig.Name, 14), {
+						Size = UDim2.new(1, 0, 1, 0),
+						Font = Enum.Font.GothamBold,
+						TextXAlignment = Enum.TextXAlignment.Center,
+						Name = "Value"
+					}), "Text")
+				}), "Main")
+
+				local BindFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 38),
+					Parent = ItemParent
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", BindConfig.Name, 15), {
+						Size = UDim2.new(1, -12, 1, 0),
+						Position = UDim2.new(0, 12, 0, 0),
+						Font = Enum.Font.GothamBold,
+						Name = "Content"
+					}), "Text"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					BindBox,
+					Click
+				}), "Second")
+
+				AddConnection(BindBox.Value:GetPropertyChangedSignal("Text"), function()
+					--BindBox.Size = UDim2.new(0, BindBox.Value.TextBounds.X + 16, 0, 24)
+					TweenService:Create(BindBox, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {Size = UDim2.new(0, BindBox.Value.TextBounds.X + 16, 0, 24)}):Play()
+				end)
+
+				AddConnection(Click.InputEnded, function(Input)
+					if Input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if Bind.Binding then return end
+						Bind.Binding = true
+						BindBox.Value.Text = ""
+					end
+				end)
+
+				AddConnection(UserInputService.InputBegan, function(Input)
+					if UserInputService:GetFocusedTextBox() then return end
+					if (Input.KeyCode.Name == Bind.Value or Input.UserInputType.Name == Bind.Value) and not Bind.Binding then
+						if BindConfig.Hold then
+							Holding = true
+							BindConfig.Callback(Holding)
+						else
+							BindConfig.Callback()
+						end
+					elseif Bind.Binding then
+						local Key
+						pcall(function()
+							if not CheckKey(BlacklistedKeys, Input.KeyCode) then
+								Key = Input.KeyCode
+							end
+						end)
+						pcall(function()
+							if CheckKey(WhitelistedMouse, Input.UserInputType) and not Key then
+								Key = Input.UserInputType
+							end
+						end)
+						Key = Key or Bind.Value
+						Bind:Set(Key)
+						SaveCfg(game.GameId)
+					end
+				end)
+
+				AddConnection(UserInputService.InputEnded, function(Input)
+					if Input.KeyCode.Name == Bind.Value or Input.UserInputType.Name == Bind.Value then
+						if BindConfig.Hold and Holding then
+							Holding = false
+							BindConfig.Callback(Holding)
+						end
+					end
+				end)
+
+				AddConnection(Click.MouseEnter, function()
+					TweenService:Create(BindFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+				end)
+
+				AddConnection(Click.MouseLeave, function()
+					TweenService:Create(BindFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = OrionLib.Themes[OrionLib.SelectedTheme].Second}):Play()
+				end)
+
+				AddConnection(Click.MouseButton1Up, function()
+					TweenService:Create(BindFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+				end)
+
+				AddConnection(Click.MouseButton1Down, function()
+					TweenService:Create(BindFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 6, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 6, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 6)}):Play()
+				end)
+
+				function Bind:Set(Key)
+					Bind.Binding = false
+					Bind.Value = Key or Bind.Value
+					Bind.Value = Bind.Value.Name or Bind.Value
+					BindBox.Value.Text = Bind.Value
+				end
+
+				Bind:Set(BindConfig.Default)
+				if BindConfig.Flag then				
+					OrionLib.Flags[BindConfig.Flag] = Bind
+				end
+				return Bind
+			end  
+			function ElementFunction:AddTextbox(TextboxConfig)
+				TextboxConfig = TextboxConfig or {}
+				TextboxConfig.Name = TextboxConfig.Name or "Textbox"
+				TextboxConfig.Default = TextboxConfig.Default or ""
+				TextboxConfig.TextDisappear = TextboxConfig.TextDisappear or false
+				TextboxConfig.Callback = TextboxConfig.Callback or function() end
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				})
+
+				local TextboxActual = AddThemeObject(Create("TextBox", {
+					Size = UDim2.new(1, 0, 1, 0),
+					BackgroundTransparency = 1,
+					TextColor3 = Color3.fromRGB(255, 255, 255),
+					PlaceholderColor3 = Color3.fromRGB(210,210,210),
+					PlaceholderText = "Input",
+					Font = Enum.Font.GothamSemibold,
+					TextXAlignment = Enum.TextXAlignment.Center,
+					TextSize = 14,
+					ClearTextOnFocus = false
+				}), "Text")
+
+				local TextContainer = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 4), {
+					Size = UDim2.new(0, 24, 0, 24),
+					Position = UDim2.new(1, -12, 0.5, 0),
+					AnchorPoint = Vector2.new(1, 0.5)
+				}), {
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					TextboxActual
+				}), "Main")
+
+
+				local TextboxFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 38),
+					Parent = ItemParent
+				}), {
+					AddThemeObject(SetProps(MakeElement("Label", TextboxConfig.Name, 15), {
+						Size = UDim2.new(1, -12, 1, 0),
+						Position = UDim2.new(0, 12, 0, 0),
+						Font = Enum.Font.GothamBold,
+						Name = "Content"
+					}), "Text"),
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+					TextContainer,
+					Click
+				}), "Second")
+
+				AddConnection(TextboxActual:GetPropertyChangedSignal("Text"), function()
+					--TextContainer.Size = UDim2.new(0, TextboxActual.TextBounds.X + 16, 0, 24)
+					TweenService:Create(TextContainer, TweenInfo.new(0.45, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {Size = UDim2.new(0, TextboxActual.TextBounds.X + 16, 0, 24)}):Play()
+				end)
+
+				AddConnection(TextboxActual.FocusLost, function()
+					TextboxConfig.Callback(TextboxActual.Text)
+					if TextboxConfig.TextDisappear then
+						TextboxActual.Text = ""
+					end	
+				end)
+
+				TextboxActual.Text = TextboxConfig.Default
+
+				AddConnection(Click.MouseEnter, function()
+					TweenService:Create(TextboxFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+				end)
+
+				AddConnection(Click.MouseLeave, function()
+					TweenService:Create(TextboxFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = OrionLib.Themes[OrionLib.SelectedTheme].Second}):Play()
+				end)
+
+				AddConnection(Click.MouseButton1Up, function()
+					TweenService:Create(TextboxFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 3, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 3)}):Play()
+					TextboxActual:CaptureFocus()
+				end)
+
+				AddConnection(Click.MouseButton1Down, function()
+					TweenService:Create(TextboxFrame, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {BackgroundColor3 = Color3.fromRGB(OrionLib.Themes[OrionLib.SelectedTheme].Second.R * 255 + 6, OrionLib.Themes[OrionLib.SelectedTheme].Second.G * 255 + 6, OrionLib.Themes[OrionLib.SelectedTheme].Second.B * 255 + 6)}):Play()
+				end)
+			end 
+			function ElementFunction:AddColorpicker(ColorpickerConfig)
+				ColorpickerConfig = ColorpickerConfig or {}
+				ColorpickerConfig.Name = ColorpickerConfig.Name or "Colorpicker"
+				ColorpickerConfig.Default = ColorpickerConfig.Default or Color3.fromRGB(255,255,255)
+				ColorpickerConfig.Callback = ColorpickerConfig.Callback or function() end
+				ColorpickerConfig.Flag = ColorpickerConfig.Flag or nil
+				ColorpickerConfig.Save = ColorpickerConfig.Save or false
+
+				local ColorH, ColorS, ColorV = 1, 1, 1
+				local Colorpicker = {Value = ColorpickerConfig.Default, Toggled = false, Type = "Colorpicker", Save = ColorpickerConfig.Save}
+
+				local ColorSelection = Create("ImageLabel", {
+					Size = UDim2.new(0, 18, 0, 18),
+					Position = UDim2.new(select(3, Color3.toHSV(Colorpicker.Value))),
+					ScaleType = Enum.ScaleType.Fit,
+					AnchorPoint = Vector2.new(0.5, 0.5),
+					BackgroundTransparency = 1,
+					Image = "http://www.roblox.com/asset/?id=4805639000"
+				})
+
+				local HueSelection = Create("ImageLabel", {
+					Size = UDim2.new(0, 18, 0, 18),
+					Position = UDim2.new(0.5, 0, 1 - select(1, Color3.toHSV(Colorpicker.Value))),
+					ScaleType = Enum.ScaleType.Fit,
+					AnchorPoint = Vector2.new(0.5, 0.5),
+					BackgroundTransparency = 1,
+					Image = "http://www.roblox.com/asset/?id=4805639000"
+				})
+
+				local Color = Create("ImageLabel", {
+					Size = UDim2.new(1, -25, 1, 0),
+					Visible = false,
+					Image = "rbxassetid://4155801252"
+				}, {
+					Create("UICorner", {CornerRadius = UDim.new(0, 5)}),
+					ColorSelection
+				})
+
+				local Hue = Create("Frame", {
+					Size = UDim2.new(0, 20, 1, 0),
+					Position = UDim2.new(1, -20, 0, 0),
+					Visible = false
+				}, {
+					Create("UIGradient", {Rotation = 270, Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 4)), ColorSequenceKeypoint.new(0.20, Color3.fromRGB(234, 255, 0)), ColorSequenceKeypoint.new(0.40, Color3.fromRGB(21, 255, 0)), ColorSequenceKeypoint.new(0.60, Color3.fromRGB(0, 255, 255)), ColorSequenceKeypoint.new(0.80, Color3.fromRGB(0, 17, 255)), ColorSequenceKeypoint.new(0.90, Color3.fromRGB(255, 0, 251)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 0, 4))},}),
+					Create("UICorner", {CornerRadius = UDim.new(0, 5)}),
+					HueSelection
+				})
+
+				local ColorpickerContainer = Create("Frame", {
+					Position = UDim2.new(0, 0, 0, 32),
+					Size = UDim2.new(1, 0, 1, -32),
+					BackgroundTransparency = 1,
+					ClipsDescendants = true
+				}, {
+					Hue,
+					Color,
+					Create("UIPadding", {
+						PaddingLeft = UDim.new(0, 35),
+						PaddingRight = UDim.new(0, 35),
+						PaddingBottom = UDim.new(0, 10),
+						PaddingTop = UDim.new(0, 17)
+					})
+				})
+
+				local Click = SetProps(MakeElement("Button"), {
+					Size = UDim2.new(1, 0, 1, 0)
+				})
+
+				local ColorpickerBox = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 4), {
+					Size = UDim2.new(0, 24, 0, 24),
+					Position = UDim2.new(1, -12, 0.5, 0),
+					AnchorPoint = Vector2.new(1, 0.5)
+				}), {
+					AddThemeObject(MakeElement("Stroke"), "Stroke")
+				}), "Main")
+
+				local ColorpickerFrame = AddThemeObject(SetChildren(SetProps(MakeElement("RoundFrame", Color3.fromRGB(255, 255, 255), 0, 5), {
+					Size = UDim2.new(1, 0, 0, 38),
+					Parent = ItemParent
+				}), {
+					SetProps(SetChildren(MakeElement("TFrame"), {
+						AddThemeObject(SetProps(MakeElement("Label", ColorpickerConfig.Name, 15), {
+							Size = UDim2.new(1, -12, 1, 0),
+							Position = UDim2.new(0, 12, 0, 0),
+							Font = Enum.Font.GothamBold,
+							Name = "Content"
+						}), "Text"),
+						ColorpickerBox,
+						Click,
+						AddThemeObject(SetProps(MakeElement("Frame"), {
+							Size = UDim2.new(1, 0, 0, 1),
+							Position = UDim2.new(0, 0, 1, -1),
+							Name = "Line",
+							Visible = false
+						}), "Stroke"), 
+					}), {
+						Size = UDim2.new(1, 0, 0, 38),
+						ClipsDescendants = true,
+						Name = "F"
+					}),
+					ColorpickerContainer,
+					AddThemeObject(MakeElement("Stroke"), "Stroke"),
+				}), "Second")
+
+				AddConnection(Click.MouseButton1Click, function()
+					Colorpicker.Toggled = not Colorpicker.Toggled
+					TweenService:Create(ColorpickerFrame,TweenInfo.new(.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),{Size = Colorpicker.Toggled and UDim2.new(1, 0, 0, 148) or UDim2.new(1, 0, 0, 38)}):Play()
+					Color.Visible = Colorpicker.Toggled
+					Hue.Visible = Colorpicker.Toggled
+					ColorpickerFrame.F.Line.Visible = Colorpicker.Toggled
+				end)
+
+				local function UpdateColorPicker()
+					ColorpickerBox.BackgroundColor3 = Color3.fromHSV(ColorH, ColorS, ColorV)
+					Color.BackgroundColor3 = Color3.fromHSV(ColorH, 1, 1)
+					Colorpicker:Set(ColorpickerBox.BackgroundColor3)
+					ColorpickerConfig.Callback(ColorpickerBox.BackgroundColor3)
+					SaveCfg(game.GameId)
+				end
+
+				ColorH = 1 - (math.clamp(HueSelection.AbsolutePosition.Y - Hue.AbsolutePosition.Y, 0, Hue.AbsoluteSize.Y) / Hue.AbsoluteSize.Y)
+				ColorS = (math.clamp(ColorSelection.AbsolutePosition.X - Color.AbsolutePosition.X, 0, Color.AbsoluteSize.X) / Color.AbsoluteSize.X)
+				ColorV = 1 - (math.clamp(ColorSelection.AbsolutePosition.Y - Color.AbsolutePosition.Y, 0, Color.AbsoluteSize.Y) / Color.AbsoluteSize.Y)
+
+				AddConnection(Color.InputBegan, function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if ColorInput then
+							ColorInput:Disconnect()
+						end
+						ColorInput = AddConnection(RunService.RenderStepped, function()
+							local ColorX = (math.clamp(Mouse.X - Color.AbsolutePosition.X, 0, Color.AbsoluteSize.X) / Color.AbsoluteSize.X)
+							local ColorY = (math.clamp(Mouse.Y - Color.AbsolutePosition.Y, 0, Color.AbsoluteSize.Y) / Color.AbsoluteSize.Y)
+							ColorSelection.Position = UDim2.new(ColorX, 0, ColorY, 0)
+							ColorS = ColorX
+							ColorV = 1 - ColorY
+							UpdateColorPicker()
+						end)
+					end
+				end)
+
+				AddConnection(Color.InputEnded, function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if ColorInput then
+							ColorInput:Disconnect()
+						end
+					end
+				end)
+
+				AddConnection(Hue.InputBegan, function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if HueInput then
+							HueInput:Disconnect()
+						end;
+
+						HueInput = AddConnection(RunService.RenderStepped, function()
+							local HueY = (math.clamp(Mouse.Y - Hue.AbsolutePosition.Y, 0, Hue.AbsoluteSize.Y) / Hue.AbsoluteSize.Y)
+
+							HueSelection.Position = UDim2.new(0.5, 0, HueY, 0)
+							ColorH = 1 - HueY
+
+							UpdateColorPicker()
+						end)
+					end
+				end)
+
+				AddConnection(Hue.InputEnded, function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if HueInput then
+							HueInput:Disconnect()
+						end
+					end
+				end)
+
+				function Colorpicker:Set(Value)
+					Colorpicker.Value = Value
+					ColorpickerBox.BackgroundColor3 = Colorpicker.Value
+					ColorpickerConfig.Callback(Colorpicker.Value)
+				end
+
+				Colorpicker:Set(Colorpicker.Value)
+				if ColorpickerConfig.Flag then				
+					OrionLib.Flags[ColorpickerConfig.Flag] = Colorpicker
+				end
+				return Colorpicker
+			end  
+			return ElementFunction   
+		end	
+
+		local ElementFunction = {}
+
+		function ElementFunction:AddSection(SectionConfig)
+			SectionConfig.Name = SectionConfig.Name or "Section"
+
+			local SectionFrame = SetChildren(SetProps(MakeElement("TFrame"), {
+				Size = UDim2.new(1, 0, 0, 26),
+				Parent = Container
+			}), {
+				AddThemeObject(SetProps(MakeElement("Label", SectionConfig.Name, 14), {
+					Size = UDim2.new(1, -12, 0, 16),
+					Position = UDim2.new(0, 0, 0, 3),
+					Font = Enum.Font.GothamSemibold
+				}), "TextDark"),
+				SetChildren(SetProps(MakeElement("TFrame"), {
+					AnchorPoint = Vector2.new(0, 0),
+					Size = UDim2.new(1, 0, 1, -24),
+					Position = UDim2.new(0, 0, 0, 23),
+					Name = "Holder"
+				}), {
+					MakeElement("List", 0, 6)
+				}),
+			})
+
+			AddConnection(SectionFrame.Holder.UIListLayout:GetPropertyChangedSignal("AbsoluteContentSize"), function()
+				SectionFrame.Size = UDim2.new(1, 0, 0, SectionFrame.Holder.UIListLayout.AbsoluteContentSize.Y + 31)
+				SectionFrame.Holder.Size = UDim2.new(1, 0, 0, SectionFrame.Holder.UIListLayout.AbsoluteContentSize.Y)
+			end)
+
+			local SectionFunction = {}
+			for i, v in next, GetElements(SectionFrame.Holder) do
+				SectionFunction[i] = v 
+			end
+			return SectionFunction
+		end	
+
+		for i, v in next, GetElements(Container) do
+			ElementFunction[i] = v 
+		end
+
+		if TabConfig.PremiumOnly then
+			for i, v in next, ElementFunction do
+				ElementFunction[i] = function() end
+			end    
+			Container:FindFirstChild("UIListLayout"):Destroy()
+			Container:FindFirstChild("UIPadding"):Destroy()
+			SetChildren(SetProps(MakeElement("TFrame"), {
+				Size = UDim2.new(1, 0, 1, 0),
+				Parent = ItemParent
+			}), {
+				AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://3610239960"), {
+					Size = UDim2.new(0, 18, 0, 18),
+					Position = UDim2.new(0, 15, 0, 15),
+					ImageTransparency = 0.4
+				}), "Text"),
+				AddThemeObject(SetProps(MakeElement("Label", "Unauthorised Access", 14), {
+					Size = UDim2.new(1, -38, 0, 14),
+					Position = UDim2.new(0, 38, 0, 18),
+					TextTransparency = 0.4
+				}), "Text"),
+				AddThemeObject(SetProps(MakeElement("Image", "rbxassetid://4483345875"), {
+					Size = UDim2.new(0, 56, 0, 56),
+					Position = UDim2.new(0, 84, 0, 110),
+				}), "Text"),
+				AddThemeObject(SetProps(MakeElement("Label", "Premium Features", 14), {
+					Size = UDim2.new(1, -150, 0, 14),
+					Position = UDim2.new(0, 150, 0, 112),
+					Font = Enum.Font.GothamBold
+				}), "Text"),
+				AddThemeObject(SetProps(MakeElement("Label", "This part of the script is locked to Sirius Premium users. Purchase Premium in the Discord server (discord.gg/sirius)", 12), {
+					Size = UDim2.new(1, -200, 0, 14),
+					Position = UDim2.new(0, 150, 0, 138),
+					TextWrapped = true,
+					TextTransparency = 0.4
+				}), "Text")
+			})
+		end
+		return ElementFunction   
+	end  
+	
+	--if writefile and isfile then
+	--	if not isfile("NewLibraryNotification1.txt") then
+	--		local http_req = (syn and syn.request) or (http and http.request) or http_request
+	--		if http_req then
+	--			http_req({
+	--				Url = 'http://127.0.0.1:6463/rpc?v=1',
+	--				Method = 'POST',
+	--				Headers = {
+	--					['Content-Type'] = 'application/json',
+	--					Origin = 'https://discord.com'
+	--				},
+	--				Body = HttpService:JSONEncode({
+	--					cmd = 'INVITE_BROWSER',
+	--					nonce = HttpService:GenerateGUID(false),
+	--					args = {code = 'sirius'}
+	--				})
+	--			})
+	--		end
+	--		OrionLib:MakeNotification({
+	--			Name = "UI Library Available",
+	--			Content = "New UI Library Available - Joining Discord (#announcements)",
+	--			Time = 8
+	--		})
+	--		spawn(function()
+	--			local UI = game:GetObjects("rbxassetid://11403719739")[1]
+
+	--			if gethui then
+	--				UI.Parent = gethui()
+	--			elseif syn.protect_gui then
+	--				syn.protect_gui(UI)
+	--				UI.Parent = game.CoreGui
+	--			else
+	--				UI.Parent = game.CoreGui
+	--			end
+
+	--			wait(11)
+
+	--			UI:Destroy()
+	--		end)
+	--		writefile("NewLibraryNotification1.txt","The value for the notification having been sent to you.")
+	--	end
+	--end
+	
+
+	
+	return TabFunction
+end   
+
+function OrionLib:Destroy()
+	Orion:Destroy()
+end
+
+return OrionLib
