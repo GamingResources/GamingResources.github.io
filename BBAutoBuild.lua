@@ -1,4 +1,17 @@
 --[[
+                This script has been licensed using Luarmor
+            Unauthorized distribution of this script is forbidden.
+      Any attempts at tampering, reverse engineering or modifying this script's 
+      internal logic will result in a global ban, and make you blacklisted from
+            every single script that has been licensed with Luarmor
+
+        Luarmor v3.4b for Roblox, #1 lua whitelisting system by Federal#9999
+                   https://luarmor.net/
+                                                     
+                 Script ID: b02b433bbccc5fc5e5262dc11c548d36
+]]
+
+--[[
     Synapse Xen v1.1.2 by Synapse GP
     VM Hash: 436232a2dc9ae086c079b0c8bf418a2c1201c23b0a256fe5911ee975d9101672
 ]]
